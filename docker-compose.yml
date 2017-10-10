@@ -1,0 +1,15 @@
+version: '3'
+services:
+  db:
+    image: mysql
+    restart: always
+    env_file:
+      - env
+  magento:
+    image: alexcheng/magento2
+    ports:
+      - "80:80"
+    links:
+      - db
+    env_file:
+      - env
