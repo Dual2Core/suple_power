@@ -10,7 +10,7 @@ services:
   magento:
     image: alexcheng/magento2
     volumes:
-      - ../.:/var/www/html/app
+      - ../.:/var/www/html/
     ports:
       - "80:80"
       - "50000:50000"
