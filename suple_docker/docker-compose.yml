@@ -9,6 +9,8 @@ services:
       - db-data:/var/lib/mysql
   magento:
     image: alexcheng/magento2
+    volumes:
+      - ../.:/var/www/html/app
     ports:
       - "80:80"
       - "50000:50000"
