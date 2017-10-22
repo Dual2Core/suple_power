@@ -5,11 +5,16 @@ services:
     restart: always
     env_file:
       - env
+    volumes:
+      - db-data:/var/lib/mysql
   magento:
     image: alexcheng/magento2
     ports:
       - "80:80"
+      - "50000:50000"
     links:
       - db
     env_file:
       - env
+volumes:
+  db-data:
