@@ -6,7 +6,7 @@
 
 ## Usage
 
-At first, pelase check your tools:
+At first, please check your tools:
 ```bash
 user@ubuntu:~$ docker -v
 Docker version 17.06.2-ce, build cec0b72
