@@ -11,9 +11,13 @@
 
 namespace Symfony\Component\DependencyInjection\Tests;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\DefinitionDecorator;
 
-class DefinitionDecoratorTest extends \PHPUnit_Framework_TestCase
+/**
+ * @group legacy
+ */
+class DefinitionDecoratorTest extends TestCase
 {
     public function testConstructor()
     {
@@ -49,32 +53,6 @@ class DefinitionDecoratorTest extends \PHPUnit_Framework_TestCase
         );
     }
 
-    /**
-     * @dataProvider provideLegacyPropertyTests
-     * @group legacy
-     */
-    public function testLegacySetProperty($property, $changeKey)
-    {
-        $def = new DefinitionDecorator('foo');
-
-        $getter = 'get'.ucfirst($property);
-        $setter = 'set'.ucfirst($property);
-
-        $this->assertNull($def->$getter());
-        $this->assertSame($def, $def->$setter('foo'));
-        $this->assertEquals('foo', $def->$getter());
-        $this->assertEquals(array($changeKey => true), $def->getChanges());
-    }
-
-    public function provideLegacyPropertyTests()
-    {
-        return array(
-            array('factoryClass', 'factory_class'),
-            array('factoryMethod', 'factory_method'),
-            array('factoryService', 'factory_service'),
-        );
-    }
-
     public function testSetPublic()
     {
         $def = new DefinitionDecorator('foo');
@@ -93,6 +71,16 @@ class DefinitionDecoratorTest extends \PHPUnit_Framework_TestCase
         $this->assertSame($def, $def->setLazy(false));
         $this->assertFalse($def->isLazy());
         $this->assertEquals(array('lazy' => true), $def->getChanges());
+    }
+
+    public function testSetAutowired()
+    {
+        $def = new DefinitionDecorator('foo');
+
+        $this->assertFalse($def->isAutowired());
+        $this->assertSame($def, $def->setAutowired(true));
+        $this->assertTrue($def->isAutowired());
+        $this->assertSame(array('autowired' => true), $def->getChanges());
     }
 
     public function testSetArgument()

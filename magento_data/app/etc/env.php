@@ -6,11 +6,7 @@ return array (
   ),
   'crypt' => 
   array (
-    'key' => 'b43f60fdc309be464f66ccd94a9ead93',
-  ),
-  'session' => 
-  array (
-    'save' => 'files',
+    'key' => '5f278de74cdb7cdaeea6da5941685a82',
   ),
   'db' => 
   array (
@@ -39,6 +35,10 @@ return array (
   ),
   'x-frame-options' => 'SAMEORIGIN',
   'MAGE_MODE' => 'default',
+  'session' => 
+  array (
+    'save' => 'files',
+  ),
   'cache_types' => 
   array (
     'config' => 1,
@@ -57,6 +57,6 @@ return array (
   ),
   'install' => 
   array (
-    'date' => 'Mon, 23 Oct 2017 20:52:08 +0000',
+    'date' => 'Thu, 26 Oct 2017 13:36:44 +0000',
   ),
 );

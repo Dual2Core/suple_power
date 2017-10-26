@@ -6,11 +6,11 @@ services:
     env_file:
       - env
     volumes:
-      - db-data:/var/lib/mysql
+      - ~/suple_power/db_data:/var/lib/mysql
   magento:
     image: alexcheng/magento2
     volumes:
-      - magento_data:/var/www/html
+      - ~/suple_power/magento_data:/var/www/html
     ports:
       - "80:80"
       - "50000:50000"
@@ -18,5 +18,3 @@ services:
       - db
     env_file:
       - env
-volumes:
-  db-data:
