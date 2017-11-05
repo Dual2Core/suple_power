@@ -1,0 +1,120 @@
+Export,Eksport
+Export Settings,Ustawienia eksportu
+Entity Type,Typ encji
+Export File Format,Format pliku eksportu
+Fields Enclosure,Obudowa Fields
+From,Od
+To,Do
+We can't filter an attribute with no attribute options.,Nie możemy filtrować atrybutu bez opcji atrybutów.
+Fixed Price: From,Naprawiono cenę: od
+Exclude,Wykluczać
+Attribute Label,Etykieta atrybutu
+Attribute Code,Kod atrybutu
+Filter,Filtr
+Unknown attribute filter type,Nieznany typ filtra atrybutu
+Download,Pobieranie
+Check Data,Sprawdź dane
+Import,Import
+Import Settings,Importuj ustawienia
+Import Behavior,Zachowanie importowe
+ , 
+Stop on Error,Zatrzymaj przy błędzie
+Skip error entries,Pomiń wpisy o błędach
+Allowed Errors Count,Dozwolone błędy Count
+Please specify number of errors to halt import process,"Określ liczbę błędów, aby zatrzymać proces importowania"
+Field separator,Separator pól
+Multiple value separator,Wiele separatora wartości
+Fields enclosure,Obudowa pól
+File to Import,Plik do zaimportowania
+Select File to Import,Wybierz Plik do importu
+Images File Directory,Katalog plików obrazów
+"For Type ""Local Server"" use relative path to Magento installation,
+                                e.g. var/export, var/import, var/export/some/dir","""Dla typu"" ""Lokalny serwer"" ""użyj względnej ścieżki do instalacji Magento,                                 na przykład var / export, var / import, var / export / some / dir """
+Download Sample File,Pobierz przykładowy plik
+Please correct the data sent value.,Popraw dane przesłane wartości.
+Import/Export,Import Eksport
+History,Historia
+Import History,Importuj historię
+Import history,Importuj historię
+There is no sample file for this entity.,Nie ma przykładowego pliku dla tego obiektu.
+Status,Status
+Maximum error count has been reached or system error is occurred!,Osiągnięto maksymalną liczbę błędów lub wystąpił błąd systemu!
+Import successfully done,Import został pomyślnie zakończony
+"Sorry, but the data is invalid or the file is not uploaded.","Przepraszamy, ale dane są nieprawidłowe lub plik nie został przesłany."
+The file was not uploaded.,Plik nie został przesłany.
+Data validation failed. Please fix the following errors and upload the file again.,Sprawdzanie danych nie powiodło się. Napraw poniższe błędy i prześlij plik ponownie.
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone wiersze: %1, zaznaczone obiekty: %2, nieprawidłowe wiersze: %3, błędy całkowite: %4"
+This file is empty. Please try another one.,Ten plik jest pusty. Proszę spróbować innego.
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Napraw błędy i ponownie prześlij plik lub po prostu naciśnij przycisk ""Importuj"", aby pominąć wiersze z błędami"
+"File is valid! To start import process press ""Import"" button","Plik jest ważny! Aby rozpocząć proces importowania, naciśnij przycisk ""Importuj"""
+"The file is valid, but we can't import it for some reason.","Plik jest prawidłowy, ale z jakiegoś powodu nie możemy go zaimportować."
+Show more,Pokaż więcej
+Additional data,Dodatkowe dane
+Following Error(s) has been occurred during importing process:,Następujące błędy wystąpiły podczas importowania:
+Only the first 100 errors are shown. ,Pokazano tylko pierwsze 100 błędów.
+Download full report,Pobierz pełny raport
+in row(s):,w rzędzie (ach):
+Make sure your file isn't more than %1M.,"Upewnij się, że plik nie jest większy niż %1M."
+We can't provide the upload settings right now.,Nie możemy teraz przesłać ustawień przesyłania.
+"Created: %1, Updated: %2, Deleted: %3","Utworzono: %1, zaktualizowano: %2, usunięto: %3"
+Please enter a correct entity model.,Wprowadź prawidłowy model jednostki.
+The entity adapter object must be an instance of %1 or %2.,Obiekt adaptera jednostki musi być instancją %1 lub %2.
+The input entity code is not equal to entity adapter code.,Kod jednostki wejściowej nie jest równy kodowi adaptera jednostki.
+Please enter a correct entity.,Wprowadź poprawną jednostkę.
+The adapter object must be an instance of %1.,Obiekt adaptera musi być instancją %1.
+Please correct the file format.,Proszę poprawić format pliku.
+Begin export of %1,Rozpocznij eksport %1
+There is no data for the export.,Brak danych do eksportu.
+Exported %1 rows.,Wyeksportowano %1 wierszy.
+The export is finished.,Eksport został zakończony.
+Please provide filter data.,Podaj dane filtra.
+We can't determine the attribute filter type.,Nie możemy określić typu filtra atrybutu.
+Entity is unknown,Podmiot jest nieznany
+We can't identify this file format.,Nie możemy zidentyfikować tego formatu pliku.
+"Please correct the value for ""%1"" column.","Popraw wartość w kolumnie "" %1""."
+Please specify the writer.,Proszę określić pisarza.
+The destination file path must be a string.,Ścieżka do pliku docelowego musi być łańcuchem.
+The destination directory is not writable.,Katalog docelowy nie jest zapisywalny.
+Destination file is not writable,Plik docelowy nie jest zapisywalny
+The header column names are already set.,Nazwy kolumn nagłówka są już ustawione.
+in row(s),w rzędzie (ach)
+The validation is complete.,Sprawdzanie poprawności zostało zakończone.
+This file does not contain any data.,Ten plik nie zawiera żadnych danych.
+"Begin import of ""%1"" with ""%2"" behavior","Rozpocznij import "" %1"" z zachowaniem "" %2"""
+The import was successful.,Import się powiódł.
+The file you uploaded has no extension.,Przesłany plik nie ma rozszerzenia.
+The source file moving process failed.,Proces przenoszenia pliku źródłowego nie powiódł się.
+Begin data validation,Rozpocznij sprawdzanie danych
+Import data validation is complete.,Sprawdzanie poprawności danych importu zostało zakończone.
+The behavior token for %1 is invalid.,Token zachowania dla %1 jest nieprawidłowy.
+Please enter a correct entity model,Wprowadź prawidłowy model jednostki
+Source file coping failed,Nie powiodło się kopiowanie pliku źródłowego
+The source is not set.,Źródło nie jest ustawione.
+The adapter type must be a non-empty string.,Typ adaptera musi być niepustym ciągiem.
+'%1' file extension is not supported,"Rozszerzenie pliku "" %1"" nie jest obsługiwane"
+Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource,Adapter musi być instancją \ Magento \ ImportExport \ Model \ Import \ AbstractSource
+Please specify a source.,Proszę podać źródło.
+ImportExport: Import Data validation - Validation strategy not found,ImportExport: Sprawdzanie danych importu - nie znaleziono strategii sprawdzania poprawności
+Cannot get autoincrement value,Nie można uzyskać wartości autoinkrementacji
+Error in data structure: %1 values are mixed,Błąd w strukturze danych: wartości %1 są mieszane
+-- Please Select --,-- Proszę wybrać --
+label,etykieta
+Add/Update,Dodaj / zaktualizuj
+Replace,Zastąpić
+Delete,Kasować
+Note: Product IDs will be regenerated.,Uwaga: identyfikatory produktów zostaną zregenerowane.
+Add/Update Complex Data,Dodaj / aktualizuj złożone dane
+Delete Entities,Usuń elementy
+Custom Action,Działanie niestandardowe
+Error message,Komunikat o błędzie
+URL key for specified store already exists.,Klucz URL dla określonego sklepu już istnieje.
+Entity Attributes,Atrybuty jednostki
+Continue,Kontyntynuj
+Validation Results,Wyniki walidacji
+ID,ID
+Start Date&Time,Data rozpoczęcia i godzina
+User,Użytkownik
+Imported File,Zaimportowany plik
+Error File,Plik błędu
+Execution Time,Czas egzekucji
+Summary,Podsumowanie

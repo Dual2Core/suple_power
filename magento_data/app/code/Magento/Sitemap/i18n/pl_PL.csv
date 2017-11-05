@@ -1,0 +1,66 @@
+Save & Generate,Zapisz i wygeneruj
+Edit Sitemap,Edytuj mapę witryny
+New Sitemap,Nowa mapa witryny
+Sitemap Information,Informacje o mapie
+Sitemap,Mapa witryny
+Filename,Nazwa pliku
+example: sitemap.xml,przykład: sitemap.xml
+Path,Ścieżka
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","przykład: ""/ sitemap /"" lub ""/"" dla ścieżki bazowej (ścieżka musi być zapisywalna)"
+Store View,Widok sklepu
+Generate,Generować
+XML Sitemap,Mapa witryny XML
+Add Sitemap,Dodaj mapę witryny
+Catalog,Katalog
+You deleted the sitemap.,Usunąłeś mapę witryny.
+We can't find a sitemap to delete.,Nie możemy znaleźć mapy witryny do usunięcia.
+This sitemap no longer exists.,Ta mapa witryny już nie istnieje.
+Site Map,Mapa witryny
+New Site Map,Nowa mapa witryny
+"The sitemap ""%1"" has been generated.","Mapa witryny "" %1"" została wygenerowana."
+We can't generate the sitemap right now.,Nie możemy teraz wygenerować mapy witryny.
+We can't find a sitemap to generate.,Nie możemy znaleźć mapy witryny do wygenerowania.
+You saved the sitemap.,Zapisałeś mapę witryny.
+The priority must be between 0 and 1.,Priorytet musi należeć do zakresu od 0 do 1.
+Always,Zawsze
+Hourly,Cogodzinny
+Daily,Codziennie
+Weekly,Co tydzień
+Monthly,Miesięczny
+Yearly,Rocznie
+Never,Nigdy
+File handler unreachable,Obsługa plików nieosiągalna
+Please define a correct path.,Zdefiniuj poprawną ścieżkę.
+"Please create the specified folder ""%1"" before saving the sitemap.","Utwórz folder "" %1"" przed zapisaniem mapy witryny."
+"Please make sure that ""%1"" is writable by the web-server.","Upewnij się, że "" %1"" jest zapisywalny przez serwer WWW."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","W nazwie pliku należy używać wyłącznie liter (a-z lub A-Z), cyfr (0-9) lub podkreśleń (_). Żadne spacje ani inne znaki nie są dozwolone."
+None,Żaden
+Base Only,Tylko baza
+All,Wszystko
+Sitemap generate Warnings,Mapa witryny generuje ostrzeżenia
+Sitemap Generation Warnings,Ostrzeżenia generujące mapę witryny
+XML Sitemap Section,Sekcja mapy witryny XML
+Categories Options,Kategorie Opcje
+Frequency,Częstotliwość
+Priority,Priorytet
+Valid values range from 0.0 to 1.0.,"Prawidłowe wartości mieszczą się w zakresie od 0,0 do 1,0."
+Products Options,Opcje produktów
+Add Images into Sitemap,Dodaj zdjęcia do mapy witryny
+CMS Pages Options,Opcje stron CMS
+Generation Settings,Ustawienia generacji
+Enabled,Włączone
+Error Email Recipient,Adres e-mail odbiorcy błędu
+Error Email Sender,Błąd e-maila nadawcy
+Error Email Template,Szablon e-maila z błędem
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrano szablon wiadomości e-mail na podstawie zastępczego motywu, gdy wybrano opcję ""Domyślne""."
+Start Time,Czas rozpoczęcia
+Sitemap File Limits,Limity plików mapy witryny
+Maximum No of URLs Per File,Maksymalna liczba adresów URL na plik
+Maximum File Size,Maksymalny rozmiar pliku
+File size in bytes.,Rozmiar pliku w bajtach.
+Search Engine Submission Settings,Ustawienia przesyłania wyszukiwarki
+Enable Submission to Robots.txt,Włącz przesyłanie do pliku Robots.txt
+ID,ID
+Link for Google,Link do Google
+Last Generated,Ostatnia generacja
+Action,Akcja

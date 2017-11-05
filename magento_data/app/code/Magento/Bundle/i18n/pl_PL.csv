@@ -1,0 +1,107 @@
+Percent Discount,Rabat procentowy
+-- Select --,-- Wybierz --
+Dynamic,Dynamiczny
+Fixed,Naprawiony
+Create New Option,Utwórz nową opcję
+Bundle Items,Elementy powiązane
+Add Products to Option,Dodaj produkty do opcji
+Close,Blisko
+Delete Option,Usuń opcję
+What are you looking for?,Czego szukasz?
+ID,ID
+Product,Produkt
+SKU,SKU
+Price,Cena
+Delete,Kasować
+Use Default Value,Użyj wartości domyślnej
+"There is no defined renderer for ""%1"" option type.","Nie ma zdefiniowanego renderera dla typu opcji "" %1""."
+Only implemented for bundle product,Stosowany tylko do produktów pakietowych
+"Product with specified sku: ""%1"" is not a bundle product","Produkt o określonym dokumencie: "" %1"" nie jest produktem pakietowym"
+Bundle product could not contain another composite product,Produkt wiązany nie mógł zawierać innego produktu złożonego
+Id field of product link is required,Wymagane jest pole identyfikacyjne linku produktu
+"Can not find product link with id ""%1""","Nie można znaleźć linku produktu z identyfikatorem "" %1"""
+"Could not save child: ""%1""","Nie można zapisać dziecka: "" %1"""
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Produkt o określonym dokumencie: "" %1"" nie zawiera opcji: "" %2"""
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: "" %1"" już przypisane do produktu: "" %2"""
+Product with specified sku: %1 is not a bundle product,Produkt z określonym sku: %1 nie jest produktem pakietowym
+Requested bundle option product doesn't exist,Żądany produkt opcji wiązki nie istnieje
+%fieldName is a required field.,% fieldName to wymagane pole.
+Requested option doesn't exist,Żądana opcja nie istnieje
+Cannot delete option with id %1,Nie można usunąć opcji z id %1
+Could not save option,Nie można zapisać opcji
+Price Range,Przedział cenowy
+As Low as,Tak niski jak
+Together,Razem
+Separately,Osobno
+Please specify product option(s).,Proszę podać opcję produktu.
+The options you selected are not available.,Wybrane opcje nie są dostępne.
+The required options you selected are not available.,Wymagane opcje nie są dostępne.
+Please select all required options.,Proszę wybrać wszystkie wymagane opcje.
+We can't add this item to your shopping cart right now.,Nie możemy teraz dodać tej pozycji do Twojego koszyka.
+N/A,Nie dotyczy
+Percent,Procent
+We can't save custom-defined options for bundles with dynamic pricing.,Nie możemy zapisać niestandardowych opcji dla grup z dynamiczną ceną.
+Cancel,Anuluj
+Add Selected Products,Dodaj wybrane produkty
+Add Option,Dodaj opcję
+New Option,Nowa opcja
+Option Title,Tytuł opcji
+Default Title,Domyślny Tytuł
+Store View Title,Tytuł widoku magazynu
+Input Type,Typ wejścia
+Drop-down,Upuścić
+Radio Buttons,Przyciski radiowe
+Checkbox,Skrzynka kontrolna
+Multiple Select,Wybór wielokrotny
+Required,wymagany
+Is Default,Domyślnie
+Name,Nazwa
+Default Quantity,Domyślna ilość
+User Defined,Określony przez użytkownika
+Price Type,Typ ceny
+None,Żaden
+Quantity:,Ilość:
+Choose a selection...,Wybierz wybór ...
+Ship Bundle Items,Składniki Bundle Ship
+Position,Pozycja
+There are no products in this option.,Brak produktów w tej opcji.
+Default,Zaniedbanie
+Ordered,Zamówione
+Invoiced,Zafakturowane
+Shipped,Wysłane
+Refunded,Zwrot
+Canceled,Odwołany
+As low as,Tak niski jak
+Regular Price,Normalna cena
+From,Od
+To,Do
+Buy %1 with %2 discount each,Kup %1 z rabatem %2
+Go back to product details,Wróć do szczegółów produktu
+Customize and Add to Cart,Dostosuj i dodaj do koszyka
+* Required Fields,* Wymagane pola
+Your Customization,Dostosowanie
+Availability,Dostępność
+In stock,W magazynie
+Out of stock,Obecnie brak na stanie
+Summary,Podsumowanie
+%1 x %2, %1 x %2
+Availability:,Dostępność:
+Quantity,Ilość
+Customize %1,Dostosuj %1
+No options of this product are available.,Brak dostępnych opcji tego produktu.
+Gift Message,Prezent
+From:,Od:
+To:,Do:
+Message:,Wiadomość:
+Product Name,Nazwa produktu
+Subtotal,Razem
+Discount Amount,Kwota rabatu
+Row Total,Razem Razem
+Qty Invoiced,Ilość fakturowana
+Qty Shipped,Ilość wysłana
+Add Products to New Option,Dodaj produkty do nowej opcji
+"Add Products to Option ""%1""","Dodaj produkty do opcji "" %1"""
+Select...,Wybierz...
+Status,Status
+Thumbnail,Miniaturka
+Type,Rodzaj

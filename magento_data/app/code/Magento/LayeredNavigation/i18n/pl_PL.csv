@@ -1,0 +1,29 @@
+No,Nie
+Filterable (with results),Filtrowalne (z wynikami)
+Filterable (no results),Filtrowalne (brak wyników)
+Use in Layered Navigation,Użyj w nawigacji warstwowej
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Może być używany tylko z typem wejścia do listy rozwijanej, wyboru wielokrotnego i ceny"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Może być używany tylko z typem wejścia do listy rozwijanej, wyboru wielokrotnego i ceny."
+Use in Search Results Layered Navigation,Użyj w wynikach wyszukiwania Nawigacja warstwowa
+Position,Pozycja
+Position in Layered Navigation,Pozycja w Warstwowej nawigacji
+Position of attribute in layered navigation block.,Pozycja atrybutu w warstwowym bloku nawigacyjnym.
+item,pozycja
+items,przedmiotów
+Now Shopping by,Teraz zakupy wg
+Previous,Poprzedni
+Remove,Usunąć
+Remove This Item,Usuń ten przedmiot
+Shop By,Kupuj według
+Clear All,Wyczyść wszystko
+Shopping Options,Opcje zakupów
+Layered Navigation,Nawigacja warstwowa
+Display Product Count,Wyświetl liczbę produktów
+Price Navigation Step Calculation,Kalkulacja kroku nawigacji ceny
+Default Price Navigation Step,Domyślny krok nawigacji cenowej
+Maximum Number of Price Intervals,Maksymalna liczba przedziałów cenowych
+Maximum number of price intervals is 100,Maksymalna liczba przedziałów cenowych to 100
+Display Price Interval as One Price,Wyświetl przedział cenowy jako jedną cenę
+This setting will be applied when all prices in the specific price interval are equal.,"To ustawienie zostanie zastosowane, gdy wszystkie ceny w danym przedziale cenowym będą równe."
+Interval Division Limit,Limit przedziałów przedziału
+"Please specify the number of products, that will not be divided into subintervals.","Proszę podać liczbę produktów, które nie zostaną podzielone na podprzedziały.Tłumacz Google dla Firm:Narzędzia dla tłumaczyTłumacz stron "

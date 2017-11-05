@@ -1,0 +1,72 @@
+Widget Insertion,Wstawianie widżetów
+Insert Widget,Wstaw widget
+label,etykieta
+Choose...,Wybierać...
+Close,Blisko
+Not Selected,Nie zaznaczone
+Widget,Widget
+Widget Type,Typ widżetu
+-- Please Select --,-- Proszę wybrać --
+Manage Widget Instances,Zarządzaj instancjami widgetów
+Add Widget,Dodaj widżet
+Save and Continue Edit,Zapisz i kontynuuj edycję
+"Widget ""%1""","Widżet "" %1"""
+New Widget Instance,Nowa instancja widgetu
+Custom Layouts,Niestandardowe układy
+Page Layouts,Układy stron
+Please Select Container First,Najpierw wybierz kontener
+Storefront Properties,Właściwości sklepu
+Type,Rodzaj
+Design Package/Theme,Zaprojektuj pakiet / motyw
+Widget Title,Tytuł widżetu
+Assign to Store Views,Przypisz do przechowania widoków
+Sort Order,Porządek sortowania
+Sort Order of widget instances in the same container,Sortuj kolejność instancji widgetów w tym samym kontenerze
+Layout Updates,Aktualizacje układu
+Categories,Kategorie
+Anchor Categories,Kategorie zakotwiczenia
+Non-Anchor Categories,Kategorie bez kotwicy
+All Product Types,Wszystkie typy produktów
+Products,Produkty
+Generic Pages,Strony ogólne
+All Pages,Wszystkie strony
+Specified Page,Określona strona
+Add Layout Update,Dodaj aktualizację układu
+Remove Layout Update,Usuń aktualizację układu
+Widget Options,Opcje widżetu
+Settings,Ustawienia
+Design Theme,Motyw projektu
+Continue,Kontyntynuj
+Please specify a Widget Type.,Podaj typ widżetu.
+CMS,CMS
+Please specify a correct widget.,Podaj poprawny widżet.
+The widget instance has been deleted.,Instancja widgetu została usunięta.
+New Widget,Nowy widget
+Widgets,Widżety
+The widget instance has been saved.,Instancja widgetu została zapisana.
+name,Nazwa
+description,opis
+We cannot create the widget instance because it is missing required information.,"Nie możemy utworzyć instancji widgetu, ponieważ brakuje wymaganych informacji."
+None,Żaden
+%1, %1
+Container,Pojemnik
+Template,Szablon
+All,Wszystko
+Specific %1,Konkretny %1
+Open Chooser,Otwórz Chooser
+Apply,Zastosować
+Page,Strona
+Orders and Returns,Zamówienia i zwroty
+Orders and Returns Search Form,Formularz wyszukiwania zamówień i zwrotów
+Anchor Custom Title,Anchor Custom Title
+CMS Page Link Block Template,Szablon blokowania strony strony CMS
+CMS Page Link Inline Template,Szablon wbudowany Link strony CMS
+Display a Link to Loading a Spreadsheet,Wyświetl link do ładowania arkusza kalkulacyjnego
+Defines whether a link to My Account,"Określa, czy link do Mojego konta"
+Link Text,Link Text
+The text of the link to the My Account &gt; Order by SKU page,Tekst linku do Mojego konta & gt; Zamów przez stronę SKU
+Load a list of SKUs,Załaduj listę kodów SKU
+Product,Produkt
+Select Product...,Wybierz produkt ...
+Conditions,Warunki
+Widget ID,Identyfikator widżetu

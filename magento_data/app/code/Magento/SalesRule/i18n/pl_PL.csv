@@ -1,0 +1,161 @@
+Cart Price Rules,Reguły cen koszyka
+Add New Rule,Dodaj nową regułę
+Delete,Kasować
+Are you sure you want to delete this?,Czy na pewno chcesz to usunąć?
+Reset,Nastawić
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Save,Zapisać
+Actions,działania
+Apply the rule only to cart items matching the following conditions (leave blank for all items).,Zastosuj tę zasadę tylko do przedmiotów koszyka spełniających następujące warunki (pozostaw puste dla wszystkich pozycji).
+Apply To,Zastosuj do
+Conditions,Warunki
+Apply the rule only if the following conditions are met (leave blank for all products).,"Zastosuj regułę tylko wtedy, gdy spełnione są następujące warunki (pozostaw puste dla wszystkich produktów)."
+Manage Coupon Codes,Zarządzaj kodami kuponów
+Coupon Qty,Wartość kuponu
+Code Length,Długość kodu
+"Excluding prefix, suffix and separators.","Z wyłączeniem prefiksu, sufiksu i separatorów."
+Code Format,Format kodu
+Code Prefix,Przedrostek kodu
+Code Suffix,Sufiks kodu
+Dash Every X Characters,Dash Every X Postacie
+If empty no separation.,"Jeśli puste, brak separacji."
+Generate,Generować
+Coupon Code,Kod kuponu
+Created,Stworzony
+Uses,Używa
+No,Nie
+Yes,tak
+Times Used,Używane czasy
+CSV,CSV
+Excel XML,Excel XML
+Are you sure you want to delete the selected coupon(s)?,Czy na pewno chcesz usunąć wybrane kupony?
+Labels,Etykiety
+Store View Specific Labels,Przechowuj Zobacz określone etykiety
+ID,ID
+Rule,Reguła
+Start,Początek
+End,Koniec
+Status,Status
+%1 - Discounts and Coupons,% 1 - Rabaty i kupony
+Coupons/Discounts,Kupony / rabaty
+Promotions,Promocje
+You deleted the rule.,Usunąłeś regułę.
+We can't delete the rule right now. Please review the log and try again.,Nie możemy teraz usunąć reguły. Sprawdź dziennik i spróbuj ponownie.
+We can't find a rule to delete.,Nie możemy znaleźć reguły do ​​usunięcia.
+This rule no longer exists.,Ta reguła już nie istnieje.
+Edit Rule,Edytuj regułę
+New Rule,Nowa zasada
+New Cart Price Rule,Nowa reguła ceny koszyka
+Rule is not defined,Reguła nie jest zdefiniowana
+%1 coupon(s) have been generated.,Wygenerowano% 1 kuponów.
+Invalid data provided,Podano nieprawidłowe dane
+Something went wrong while generating coupons. Please review the log and try again.,Coś poszło nie tak podczas generowania kuponów. Sprawdź dziennik i spróbuj ponownie.
+Catalog,Katalog
+The wrong rule is specified.,Podano niewłaściwą regułę.
+You saved the rule.,Zapisałeś regułę.
+Something went wrong while saving the rule data. Please review the error log.,Coś poszło nie tak podczas zapisywania danych reguły. Sprawdź dziennik błędów.
+Alphanumeric,Alfanumeryczne
+Alphabetical,Alfabetyczny
+Numeric,Numeryczne
+We cannot create the requested Coupon Qty. Please check your settings and try again.,Nie możemy utworzyć żądanej kwoty kuponu. Sprawdź ustawienia i spróbuj ponownie.
+Specified rule does not allow coupons,Określona reguła nie zezwala na kupony
+Specified rule only allows auto generated coupons,Określona reguła zezwala tylko na kupony generowane automatycznie
+Specified rule does not allow auto generated coupons,Określona reguła nie zezwala na automatyczne generowanie kuponów
+Error occurred when saving coupon: %1,Wystąpił błąd podczas zapisywania kuponu:% 1
+Discount (%1),Rabat (% 1)
+Discount,Zniżka
+Coupon with the same code,Kupon z tym samym kodem
+No Coupon,Bez kuponu
+Specific Coupon,Konkretny kupon
+Auto,Automatyczny
+Can't acquire coupon.,Nie można uzyskać kuponu.
+Update the Product,Zaktualizuj produkt
+Special Price,Cena promocyjna
+To Fixed Value,Do stałej wartości
+To Percentage,Do wartości procentowej
+By Fixed value,Według stałej wartości
+By Percentage,Według wartości procentowej
+Update product's %1 %2: %3,Zaktualizuj produkt% 1% 2:% 3
+Subtotal,Suma częściowa
+Total Items Quantity,Całkowita ilość produktów
+Total Weight,Waga całkowita
+Shipping Method,Sposób wysyłki
+Shipping Postcode,Kod pocztowy wysyłki
+Shipping Region,Wysyłka Region
+Shipping State/Province,Państwo wysyłkowe / prowincja
+Shipping Country,Kraj wysyłki
+Product attribute combination,Kombinacja atrybutów produktu
+Products subselection,Podselekcja produktów
+Conditions combination,Połączenie warunków
+Cart Attribute,Atrybut koszyka
+Quantity in cart,Ilość w koszyku
+Price in cart,Cena w koszyku
+Row total in cart,Całkowita liczba wierszy w koszyku
+Conditions Combination,Warunki Połączenie
+Cart Item Attribute,Atrybut pozycji koszyka
+Product Attribute,Atrybut produktu
+FOUND,UZNANY
+NOT FOUND,NIE ZNALEZIONO
+If an item is %1 in the cart with %2 of these conditions true:,Jeśli przedmiot jest% 1 w koszyku z% 2 z tych warunków jest prawdziwy:
+total quantity,całkowita ilość
+total amount,całkowita kwota
+is,jest
+is not,nie jest
+equals or greater than,jest równy lub większy niż
+equals or less than,jest równy lub mniejszy niż
+greater than,lepszy niż
+less than,mniej niż
+is one of,jest jednym z
+is not one of,nie jest jednym z nich
+If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,Jeśli% 1% 2% 3 dla podsekcji pozycji w koszyku odpowiadającym% 4 z tych warunków:
+Percent of product price discount,Procent obniżki ceny produktu
+Fixed amount discount,Stała zniżka ilościowa
+Fixed amount discount for whole cart,Stała zniżka dla całego koszyka
+Buy X get Y free (discount amount is Y),Kup X get Y za darmo (kwota rabatu to Y)
+Active,Aktywny
+Inactive,Nieaktywny
+Specified rule does not allow automatic coupon generation,Określona reguła nie pozwala na automatyczne generowanie kuponów
+Error occurred when generating coupons: %1,Wystąpił błąd podczas generowania kuponów:% 1
+Some coupons are invalid.,Niektóre kupony są nieprawidłowe.
+Item totals are not set for the rule.,Sumy elementów nie są ustawione dla reguły.
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","% 1 Reguły koszyka na zakupy oparte na atrybucie ""% 2"" zostały wyłączone."
+Apply Discount Code,Zastosuj kod rabatowy
+Enter discount code,Wprowadź kod rabatowy
+Apply Discount,Zastosuj zniżkę
+Cancel coupon,Anuluj kupon
+Your coupon was successfully removed.,Twój kupon został pomyślnie usunięty.
+Your coupon was successfully applied.,Twój kupon został pomyślnie zastosowany.
+Promotion,Promocja
+Auto Generated Specific Coupon Codes,Automatycznie generowane określone kody kuponów
+Web Site,Stronie internetowej
+Priority,Priorytet
+Cart Price Rule,Reguła ceny koszyka
+Back,Plecy
+Currently Active,Obecnie aktywny
+Rule Information,Informacje o regule
+Rule Name,Nazwa reguły
+Description,Opis
+Websites,Strony internetowe
+Customer Groups,Grupy klientów
+Coupon,Kupon
+"
+                    If you select and save the rule you will be able to generate multiple coupon codes.
+                ","Jeśli wybierzesz i zapiszesz regułę, będziesz mógł wygenerować wiele kodów kuponów."
+Use Auto Generation,Użyj automatycznego generowania
+Uses per Coupon,Wykorzystuje na kupon
+"
+                    Usage limit enforced for logged in customers only.
+                ",Limit używania egzekwowany tylko dla zalogowanych klientów.
+Uses per Customer,Używa na klienta
+From,Od
+To,Do
+Public In RSS Feed,Publiczne w kanale RSS
+Apply,Zastosować
+Discount Amount,Kwota rabatu
+Maximum Qty Discount is Applied To,Maksymalny rabat ilościowy jest stosowany
+Discount Qty Step (Buy X),Rabat Ilość kroku (Kup X)
+Discount amount is applied to subtotal only,Kwota rabatu jest stosowana tylko do podsumy
+Discount amount is applied to subtotal and shipping amount separately,Kwota rabatu jest naliczana oddzielnie od sumy częściowej i wysyłki
+Apply to Shipping Amount,Zastosuj do kwoty wysyłki
+Discard subsequent rules,Odrzuć kolejne zasady
+Default Rule Label for All Store Views,Domyślna etykieta reguły dla wszystkich widoków sklepu

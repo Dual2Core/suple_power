@@ -1,0 +1,83 @@
+Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.,"Wybierz to, aby DHL zoptymalizował koszty wysyłki, dzieląc zamówienie, jeśli przekroczy %1 %2."
+Wrong Content Type,Niewłaściwy typ zawartości
+Pounds,Pounds
+Kilograms,Kilogramy
+Inches,Cale
+Centimeters,Cm
+inch,cal
+cm,cm
+Height,Wysokość
+Depth,Głębokość
+Width,Szerokość
+Regular,Regularny
+Specific,Konkretny
+Easy shop,Łatwy sklep
+Sprintline,Sprintline
+Secureline,Secureline
+Express easy,Express łatwe
+Europack,Europack
+Break bulk express,Przeniesienie luzem
+Medical express,Medycyna ekspresowa
+Express worldwide,Express na całym świecie
+Express 9:00,Express 9:00
+Express 10:30,Express 10:30
+Domestic economy select,Wybierz krajową gospodarkę
+Economy select,Wybór ekonomiczny
+Break bulk economy,Przerwa na dużą skalę
+Domestic express,Krajowy ekspresowy
+Others,Inne
+Globalmail business,Biznes Globalmail
+Same day,Ten sam dzień
+Express 12:00,Express 12:00
+Express envelope,Ekspresowa koperta
+Customer services,Obsługa klienta
+Jetline,Jetline
+Freight worldwide,Freight na całym świecie
+Jumbo box,Skrzynka Jumbo
+DHL service is not available at %s date,Usługa DHL nie jest dostępna w% s
+The response is in wrong format.,Odpowiedź jest w złym formacie.
+Error #%1 : %2,Błąd # %1: %2
+We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).,"Musieliśmy pominąć metodę DHL %1, ponieważ nie można było znaleźć kursu walutowego %2 (waluta podstawowa)."
+Zero shipping charge for '%1',"Opłata za wysyłkę za "" %1"""
+DHL,DHL
+Cannot identify measure unit for %1,Nie można zidentyfikować jednostki miary dla %1
+Cannot identify weight unit for %1,Nie można zidentyfikować jednostki wagowej dla %1
+There is no items in this order,W tym zamówieniu nie ma żadnych elementów
+Please specify origin country.,Proszę podać kraj pochodzenia.
+Documents,Dokumenty
+Non Documents,Nie dokumenty
+"Height, width and length should be equal or greater than %1","Wysokość, szerokość i długość powinny być równe lub większe niż %1"
+Wrong Region,Niewłaściwy Region
+Unable to retrieve tracking,Nie można pobrać śledzenia
+Response is in the wrong format,Odpowiedź jest w złym formacie
+No packages for request,Na życzenie nie ma pakietów
+Unable to retrieve shipping label,Nie można pobrać etykiety wysyłkowej
+Non documents,Brak dokumentów
+None,Żaden
+Field ,Pole
+ is required., jest wymagane.
+Enabled for Checkout,Włączono dla usługi Checkout
+Gateway URL,Adres URL bramy
+Title,Tytuł
+Access ID,Identyfikator dostępu
+Password,Hasło
+Account Number,Numer konta
+Content Type,Typ zawartości
+Calculate Handling Fee,Oblicz opłatę manipulacyjną
+Handling Applied,Stosowanie
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Za zamówienie"" umożliwia jednorazową opłatę manipulacyjną za całe zamówienie. ""Opakowanie"" umożliwia indywidualną opłatę manipulacyjną za każdy pakiet."
+Handling Fee,Opłata manipulacyjna
+Divide Order Weight,Podziel ciężar zlecenia
+Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.,"Wybierz to, aby DHL zoptymalizował opłaty przesyłki, dzieląc zamówienie, jeśli przekroczy 70 kg."
+Weight Unit,Jednostka wagi
+Size,Rozmiar
+Allowed Methods,Dozwolone metody
+Displayed Error Message,Wyświetlany komunikat o błędzie
+Free Method,Darmowa Metoda
+Enable Free Shipping Threshold,Włącz bezpłatny próg wysyłki
+Free Shipping Amount Threshold,Bezpłatna wielkość wysyłki
+Ship to Applicable Countries,Wysyłka do właściwych krajów
+Ship to Specific Countries,Wysyłka do określonych krajów
+Show Method if Not Applicable,"Pokaż metodę, jeśli nie dotyczy"
+Sort Order,Sortuj kolejność
+Debug,Debug

@@ -1,0 +1,179 @@
+Tax Rate Information,4912/5000 Informacje o stawkach podatkowych
+Tax Identifier,Identyfikator podatkowy
+Zip/Post is Range,Zip / Post to Range
+Zip/Post Code,Kod pocztowy
+'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.,"""*"" - pasuje do dowolnego; ""xyz *"" - dopasowuje wszystkie rozpoczynające się na ""xyz"" i nie są dłuższe niż %1."
+Range From,Zakres od
+Range To,Zakres Do
+State,Stan
+Country,Kraj
+Rate Percent,Procent stawki
+Tax Titles,Tytuły podatkowe
+Add New Tax Rate,Dodaj nową stawkę podatku
+Back,Plecy
+Reset,Nastawić
+Delete Rate,Usuń stawkę
+Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
+Save Rate,Zapisz stawkę
+Manage Tax Rules,Zarządzaj regułami podatkowymi
+Add New Tax Rule,Dodaj nową regułę podatkową
+Save Rule,Zapisz regułę
+Delete Rule,Usuń regułę
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Tax Rule Information,Informacje o zasadach podatkowych
+Name,Nazwa
+Customer Tax Class,Klasyfikacja podatkowa klienta
+Product Tax Class,Klasa podatku od towarów
+Tax Rate,Wysokość podatku
+Priority,Priorytet
+"Tax rates at the same priority are added, others are compounded.","Stawki podatkowe o tym samym priorytecie są dodawane, inne są sumowane."
+Calculate Off Subtotal Only,Oblicz Wyłącz tylko sumę częściową
+Sort Order,Porządek sortowania
+Do you really want to delete this tax class?,Czy na pewno chcesz usunąć tę klasę podatkową?
+Add New Tax Class,Dodaj nową klasę podatkową
+Shipping Incl. Tax (%1),Wysyłka z dostawą Podatek ( %1)
+Shipping Excl. Tax (%1),Wysyłka bez wysyłki Podatek ( %1)
+Subtotal (Excl.Tax),Podsuma (Excl.Tax)
+Subtotal (Incl.Tax),Podsuma (Incl.Tax)
+Shipping & Handling (Excl.Tax),Wysyłka i obsługa (Excl.Tax)
+Shipping & Handling (Incl.Tax),Wysyłka i obsługa (Incl.Tax)
+Grand Total (Excl.Tax),Grand Total (Excl.Tax)
+Grand Total (Incl.Tax),Grand Total (Incl.Tax)
+Sales,Obroty
+Tax,Podatek
+Manage Tax Rates,Zarządzaj stawkami podatkowymi
+New Tax Rate,Nowa stawka podatku
+Tax Zones and Rates,Strefy podatkowe i stawki
+We can't delete this tax rate right now.,Nie możemy teraz usunąć tej stawki podatkowej.
+An error occurred while loading this tax rate.,Wystąpił błąd podczas ładowania tej stawki podatkowej.
+We can't save this rate right now.,Nie możemy teraz zapisać tej stawki.
+You deleted the tax rate.,Usunąłeś stawkę podatku.
+We can't delete this rate because of an incorrect rate ID.,Nie możemy usunąć tej stawki z powodu nieprawidłowego identyfikatora stawki.
+Something went wrong deleting this rate.,Coś poszło nie tak podczas usuwania tej stawki.
+Edit Tax Rate,Edytuj stawkę podatku
+You saved the tax rate.,Uratowałeś stawkę podatku.
+Tax Rules,Zasady podatkowe
+The tax rule has been deleted.,Reguła podatkowa została usunięta.
+This rule no longer exists.,Ta reguła już nie istnieje.
+Something went wrong deleting this tax rule.,Coś poszło nie tak podczas usuwania tej reguły podatkowej.
+New Tax Rule,Nowa zasada podatkowa
+Edit Rule,Edytuj regułę
+New Rule,Nowa zasada
+You saved the tax rule.,Zapisałeś regułę podatkową.
+We can't save this tax rule right now.,Nie możemy teraz zapisać tej reguły podatkowej.
+Invalid name of tax class specified.,Podano nieprawidłową nazwę klasy podatkowej.
+We can't delete this tax class right now.,Nie możemy teraz usunąć tej klasy podatkowej.
+We can't save this tax class right now.,Nie możemy teraz zapisać tej klasy podatkowej.
+Make sure all required information is valid.,"Upewnij się, że wszystkie wymagane informacje są prawidłowe."
+The Rate Percent should be a positive number.,Procentowa stawka powinna być liczbą dodatnią.
+Maximum zip code length is 9.,Maksymalna długość kodu pocztowego to 9.
+Use digits only for the zip code.,Używaj cyfr tylko dla kodu pocztowego.
+Range To should be equal or greater than Range From.,Zakres To powinien być równy lub większy od Range From.
+The tax rate cannot be removed. It exists in a tax rule.,Stawki podatkowej nie można usunąć. Istnieje w zasadzie podatkowej.
+%fieldName is a required field.,% fieldName jest polem wymaganym.
+"Invalid value of ""%value"" provided for the %fieldName field.","Wprowadzono niepoprawną wartość ""% value"" dla pola% fieldName."
+This class no longer exists.,Ta klasa już nie istnieje.
+You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.,"Nie możesz usunąć tej klasy podatku, ponieważ jest używana w regułach podatkowych. Musisz najpierw usunąć reguły, których używasz."
+You cannot delete this tax class because it is used in existing %1(s).,"Nie można usunąć tej klasy podatku, ponieważ jest używana w istniejącym %1 (s)."
+Custom price if available,"Niestandardowa cena, jeśli jest dostępna"
+Original price only,Tylko oryginalna cena
+Shipping Address,adres wysyłki
+Billing Address,Adres rozliczeniowy
+Shipping Origin,Wysyłka Origin
+No (price without tax),Nie (cena bez podatku)
+Yes (only price with tax),Tak (tylko cena z podatkiem)
+Both (without and with tax),"Zarówno (bez podatku, jak iz podatkiem)"
+Invalid attribute %1,Nieprawidłowy atrybut %1
+Code,Kod
+Invalid type supplied,Podano niepoprawny typ
+Class name and class type,Nazwa klasy i typ klasy
+No such entity with %fieldName = %fieldValue,Brak takiej jednostki z% fieldName =% fieldValue
+Grand Total (Excl. Tax),Suma całkowita (bez podatku)
+Grand Total (Incl. Tax),Grand Total (łącznie z podatkiem)
+Shipping (Excl. Tax),Wysyłka (bez podatku)
+Shipping (Incl. Tax),Wysyłka (wraz z podatkiem)
+Subtotal (Excl. Tax),Podsuma (bez podatku)
+Subtotal (Incl. Tax),Podsuma (z podatkiem)
+Subtotal,Suma częściowa
+Unit Price,Cena jednostkowa
+Row Total,Rząd łącznie
+Total,Całkowity
+Before Discount,Przed zniżką
+After Discount,Po rabacie
+Excluding Tax,Bez podatku
+Including Tax,Zawiera podatek
+None,Żaden
+Including and Excluding Tax,Włączanie i wyłączanie podatku
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Aby zastosować zniżkę na ceny, w tym podatek i zastosować podatek po obniżce, ustaw Ceny katalogowe na ""Włącznie z podatkiem""."
+Store(s) affected: ,Dotyczy sklepów:
+"Click on the link to <a href=""%1"">ignore this notification</a>","Kliknij link, aby <a href=""%1""> zignorować to powiadomienie </a>"
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","Po wprowadzeniu podatku klienta ""Przed rabatem"" ostateczne obliczenie rabatu może nie odpowiadać oczekiwaniom klientów."
+Your current tax configuration may result in rounding errors. ,Twoja obecna konfiguracja podatkowa może skutkować błędami zaokrąglania.
+"Please see <a href=""%1"">documentation</a> for more details. ","Więcej informacji można znaleźć w <a href=""%1""> dokumentacji </a>."
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknij tutaj, aby przejść do <a href=""%1""> konfiguracji podatkowej </a> i zmienić ustawienia."
+"Invalid type of tax class ""%1""","Nieprawidłowy typ klasy podatkowej "" %1"""
+Updating classType is not allowed.,Aktualizacja classType jest niedozwolona.
+A class with the same name already exists for ClassType %1.,Klasa o tej samej nazwie już istnieje dla ClassType %1.
+customer group,Grupa klientów
+product,produkt
+Excl. tax:,Excl. podatek:
+Incl. Tax,Incl. Podatek
+Entity already exists,Podmiot już istnieje
+Cannot save titles,Nie można zapisać tytułów
+Some Message,Niektóre wiadomości
+Something went wrong,Coś poszło nie tak
+Could not save,Nie można zapisać
+No such entity,Nie ma takiego podmiotu
+Excl. Tax,Excl. Podatek
+Note:,Uwaga:
+Leave this field empty if you wish to use the tax identifier.,"Pozostaw to pole puste, jeśli chcesz użyć identyfikatora podatkowego."
+An error occurred,Wystąpił błąd
+Do you really want to delete this tax rate?,Czy na pewno chcesz usunąć tę stawkę podatku?
+Save,Zapisać
+Add New Class,Dodaj nową klasę
+Grand Total Excl. Tax,Grand Total Excl. Podatek
+Grand Total Incl. Tax,Grand Total Incl. Podatek
+Taxes,Podatki
+Tax Section,Sekcja podatkowa
+Tax Classes,Klasy podatkowe
+Tax Class for Shipping,Klasa podatkowa za wysyłkę
+Default Tax Class for Product,Domyślna kategoria podatkowa dla produktu
+Default Tax Class for Customer,Domyślna klasa podatkowa dla klienta
+Calculation Settings,Ustawienia obliczeń
+Tax Calculation Method Based On,Metoda kalkulacji podatkowej na podstawie
+Tax Calculation Based On,Obliczenia podatkowe na podstawie
+Catalog Prices,Ceny katalogowe
+This sets whether catalog prices entered from Magento Admin include tax.,"Określa, czy ceny katalogowe wprowadzane przez Magento Admin zawierają podatek."
+Shipping Prices,Ceny wysyłki
+This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.,"Określa, czy kwoty wysyłkowe wprowadzone przez Magento Admin, czy też uzyskane z bramek, zawierają podatek."
+Apply Customer Tax,Zastosuj podatek od klienta
+Apply Discount On Prices,Zastosuj rabat na ceny
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Ostrzeżenie: Aby zastosować zniżkę na ceny, w tym podatek i zastosować podatek po rabacie, ustaw Ceny katalogowe na ""Włącznie z podatkiem""."
+Apply Tax On,Zastosuj podatek
+Enable Cross Border Trade,Włącz handel transgraniczny
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Gdy cena katalogowa zawiera podatek, włącz to ustawienie, aby ustalić cenę niezależnie od stawki podatkowej klienta."
+Default Tax Destination Calculation,Domyślna kalkulacja miejsca przeznaczenia podatku
+Default Country,Domyślny kraj
+Default State,Stan domyślny
+Default Post Code,Domyślny kod pocztowy
+Price Display Settings,Ustawienia wyświetlania ceny
+Display Product Prices In Catalog,Wyświetl ceny produktów w katalogu
+Display Shipping Prices,Wyświetl ceny wysyłki
+Shopping Cart Display Settings,Ustawienia wyświetlania koszyka
+Display Prices,Wyświetl ceny
+Display Subtotal,Wyświetl sumę częściową
+Display Shipping Amount,Wyświetl kwotę wysyłki
+Include Tax In Order Total,Uwzględnij podatek w sumie zamówienia
+Display Full Tax Summary,Wyświetl pełne podsumowanie podatkowe
+Display Zero Tax Subtotal,Wyświetl sumę podatkową od zera
+"Orders, Invoices, Credit Memos Display Settings","Zamówienia, faktury, noty kredytowe Ustawienia wyświetlania"
+State/Region,Stan / region
+Rate,Oceniać
+Subtotal Only,Subtotal Only
+(Excl. Tax),(Bez podatku)
+(Incl. Tax),(W tym podatek)
+Order Total Excl. Tax,Zamów sumę Excl. Podatek
+Order Total Incl. Tax,Zamów Total Incl. Podatek
+Order Total,Suma zamówienia
+Your credit card will be charged for,Twoja karta kredytowa zostanie obciążona
+An error occurred while loading tax rates.,Wystąpił błąd podczas ładowania stawek podatkowych.

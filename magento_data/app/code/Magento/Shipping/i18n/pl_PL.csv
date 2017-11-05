@@ -1,0 +1,179 @@
+New Shipment for Order #%1,Nowa przesyłka dla zamówienia nr% 1
+Submit Shipment,Prześlij przesyłkę
+You are trying to add a quantity for some products that doesn't match the quantity that was shipped.,"Próbujesz dodać ilość dla niektórych produktów, które nie odpowiadają ilości, która została wysłana."
+Products should be added to package(s),Produkty należy dodać do pakietu (ów)
+The value that you entered is not valid.,Wprowadzona wartość jest nieprawidłowa.
+Add Tracking Number,Dodaj numer śledzenia
+Custom Value,Wartość niestandardowa
+Add,Dodaj
+Send Tracking Information,Wyślij informacje o śledzeniu
+Are you sure you want to send a Shipment email to customer?,Czy na pewno chcesz wysłać wiadomość e-mail dotyczącą przesyłki do klienta?
+Print,Wydrukować
+the shipment email was sent,wiadomość e-mail o wysyłce została wysłana
+the shipment email is not sent,e-mail wysyłkowy nie jest wysyłany
+Shipment #%1 | %3 (%2),Przesyłka #% 1 | % 3 (% 2)
+Create Shipping Label...,Utwórz etykietę wysyłkową ...
+Print Shipping Label,Wydrukuj etykietę wysyłkową
+Show Packages,Pokaż pakiety
+About Your Shipment,O Twojej przesyłce
+Order # %1,Zamówienie nr% 1
+Back to My Orders,Powrót do moich zamówień
+View Another Order,Wyświetl kolejne zamówienie
+Please enter a comment.,Wprowadź komentarz.
+Cannot add new comment.,Nie można dodać nowego komentarza.
+Please specify a carrier.,Proszę określić przewoźnika.
+Please enter a tracking number.,Wprowadź numer śledzenia.
+Shipments,Przesyłki
+We can't initialize shipment for adding tracking number.,Nie możemy zainicjować wysyłki w celu dodania numeru śledzenia.
+Cannot add tracking number.,Nie można dodać numeru śledzenia.
+You created the shipping label.,Utworzono etykietę wysyłki.
+An error occurred while creating shipping label.,Wystąpił błąd podczas tworzenia etykiety wysyłki.
+You sent the shipment.,Wysłałeś przesyłkę.
+Cannot send shipment information.,Nie można wysłać informacji o przesyłce.
+There are no shipping labels related to selected orders.,Brak etykiet wysyłkowych związanych z wybranymi zamówieniami.
+New Shipment,Nowa przesyłka
+We don't recognize or support the file extension in this shipment: %1.,Nie rozpoznajemy ani nie obsługujemy rozszerzenia pliku w tej przesyłce:% 1.
+We can't initialize shipment for delete tracking number.,Nie możemy zainicjować wysyłki pod kątem usunięcia numeru śledzenia.
+We can't delete tracking number.,Nie możemy usunąć numeru śledzenia.
+We can't load track with retrieving identifier right now.,Nie możemy załadować śladu z pobieraniem identyfikatora już teraz.
+We can't save the shipment right now.,Nie możemy teraz zapisać przesyłki.
+"""Shipment Document Validation Error(s):\n"" .","""Błędy sprawdzania poprawności dokumentu wysyłki: \ n""."
+The shipment has been created.,Przesyłka została utworzona.
+Cannot save shipment.,Nie można zapisać przesyłki.
+The order no longer exists.,Zamówienie już nie istnieje.
+Cannot do shipment for the order separately from invoice.,Nie można dokonać wysyłki do zamówienia oddzielnie od faktury.
+Cannot do shipment for the order.,Nie można dokonać wysyłki dla zamówienia.
+There are no shipping labels related to selected shipments.,Brak etykiet wysyłkowych związanych z wybranymi przesyłkami.
+Page not found.,Strona nie znaleziona.
+Tracking Information,Informacje o śledzeniu
+"Sorry, but we can't deliver to the destination country with this shipping module.","Przepraszamy, ale nie możemy dostarczyć do kraju docelowego za pomocą tego modułu wysyłki."
+The shipping module is not available.,Moduł wysyłki nie jest dostępny.
+This shipping method is not available. Please specify the zip code.,Ta metoda wysyłki nie jest dostępna. Proszę podać kod pocztowy.
+No packages for request,Brak pakietów dla zapytania
+Security validation of XML document has been failed.,Weryfikacja zabezpieczeń dokumentu XML nie powiodła się.
+All Allowed Countries,Wszystkie dozwolone kraje
+Specific Countries,Określone kraje
+Development,Rozwój
+Live,Relacja na żywo
+Divide to equal weight (one request),Podziel na równą wagę (jedno żądanie)
+Use origin weight (few requests),Użyj masy początkowej (kilka żądań)
+Packages,Pakiety
+Package,Pakiet
+Type,Rodzaj
+Length,Długość
+Signature Confirmation,Potwierdzenie podpisu
+Customs Value,Wartość celna
+Width,Szerokość
+Contents,Zawartość
+Total Weight,Waga całkowita
+Height,Wysokość
+Size,Rozmiar
+Girth,Obwód
+Items in the Package,Przedmioty w paczce
+Product,Produkt
+Weight,Waga
+Qty Ordered,Qty Zamówione
+Qty,Ilość
+"No detail for number ""%1""","Brak szczegółów dla numeru ""% 1"""
+Shipping labels is not available.,Etykiety wysyłkowe nie są dostępne.
+Response info is not exist.,Informacje o odpowiedzi nie istnieją.
+Invalid carrier: %1,Nieprawidłowy operator:% 1
+We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.,"Nie mamy wystarczających informacji, aby utworzyć etykiety wysyłki. Upewnij się, że informacje o sklepie i ustawienia są kompletne."
+Per Order,Na zamówienie
+Per Package,Na pakiet
+Fixed,Naprawiony
+Percent,Procent
+Tracking information is unavailable.,Informacje o śledzeniu są niedostępne.
+message,wiadomość
+Email has not been sent,Email nie został wysłany
+Payment &amp; Shipping Method,Płatność i płatność Sposób wysyłki
+Payment Information,Informacje o płatności
+The order was placed using %1.,Zamówienie zostało złożone za pomocą% 1.
+Shipping Information,informacje wysyłkowe
+Total Shipping Charges,Całkowite koszty wysyłki
+Incl. Tax,Incl. Podatek
+Items to Ship,Przedmioty do wysłania
+Qty to Ship,Ilość do wysłania
+Ship,Statek
+Shipment Total,Całkowita przesyłka
+Shipment Comments,Komentarze przesyłki
+Comment Text,Tekst komentarza
+Shipment Options,Opcje wysyłki
+Create Shipping Label,Utwórz etykietę wysyłkową
+Append Comments,Dołącz komentarze
+Email Copy of Shipment,E-mail Kopia przesyłki
+Invalid value(s) for Qty to Ship,Nieprawidłowe wartości dla wysyłki do wysłania
+Select All,Zaznacz wszystko
+Product Name,Nazwa produktu
+Delete,Kasować
+Create Packages,Twórz pakiety
+Cancel,Anuluj
+Save,Zapisać
+Add Package,Dodaj pakiet
+Add Selected Product(s) to Package,Dodaj wybrane produkty do pakietu
+Add Products to Package,Dodaj produkty do pakietu
+USPS domestic shipments don't use package types.,Przesyłki krajowe USPS nie używają typów paczek.
+in,w
+cm,cm
+lb,funt
+kg,kg
+Delete Package,Usuń pakiet
+Explanation,Wyjaśnienie
+Carrier,Nośnik
+Title,Tytuł
+Number,Numer
+Action,Akcja
+Are you sure?,Jesteś pewny?
+Shipping &amp; Handling Information,Wysyłka i amp; Obsługa informacji
+Track Order,Śledź zamówienie
+No shipping information available,Brak dostępnych informacji o wysyłce
+Shipping and Tracking Information,Informacje o wysyłce i śledzeniu
+Track this shipment,Śledź tę przesyłkę
+Items Shipped,Przedmioty wysłane
+Order Total,Suma zamówienia
+Shipment History,Historia przesyłek
+Qty Shipped,Ilość wysłana
+Print All Shipments,Wydrukuj wszystkie przesyłki
+Shipment #,Wysyłka #
+Print Shipment,Drukuj przesyłkę
+Tracking Number(s):,Numer (y) monitorowania:
+SKU,SKU
+Order tracking,Śledzenie zamówienia
+Tracking Number:,Numer przesyłki:
+Carrier:,Nośnik:
+Error:,Błąd:
+Tracking information is currently not available. Please ,Informacje o śledzeniu są obecnie niedostępne. Proszę
+contact us,Skontaktuj się z nami
+ for more information or , aby uzyskać więcej informacji lub
+email us at ,napisz do nas na adres
+Info:,Informacje:
+Track:,Tor:
+. ':',". "":"""
+Delivered on:,Dostarczone w:
+N/A,Nie dotyczy
+There is no tracking available for this shipment.,Brak śledzenia dla tej przesyłki.
+There is no tracking available.,Brak dostępnego śledzenia.
+Close Window,Zamknij okno
+Track history,Historia utworów
+Location,Lokalizacja
+Date,Data
+Local Time,Czas lokalny
+Description,Opis
+See our Shipping Policy,Zobacz naszą politykę wysyłkową
+Shipping Settings Section,Sekcja Ustawienia wysyłki
+Shipping Policy Parameters Section,Parametry profilu wysyłki
+Shipping Methods Section,Zasady wysyłki
+Shipping Settings,Ustawienia wysyłki
+Origin,Pochodzenie
+Country,Kraj
+Region/State,Region / państwo
+ZIP/Postal Code,Kod pocztowy / pocztowy
+City,Miasto
+Street Address,Adres ulicy
+Street Address Line 2,Adres - linia 2
+Shipping Policy Parameters,Parametry polityki wysyłki
+Apply custom Shipping Policy,Zastosuj niestandardową zasadę wysyłki
+Shipping Policy,Zasady wysyłki
+Shipping Methods,Metody wysyłki
+Track your order,Śledź swoje zamówienie
+Track All Shipments,Śledź wszystkie przesyłki

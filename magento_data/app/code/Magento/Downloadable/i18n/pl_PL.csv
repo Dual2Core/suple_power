@@ -1,0 +1,120 @@
+Downloadable Information,Informacje do pobrania
+Add New Link,Dodaj nowy link
+Upload Files,Prześlij pliki
+All Files,Wszystkie pliki
+Unlimited,Nieograniczony
+Something went wrong while getting the requested content.,Coś poszło nie tak podczas pobierania żądanej treści.
+My Downloadable Products,Moje produkty do pobrania
+We can't find the link you requested.,Nie możemy znaleźć żądanego linku.
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Zaloguj się, aby pobrać produkt lub kupić <a href=""%1""> %2 </a>."
+Please sign in to download your product.,"Zaloguj się, aby pobrać produkt."
+The link has expired.,Link wygasł.
+The link is not available.,Link nie jest dostępny.
+"Sorry, there was an error getting requested content. Please contact the store owner.",Niestety wystąpił błąd podczas pobierania żądanej treści. Skontaktuj się z właścicielem sklepu.
+Please set resource file and link type.,Proszę ustawić plik zasobów i typ łącza.
+Invalid download link type.,Nieprawidłowy typ łącza pobierania.
+Something went wrong while saving the file(s).,Coś poszło nie tak podczas zapisywania pliku (ów).
+Provided content must be valid base64 encoded data.,Dostarczona treść musi być poprawnymi danymi zakodowanymi na podstawie base64.
+Provided file name contains forbidden characters.,Podana nazwa pliku zawiera niedozwolone znaki.
+Link file not provided,Nie podano pliku linku
+Link price must have numeric positive value.,Cena linku musi mieć liczbową wartość dodatnią.
+Number of downloads must be a positive integer.,Liczba pobrań musi być dodatnią liczbą całkowitą.
+Sort order must be a positive integer.,Kolejność sortowania musi być dodatnią liczbą całkowitą.
+Link URL must have valid format.,Link URL musi mieć prawidłowy format.
+Provided file content must be valid base64 encoded data.,Podana zawartość pliku musi być poprawna dla danych zakodowanych w Base64.
+Sample URL must have valid format.,Przykładowy URL musi mieć prawidłowy format.
+Order id cannot be null,Identyfikator zamówienia nie może mieć wartości null
+Order item id cannot be null,Identyfikator elementu zamówienia nie może mieć wartości null
+Provided product must be type 'downloadable'.,"Dostarczony produkt musi być typu ""do pobrania""."
+Provided link information is invalid.,Podane informacje o połączeniu są nieprawidłowe.
+Invalid link type.,Nieprawidłowy typ łącza.
+Link title cannot be empty.,Tytuł linku nie może być pusty.
+There is no downloadable link with provided ID.,Nie ma linku do pobrania z podanym ID.
+Provided downloadable link is not related to given product.,"Pod warunkiem, że link do pobrania nie jest powiązany z danym produktem."
+Cannot delete link with id %1,Nie można usunąć linku z identyfikatorem %1
+Please specify product link(s).,Proszę podać link do produktu.
+Sample file not provided,Nie podano przykładowego pliku
+Provided sample information is invalid.,Podane informacje o próbie są nieprawidłowe.
+Invalid sample type.,Nieprawidłowy typ próbki.
+Sample title cannot be empty.,Przykładowy tytuł nie może być pusty.
+There is no downloadable sample with provided ID.,Nie można pobrać próbki z podanym identyfikatorem.
+Provided downloadable sample is not related to given product.,"Pod warunkiem, że pobierana próbka nie jest powiązana z danym produktem."
+Cannot delete sample with id %1,Nie można usunąć próbki o identyfikatorze %1
+Yes,tak
+No,Nie
+Use config,Użyj config
+Upload File,Przesyłanie pliku
+URL,URL
+attachment,Załącznik
+inline,inline
+Pending,W oczekiwaniu
+Invoiced,Zafakturowane
+To enable the option set the weight to no,"Aby włączyć opcję, ustaw wagę na nie"
+Is this downloadable Product?,Czy to jest produkt do pobrania?
+Links,Spinki do mankietów
+Title,Tytuł
+Links can be purchased separately,Linki można kupić osobno
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Znaki alfanumeryczne, myślniki i podkreślenia są zalecane dla nazw plików. Nieprawidłowe znaki są zastępowane przez ""_""."
+Add Link,Dodaj link
+Price,Cena
+File,Plik
+Sample,Próba
+Shareable,Do udostępniania
+Max. Downloads,Max. Pliki do pobrania
+Samples,Próbki
+Use Default Value,Użyj wartości domyślnej
+sample,próba
+Is this a downloadable Product?,Czy to jest produkt do pobrania?
+Add links to your product files here.,Dodaj linki do plików produktów tutaj.
+[STORE VIEW],[ZAPISZ SKLEP]
+[GLOBAL],[ŚWIATOWY]
+Sort Order,Porządek sortowania
+Attach File or Enter Link,Załącz plik lub wprowadź link
+Sort Variations,Sortuj wariacje
+Browse Files...,Przeglądaj pliki ...
+Delete,Kasować
+Add product preview files here.,Tutaj dodaj pliki podglądu produktu.
+SKU,SKU
+U,U
+Select all,Zaznacz wszystko
+Unselect all,Odznacz wszystko
+Availability,Dostępność
+In stock,Na stanie
+Out of stock,Obecnie brak na stanie
+"Go to <a href=""%1"">My Downloadable Products</a>","Przejdź do <a href=""%1""> Moich produktów do pobrania </a>"
+Downloadable Products,Produkty do pobrania
+Order #,Zamówienie #
+Date,Data
+Status,Status
+Remaining Downloads,Pozostałe pliki do pobrania
+View Order,Wyświetl zamówienie
+Start Download,Rozpocznij pobieranie
+You have not purchased any downloadable products yet.,Nie kupiłeś jeszcze żadnych produktów do pobrania.
+Back,Plecy
+download,pobieranie
+Gift Message,Wiadomość na prezent
+From:,Od:
+To:,Do:
+Message:,Wiadomość:
+Product Name,Nazwa produktu
+Qty,Ilość
+Subtotal,Suma częściowa
+Discount Amount,Kwota rabatu
+Row Total,Rząd łącznie
+Qty Invoiced,Ilość zafakturowanych
+Ordered,Zamówione
+Shipped,Wysłane
+Canceled,Odwołany
+Refunded,Zwrócono środki
+We could not detect a size.,Nie mogliśmy wykryć rozmiaru.
+Downloadable Product Section,Sekcja produktów do pobrania
+Downloads,Pliki do pobrania
+Downloadable Product Options,Opcje produktu do pobrania
+Order Item Status to Enable Downloads,"Zamów status przedmiotu, aby włączyć pobieranie"
+Default Maximum Number of Downloads,Domyślna maksymalna liczba pobrań
+Default Sample Title,Domyślny tytuł próbki
+Default Link Title,Domyślny tytuł linku
+Open Links in New Window,Otwórz linki w nowym oknie
+Use Content-Disposition,Użyj Content-Disposition
+Disable Guest Checkout if Cart Contains Downloadable Items,"Wyłączyć usługę Guest Checkout, jeśli koszyk zawiera elementy do pobrania"
+Guest checkout will only work with shareable.,Kasa gościa działa tylko z udostępnianiem.

@@ -1,0 +1,25 @@
+Synchronize,Synchronizować
+Synchronizing %1 to %2,Synchronizowanie %1 z %2
+Synchronizing...,Synchronizuję ...
+The timeout limit for response from synchronize process was reached.,Limit czasu oczekiwania na odpowiedź z procesu synchronizacji został osiągnięty.
+File %1 does not exist,Plik %1 nie istnieje
+File %1 is not readable,Plik %1 jest nieczytelny
+File System,System plików
+Database,Baza danych
+"database ""%1""","baza danych "" %1"""
+Parent directory does not exist: %1,Katalog nadrzędny nie istnieje: %1
+File system,System plików
+"Unable to save file ""%1"" at ""%2""","Nie można zapisać pliku "" %1"" w "" %2"""
+Wrong file info format,Zły format informacji o pliku
+"Path ""%value%"" is protected and cannot be used.","Ścieżka ""% value%"" jest chroniona i nie może być używana."
+"Path ""%value%"" is not available and cannot be used.","Ścieżka ""% value%"" jest niedostępna i nie można jej użyć."
+"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Ścieżka ""% value%"" może nie zawierać ścieżki do katalogu nadrzędnego (""../"", "".."")."
+Please set available and/or protected paths list(s) before validation.,Proszę ustawić dostępne i / lub chronione listy ścieżek przed zatwierdzeniem.
+"File with an extension ""%value%"" is protected and cannot be uploaded","Plik z rozszerzeniem ""% value%"" jest chroniony i nie można go przesłać"
+Unable to create directory: %1,Nie można utworzyć katalogu: %1
+Unable to save file: %1,Nie można zapisać pliku: %1
+Storage Configuration for Media,Konfiguracja pamięci masowej
+Media Storage,Przechowywanie mediów
+Select Media Database,Wybierz bazę danych mediów
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Po wybraniu nowej lokalizacji przechowywania multimediów naciśnij przycisk Synchronizuj, aby przenieść wszystkie multimedia do tej lokalizacji. Nośnik nie będzie dostępny w nowej lokalizacji, dopóki proces synchronizacji nie zostanie zakończony."
+Environment Update Time,Czas aktualizacji środowiska

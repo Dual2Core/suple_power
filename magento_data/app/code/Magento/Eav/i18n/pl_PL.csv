@@ -1,0 +1,145 @@
+Attribute Properties,Właściwości atrybutów
+Default Label,Domyślna etykieta
+Default label,Domyślna etykieta
+Attribute Code,Kod atrybutu
+This is used internally. Make sure you don't use spaces or more than %1 symbols.,"Jest to używane wewnętrznie. Upewnij się, że nie używasz spacji lub więcej niż symboli %1."
+Catalog Input Type for Store Owner,Wpisz typ katalogu dla właściciela magazynu
+Values Required,Wymagane wartości
+Default Value,Domyślna wartość
+Unique Value,Unikalna wartość
+Unique Value (not shared with other products),Unikalna wartość (nie jest udostępniana innym produktom)
+Not shared with other products.,Nie udostępniane innym produktom.
+Input Validation for Store Owner,Walidacja wejścia dla właściciela sklepu
+Required,wymagany
+Yes,tak
+No,Nie
+System,System
+None,Żaden
+Decimal Number,Liczba dziesiętna
+Integer Number,Liczba całkowita
+Email,E-mail
+URL,URL
+Letters,Listy
+"Letters (a-z, A-Z) or Numbers (0-9)","Litery (a-z, A-Z) lub Liczby (0-9)"
+Text Field,Pole tekstowe
+Text Area,Obszar tekstowy
+Date,Data
+Yes/No,Tak nie
+Multiple Select,Wiele Wybierz
+Dropdown,Upuścić
+"Input type ""%value%"" not found in the input types list.","Typ wejścia ""% value%"" nie został znaleziony na liście typów wejść."
+Attribute object is undefined,Obiekt atrybutu jest niezdefiniowany
+Entity object is undefined,Obiekt obiektu jest niezdefiniowany
+"""%1"" invalid type entered.","""Wprowadzono nieprawidłowy typ"" %1 ""."
+"""%1"" contains non-alphabetic or non-numeric characters.",""" %1"" zawiera znaki nie alfabetyczne lub nieliczbowe."
+"""%1"" is an empty string.",""" %1"" jest pustym łańcuchem."
+"""%1"" contains non-numeric characters.",""" %1"" zawiera nieliczbowe znaki."
+"""%1"" contains non-alphabetic characters.",""" %1"" zawiera znaki niealfabetyczne."
+"""%1"" is not a valid email address.",""" %1"" nie jest prawidłowym adresem e-mail."
+"""%1"" is not a valid hostname.",""" %1"" nie jest prawidłową nazwą hosta."
+"""%1"" uses too many characters.",""" %1"" zawiera zbyt wiele znaków."
+"'%value%' looks like an IP address, which is not an acceptable format.","""% value%"" wygląda jak adres IP, który nie jest dopuszczalnym formatem."
+'%value%' looks like a DNS hostname but we cannot match the TLD against known list.,"""% value%"" wygląda jak nazwa hosta DNS, ale nie możemy dopasować TLD do znanej listy."
+'%value%' looks like a DNS hostname but contains a dash in an invalid position.,"""% value%"" wygląda jak nazwa hosta DNS, ale zawiera myślnik w nieprawidłowej pozycji."
+'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,"""% value%"" wygląda jak nazwa hosta DNS, ale nie możemy dopasować go do schematu nazwy hosta dla TLD ""% tld%""."
+'%value%' looks like a DNS hostname but cannot extract TLD part.,"""% value%"" wygląda jak nazwa hosta DNS, ale nie może wyodrębnić części TLD."
+'%value%' does not look like a valid local network name.,"""% value%"" nie wygląda na prawidłową nazwę sieci lokalnej."
+"'%value%' looks like a local network name, which is not an acceptable format.","""% value%"" wygląda jak nazwa sieci lokalnej, co nie jest dopuszczalnym formatem."
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","""% value%"" wydaje się być nazwą DNS, ale podana notacja punycode nie może zostać zdekodowana."
+"""%1"" is not a valid URL.",""" %1"" nie jest prawidłowym adresem URL."
+"""%1"" is not a valid date.",""" %1"" nie jest prawidłową datą."
+"""%1"" does not fit the entered date format.",""" %1"" nie pasuje do wprowadzonego formatu daty."
+"""%1"" is a required value.",""" %1"" jest wymaganą wartością."
+Please enter a valid date between %1 and %2 at %3.,Wprowadź poprawną datę między %1 i %2 na %3.
+Please enter a valid date equal to or greater than %1 at %2.,Wprowadź poprawną datę równą lub większą niż %1 przy %2.
+Please enter a valid date less than or equal to %1 at %2.,Podaj poprawną datę mniejszą niż lub równą %1 przy %2.
+"""%1"" is not a valid file extension.",""" %1"" nie jest prawidłowym rozszerzeniem pliku."
+"""%1"" is not a valid file.",""" %1"" nie jest prawidłowym plikiem."
+"""%1"" exceeds the allowed file size.",""" %1"" przekracza dozwolony rozmiar pliku."
+"""%1"" is not a valid image format",""" %1"" nie jest prawidłowym formatem obrazu"
+"""%1"" width exceeds allowed value of %2 px.","Szerokość "" %1"" przekracza dozwoloną wartość %2 px."
+"""%1"" height exceeds allowed value of %2 px.",""" %1"" wysokość przekracza dozwoloną wartość %2 px."
+"""%1"" cannot contain more than %2 lines.",""" %1"" nie może zawierać więcej niż %2 linii."
+"""%1"" length must be equal or greater than %2 characters.","Długość "" %1"" musi być równa lub większa niż %2 znaki."
+"""%1"" length must be equal or less than %2 characters.","Długość "" %1"" musi być równa lub mniejsza niż %2 znaki."
+Attribute group does not belong to provided attribute set,Grupa atrybutów nie należy do podanego zestawu atrybutów
+Cannot save attributeGroup,Nie można zapisać attributeGroup
+"Group with id ""%1"" does not exist.","Grupa o identyfikatorze "" %1"" nie istnieje."
+Cannot delete attributeGroup with id %1,Nie można usunąć obiektu attributeGroup o identyfikatorze %1
+"AttributeSet with id ""%1"" does not exist.","AtrybutSet o identyfikatorze "" %1"" nie istnieje."
+Wrong attribute set id provided,Podano nieprawidłowy identyfikator zestawu atrybutów
+Attribute group does not belong to attribute set,Grupa atrybutów nie należy do zestawu atrybutów
+Attribute set not found: %1,Nie znaleziono zestawu atrybutów: %1
+"Attribute ""%1"" not found in attribute set %2.","Atrybut "" %1"" nie został znaleziony w zestawie atrybutów %2."
+System attribute can not be deleted,Atrybutu systemu nie można usunąć
+Cannot save attribute,Nie można zapisać atrybutu
+"Attribute with attributeCode ""%1"" does not exist.","Atrybut z atrybutem "" %1"" nie istnieje."
+Cannot delete attribute.,Nie można usunąć atrybutu.
+"Attribute with id ""%1"" does not exist.","Atrybut o identyfikatorze "" %1"" nie istnieje."
+There was an error saving attribute set.,Wystąpił błąd podczas zapisywania zestawu atrybutów.
+Default attribute set can not be deleted,Domyślny zestaw atrybutów nie może zostać usunięty
+There was an error deleting attribute set.,Wystąpił błąd podczas usuwania zestawu atrybutów.
+Invalid entity_type specified: %1,Określono nieprawidłowy entity_type: %1
+Entity is not initialized,Encja nie została zainicjalizowana
+Unknown parameter,Nieznany parametr
+Unique constraint violation found,Znaleziono wyjątkowe naruszenie ograniczeń
+The attribute code '%1' is reserved by system. Please try another attribute code,"Kod atrybutu "" %1"" jest zarezerwowany przez system. Proszę spróbować innego kodu atrybutu"
+An attribute code must not be more than %1 characters.,Kod atrybutu nie może być dłuższy niż %1 znaków.
+Invalid default decimal value,Nieprawidłowa domyślna wartość dziesiętna
+Invalid default date,Nieprawidłowa data domyślna
+Invalid entity supplied,Podano nieprawidłowy podmiot
+Invalid backend model specified: %1,Określono nieprawidłowy model zaplecza: %1
+"Source model ""%1"" not found for attribute ""%2""","Nie znaleziono modelu źródłowego "" %1"" dla atrybutu "" %2"""
+"The value of attribute ""%1"" must be set","Wartość atrybutu "" %1"" musi być ustawiona"
+"The value of attribute ""%1"" must be unique","Wartość atrybutu "" %1"" musi być unikalna"
+Invalid date,Nieprawidłowa data
+Empty attribute code,Pusty kod atrybutu
+Attribute %1 doesn't work with options,Atrybut %1 nie działa z opcjami
+Cannot save attribute %1,Nie można zapisać atrybutu %1
+Attribute %1 doesn't have any option,Atrybut %1 nie ma żadnej opcji
+Cannot load options for attribute %1,Nie można załadować opcji dla atrybutu %1
+Attribute %1 does not contain option with Id %2,Atrybut %1 nie zawiera opcji o Id %2
+"Entity attribute with id ""%1"" not found","Nie znaleziono elementu o identyfikatorze "" %1"""
+Attribute set name is empty.,Nazwa zestawu atrybutów jest pusta.
+"An attribute set named ""%1"" already exists.","Zestaw atrybutów o nazwie "" %1"" już istnieje."
+No options found.,Nie znaleziono opcji.
+label,etykieta
+Invalid entity supplied: %1,Podano nieprawidłowy obiekt: %1
+Attempt to add an invalid object,Próba dodania nieprawidłowego obiektu
+Invalid attribute identifier for filter (%1),Nieprawidłowy identyfikator atrybutu dla filtra ( %1)
+Invalid attribute requested: %1,Zażądano niepoprawnego atrybutu: %1
+Joint field or attribute expression with this alias is already declared,Wspólne wyrażenie pola lub atrybutu z tym aliasem zostało już zadeklarowane
+"Invalid alias, already exists in joint attributes","Nieprawidłowy alias, już istnieje we wspólnych atrybutach"
+Invalid foreign key,Nieprawidłowy klucz obcy
+Invalid entity type,Nieprawidłowy typ jednostki
+Invalid attribute type,Nieprawidłowy typ atrybutu
+A joined field with this alias is already declared.,Połączone pole z tym aliasem jest już zadeklarowane.
+Invalid joint fields,Nieprawidłowe pola wspólne
+A joint field with this alias (%1) is already declared.,Wspólne pole z tym aliasem ( %1) zostało już zadeklarowane.
+Data integrity: No header row found for attribute,Integralność danych: nie znaleziono wiersza nagłówka dla atrybutu
+Invalid attribute name: %1,Nieprawidłowa nazwa atrybutu: %1
+Invalid character encountered in increment ID: %1,Napotkano nieprawidłowy znak w identyfikatorze rozszerzenia: %1
+The current module pathname is undefined.,Bieżąca nazwa ścieżki modułu jest niezdefiniowana.
+The current module EAV entity is undefined.,Bieżąca jednostka EAV modułu jest niezdefiniowana.
+The form code is not defined.,Kod formularza nie jest zdefiniowany.
+The entity instance is not defined.,Instancja jednostki nie jest zdefiniowana.
+Invalid form type.,Nieprawidłowy typ formularza.
+Invalid EAV attribute,Nieprawidłowy atrybut EAV
+Attribute with the same code,Atrybut z tym samym kodem
+The storefront label is not defined.,Etykieta sklepu nie jest zdefiniowana.
+Default option value is not defined,Domyślna wartość opcji nie jest zdefiniowana
+"Attribute group with same code already exist. Please rename ""%1"" group","Grupa atrybutów z tym samym kodem już istnieje. Zmień nazwę grupy "" %1"""
+Form Element with the same attribute,Element formularza o tym samym atrybucie
+Form Fieldset with the same code,Formularz Fieldset z tym samym kodem
+Form Type with the same code,Typ formularza z tym samym kodem
+"The value of attribute ""%1"" is invalid.","Wartość atrybutu "" %1"" jest nieprawidłowa."
+Wrong entity ID,Zły identyfikator podmiotu
+Wrong attribute set ID,Niepoprawny identyfikator zestawu atrybutów
+Wrong attribute group ID,Nieprawidłowy identyfikator grupy atrybutów
+"Attribute with ID: ""%1"" does not exist","Atrybut o identyfikatorze: "" %1"" nie istnieje"
+AttributeSet does not exist.,AttributeSet nie istnieje.
+hello,cześć
+Some internal exception message.,Jakiś wewnętrzny komunikat wyjątku.
+The value of attribute not valid,Wartość atrybutu jest nieprawidłowa
+EAV types and attributes,Typy i atrybuty EAV
+Entity types declaration cache,Deklaracja pamięci podręcznej typów jednostek

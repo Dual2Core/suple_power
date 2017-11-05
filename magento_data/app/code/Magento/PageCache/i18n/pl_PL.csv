@@ -1,0 +1,22 @@
+Export VCL for Varnish %1,Eksportuj VCL dla lakieru %1
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Wartość Ttl "" %1"" jest nieprawidłowa. Używaj tylko liczb równych lub większych od zera."
+Built-in Cache,Wbudowana pamięć podręczna
+Varnish Cache (Recommended),Pamięć podręczna (zalecana)
+Unsupported varnish version,Nieobsługiwana wersja lakieru
+Full Page Cache,Pełna pamięć podręczna strony
+Caching Application,Aplikacja buforująca
+Varnish Configuration,Konfiguracja lakieru
+Access list,Lista dostępu
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.","""Lista dostępu IP oddzielona za pomocą"", ""która może wyczyścić konfigurację Varnish w celu wygenerowania pliku konfiguracyjnego."
+Backend host,"                            Jeśli pole jest puste, zostanie zapisana wartość domyślna localhost. """
+Specify backend host for config file generation. If field is empty default value localhost will be saved.,Host zaplecza
+Backend port,"Określ host zaplecza do generowania pliku konfiguracyjnego. Jeśli pole jest puste, domyślna wartość localhost zostanie zapisana."
+Specify backend port for config file generation. If field is empty default value 8080 will be saved.,Port zaplecza
+Grace period,"Określ port zaplecza dla generowania pliku konfiguracyjnego. Jeśli pole jest puste, zostanie zapisana wartość domyślna 8080."
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",Okres łaski
+TTL for public content,"Określ okres prolongaty w sekundach dla generowania pliku konfiguracyjnego. Jeśli pole jest puste, zostanie zapisana wartość domyślna 300. Ten okres prolongaty będzie używany do obsługi treści w pamięci podręcznej, gdy serwer będzie zdrowy. Jeśli serwer nie jest zdrowy, treść w pamięci podręcznej będzie wyświetlana przez 3 dni przed niepowodzeniem."
+Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ,TTL dla treści publicznych
+Page Cache,"Czas życia pamięci podręcznej treści publicznych w sekundach. Jeśli pole jest puste, zostanie zapisana wartość domyślna 86400."
+Full page caching,Pamięć podręczna strony
+,Pełne buforowanie strony

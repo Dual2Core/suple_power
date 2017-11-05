@@ -1,0 +1,25 @@
+Indexer Management,Zarządzanie indeksowaniem
+Update by Schedule,Zaktualizuj według harmonogramu
+Update on Save,Zaktualizuj na Zapisz
+Reindex required,Wymagany reindeks
+Ready,Gotowy
+Processing,Przetwarzanie
+Never,Nigdy
+%1 index is locked by another reindex process. Skipping.,Indeks %1 jest zablokowany przez inny proces ponownego indeksowania. Skaczący.
+Index Management,Zarządzanie indeksami
+Please select indexers.,Wybierz indeksatory.
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 Indexer (s) są w trybie ""Aktualizuj według harmonogramu""."
+We couldn't change indexer(s)' mode because of an error.,Nie można zmienić trybu indeksowania z powodu błędu.
+"%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer (s) są w trybie ""Update on Save""."
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Jeden lub więcej <a href=""%1""> indeksatorów jest nieprawidłowych </a>. Upewnij się, że działa <a href=""%2"" target=""_blank""> Magento cron job </a>."
+State for the same indexer,Stan dla tego samego indeksera
+State for the same view,Stan dla tego samego widoku
+Field '%1' not found,"Nie znaleziono pola ""%1"""
+Some Exception Message,Some Exception Message
+Test Phrase,Frazy testowe
+Change indexer mode,Zmień tryb indeksu
+Indexer,Indexer
+Description,Opis
+Mode,Tryb
+Status,Status
+Updated,Zaktualizowano

@@ -1,0 +1,802 @@
+Credit Memos,Noty kredytowe
+Orders,Święcenia
+Invoices,Faktury
+We can't get the order instance right now.,Nie możemy teraz uzyskać instancji zamówienia.
+Create New Order,Utwórz nowe zamówienie
+Save Order Address,Zapisz adres zamówienia
+Shipping,Wysyłka
+Billing,Dane do faktury
+Edit Order %1 %2 Address,Edytuj zamówienie %1 %2 Adres
+Order Address Information,Zamów informacje o adresie
+Please correct the parent block for this block.,Popraw blok macierzysty dla tego bloku.
+Submit Comment,Prześlij komentarz
+Submit Order,Złóż zamówienie
+Are you sure you want to cancel this order?,Czy na pewno chcesz anulować to zamówienie?
+Cancel,Anuluj
+Billing Address,Adres rozliczeniowy
+Payment Method,Metoda płatności
+Order Comment,Zamów komentarz
+Coupons,Kupony
+Please select a customer,Wybierz klienta
+Create New Customer,Utwórz nowego klienta
+Account Information,informacje o koncie
+From,Od
+To,Do
+Message,Wiadomość
+Edit Order #%1,Edytuj zamówienie nr %1
+Create New Order for %1 in %2,Utwórz nowe zamówienie dla %1 w %2
+Create New Order in %1,Utwórz nowe zamówienie w %1
+Create New Order for %1,Utwórz nowe zamówienie dla %1
+Create New Order for New Customer,Utwórz nowe zamówienie dla nowego klienta
+Items Ordered,Przedmioty zamówione
+This product is disabled.,Ten produkt jest wyłączony.
+Buy %1 for price %2,Kup %1 za cenę %2
+Item ordered qty,Produkt zamówiony w ilościach
+%1 with %2 discount each, %1 z %2 zniżką każdy
+%1 for %2, %1 dla %2
+* - Enter custom price including tax,"* - Wprowadź niestandardową cenę, w tym podatek"
+* - Enter custom price excluding tax,* - Podaj cenę niestandardową bez podatku
+Configure,Skonfiguruj
+This product does not have any configurable options,Ten produkt nie ma żadnych konfigurowalnych opcji
+Newsletter Subscription,Subskrypcja newslettera
+Please select products,Wybierz produkty
+Add Selected Product(s) to Order,Dodaj wybrane produkty do zamówienia
+ID,ID
+Product,Produkt
+SKU,SKU
+Price,Cena
+Select,Wybierz
+Quantity,Ilość
+Shipping Address,adres wysyłki
+Shipping Method,Sposób wysyłki
+Update Changes,Zaktualizuj zmiany
+Shopping Cart,Wózek sklepowy
+Are you sure you want to delete all items from shopping cart?,Czy na pewno chcesz usunąć wszystkie przedmioty z koszyka?
+Clear Shopping Cart,Wyczyść koszyk
+Products in Comparison List,Produkty na liście porównawczej
+Recently Compared Products,Ostatnio porównywane produkty
+Recently Viewed Products,ostatnio oglądane produkty
+Last Ordered Items,Ostatnie zamówione przedmioty
+Recently Viewed,Ostatnio oglądane
+Wish List,Lista życzeń
+Please select a store,Wybierz sklep
+Order Totals,Zamów sumy
+Shipping Incl. Tax (%1),Wysyłka z dostawą Podatek ( %1)
+Shipping Excl. Tax (%1),Wysyłka bez wysyłki Podatek ( %1)
+New Credit Memo for Invoice #%1,Nowa faktura kredytowa za fakturę # %1
+New Credit Memo for Order #%1,Nowa nota kredytowa dla zamówienia nr %1
+Refund Shipping (Incl. Tax),Wysyłka zwrotna (w tym podatek)
+Refund Shipping (Excl. Tax),Wysyłka zwrotna (bez podatku)
+Refund Shipping,Wysyłka zwrotna
+Update Qty's,Zaktualizuj Qty
+Refund,Zwrot
+Refund Offline,Zwrot środków w trybie offline
+Paid Amount,Zapłacona kwota
+Refund Amount,Kwota Refundacji
+Shipping Amount,Kwota wysyłki
+Shipping Refund,Zwrot kosztów wysyłki
+Order Grand Total,Zamów sumę ogólną
+Adjustment Refund,Korekta zwrotu
+Adjustment Fee,Opłata wyrównawcza
+Send Email,Wysłać email
+Are you sure you want to send a credit memo email to customer?,Czy na pewno chcesz wysłać wiadomość e-mail z potwierdzeniem kredytu do klienta?
+Void,Unieważnić
+Print,Wydrukować
+The credit memo email was sent.,Wiadomość e-mail dotycząca noty kredytowej została wysłana.
+The credit memo email wasn't sent.,Wiadomość e-mail dotycząca noty kredytowej nie została wysłana.
+Credit Memo #%1 | %3 | %2 (%4),Nota kredytowa nr %1 |  %3 |  %2 ( %4)
+Total Refund,Całkowity zwrot kosztów
+New Invoice and Shipment for Order #%1,Nowa faktura i wysyłka dla zamówienia nr %1
+New Invoice for Order #%1,Nowa faktura dla zamówienia nr %1
+Submit Invoice and Shipment,Prześlij fakturę i przesyłkę
+Submit Invoice,Prześlij fakturę
+Are you sure you want to send an invoice email to customer?,Czy na pewno chcesz wysłać fakturę e-mail do klienta?
+Credit Memo,Nota kredytowa
+Capture,Zdobyć
+The invoice email was sent.,E-mail z fakturą został wysłany.
+The invoice email wasn't sent.,E-mail z fakturą nie został wysłany.
+Invoice #%1 | %2 | %4 (%3),Faktura # %1 |  %2 |  %4 ( %3)
+Invalid parent block for this block,Nieprawidłowy blok rodzica dla tego bloku
+Order Statuses,Zamów statusy
+Create New Status,Utwórz nowy status
+Assign Status to State,Przydziel stan do stanu
+Save Status Assignment,Zapisz przypisanie statusu
+Assign Order Status to State,Przypisz status zamówienia do państwa
+Assignment Information,Informacje o przydziałach
+Order Status,Status zamówienia
+Order State,Zamów państwo
+Use Order Status As Default,Użyj statusu zamówienia jako domyślnego
+Visible On Storefront,Visible On Storefront
+Edit Order Status,Edytuj status zamówienia
+Save Status,Zapisz status
+New Order Status,Nowy status zamówienia
+Order Status Information,Zamów informacje o statusie
+Status Code,Kod statusu
+Status Label,Etykieta statusu
+Store View Specific Labels,Przechowuj Zobacz określone etykiety
+Total Paid,Pełna kwota
+Total Refunded,Łącznie zwrócone
+Total Due,Razem należne
+Edit,Edytować
+Are you sure you want to send an order email to customer?,Czy na pewno chcesz wysłać wiadomość e-mail z zamówieniem do klienta?
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Spowoduje to zwrot w trybie offline. Aby utworzyć zwrot online, otwórz fakturę i utwórz dla niej fakturę korygującą. Chcesz kontynuować?"
+Are you sure you want to void the payment?,Czy na pewno chcesz anulować płatność?
+Hold,Utrzymać
+hold,utrzymać
+Unhold,Wznów
+unhold,wstrzymaj
+Are you sure you want to accept this payment?,Czy na pewno chcesz zaakceptować tę płatność?
+Accept Payment,Akceptuj płatności
+Are you sure you want to deny this payment?,Czy na pewno chcesz odmówić tej płatności?
+Deny Payment,Odmów płatności
+Get Payment Update,Pobierz aktualizację płatności
+Invoice and Ship,Faktura i wysyłka
+Invoice,Faktura
+Ship,Statek
+Reorder,Zmień kolejność
+Order # %1 %2 | %3,Zamówienie # %1 %2 |  %3
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","To zamówienie zawiera ( %1) elementów i dlatego nie można go edytować za pomocą interfejsu administratora. Jeśli chcesz kontynuować edycję, ( %2) elementy zostaną usunięte, zamówienie zostanie anulowane i zostanie złożone nowe zamówienie."
+Are you sure? This order will be canceled and a new one will be created instead.,"Jesteś pewny? To zamówienie zostanie anulowane, a zamiast niego zostanie utworzone nowe."
+Save Gift Message,Zapisz wiadomość na prezent
+ [deleted], [usunięto]
+Order Credit Memos,Zamów noty kredytowe
+Credit memo #%1 created,Utworzono notatkę kredytową nr %1
+Credit memo #%1 comment added,Dodano notatkę kredytową # %1 komentarz
+Shipment #%1 created,Utworzono przesyłkę # %1
+Shipment #%1 comment added,Dodano komentarz dotyczący przesyłki # %1
+Invoice #%1 created,Utworzono fakturę nr %1
+Invoice #%1 comment added,Dodano faktury # %1 komentarz
+Tracking number %1 for %2 assigned,Numer śledzenia %1 dla %2 przypisany
+Comments History,Historia komentarzy
+Order History,Historia zamówień
+Information,Informacja
+Order Information,Szczegóły zamówienia
+Order Invoices,Zamów faktury
+Shipments,Przesyłki
+Order Shipments,Zamów przesyłki
+Transactions,Transakcje
+Order View,Zamów widok
+Any,Każdy
+Specified,Określony
+Applies to Any of the Specified Order Statuses except canceled orders,Dotyczy dowolnej z określonych stanów zamówienia z wyjątkiem anulowanych zamówień
+Cart Price Rule,Reguła ceny koszyka
+Yes,tak
+No,Nie
+Show Actual Values,Pokaż aktualne wartości
+New Order RSS,Nowe zamówienie RSS
+Subtotal,Suma częściowa
+Shipping & Handling,Wysyłka i obsługa
+Discount (%1),Rabat ( %1)
+Discount,Zniżka
+Grand Total,Łączna suma
+Back,Plecy
+Fetch,Sprowadzać
+Transaction # %1 | %2,Transakcja # %1 |  %2
+N/A,Nie dotyczy
+Key,Klawisz
+Value,Wartość
+We found an invalid entity model.,Znaleźliśmy nieprawidłowy model jednostki.
+Order # %1,Zamówienie nr %1
+Back to My Orders,Powrót do moich zamówień
+View Another Order,Wyświetl kolejne zamówienie
+About Your Refund,O Twoim Zwrocie
+My Orders,Moje zamówienia
+Subscribe to Order Status,Zapisz się do statusu zamówienia
+About Your Invoice,O Twojej fakturze
+Print Order # %1,Polecenie wydruku nr %1
+Grand Total to be Charged,Suma całkowita do naładowania
+Unassign,Usuń przypisanie
+We can't add this item to your shopping cart right now.,Nie możemy teraz dodać tego produktu do koszyka.
+You sent the message.,Wysłałeś wiadomość.
+Sales,Obroty
+Invoice capturing error,Błąd przechwytywania faktury
+This order no longer exists.,To zamówienie już nie istnieje.
+Please enter a comment.,Wprowadź komentarz.
+We cannot add order history.,Nie możemy dodać historii zamówień.
+You updated the order address.,Zaktualizowałeś adres zamówienia.
+We can't update the order address right now.,Nie możemy teraz zaktualizować adresu zamówienia.
+You have not canceled the item.,Nie anulowałeś przedmiotu.
+You canceled the order.,Anulowałeś zamówienie.
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","Kod kuponu "" %1"" nie został zastosowany. Nie stosuj upustu dla przedmiotu (ów)"
+"""%1"" coupon code is not valid.","Kod kuponu "" %1"" jest nieprawidłowy."
+The coupon code has been accepted.,Kod kuponu został zaakceptowany.
+Quote item id is not received.,Identyfikator przedmiotu oferty nie został odebrany.
+Quote item is not loaded.,Element cytatu nie został załadowany.
+New Order,Nowe zamówienie
+You created the order.,Utworzono zamówienie.
+Order saving error: %1,Błąd zapisu zamówienia: %1
+Cannot add new comment.,Nie można dodać nowego komentarza.
+The credit memo has been canceled.,Nota kredytowa została anulowana.
+Credit memo has not been canceled.,Nota kredytowa nie została anulowana.
+New Memo for #%1,Nowa notatka dla # %1
+New Memo,Nowa notatka
+The credit memo's total must be positive.,Nota kredytowa powinna być dodatnia.
+Cannot create online refund for Refund to Store Credit.,Nie można utworzyć zwrotu pieniędzy za zwrot środków do sklepu.
+You created the credit memo.,Utworzono notatkę kredytową.
+We can't save the credit memo right now.,Nie możemy teraz zapisać notatki kredytowej.
+We can't update the item's quantity right now.,Nie możemy teraz zaktualizować ilości produktu.
+View Memo for #%1,Wyświetl notatkę dla # %1
+View Memo,Zobacz notatkę
+You voided the credit memo.,Anulowałeś notę ​​kredytową.
+We can't void the credit memo.,Nie możemy anulować kredytu m
+The order no longer exists.,Zamówienie już nie istnieje.
+We can't create credit memo for the order.,Nie możemy utworzyć noty kredytowej dla zamówienia.
+Edit Order,Edytuj zamówienie
+You sent the order email.,Wysłałeś wiadomość e-mail z zamówieniem.
+We can't send the email order right now.,Nie możemy teraz wysłać zamówienia pocztą elektroniczną.
+You have not put the order on hold.,Nie zawiesiłeś zlecenia.
+You put the order on hold.,Zamówienie zostało wstrzymane.
+You canceled the invoice.,Anulowałeś fakturę.
+Invoice canceling error,Błąd anulowania faktury
+The invoice has been captured.,Faktura została przechwycona.
+The order does not allow an invoice to be created.,Zamówienie nie pozwala na utworzenie faktury.
+You can't create an invoice without products.,Nie możesz utworzyć faktury bez produktów.
+New Invoice,Nowa faktura
+We can't save the invoice right now.,Nie możemy teraz zapisać faktury.
+The invoice and the shipment  have been created. The shipping label cannot be created now.,Faktura i wysyłka zostały utworzone. Etykiety wysyłkowej nie można teraz utworzyć.
+You created the invoice and shipment.,Utworzono fakturę i wysyłkę.
+The invoice has been created.,Faktura została utworzona.
+We can't send the invoice email right now.,Nie możemy teraz wysłać e-maila z fakturą.
+We can't send the shipment right now.,Nie możemy teraz wysłać przesyłki.
+Cannot update item quantity.,Nie można zaktualizować ilości produktu.
+The invoice has been voided.,Faktura została unieważniona.
+Invoice voiding error,Błąd opróżniania faktury
+%1 order(s) cannot be canceled., %1 rzędu (zamówień) nie może być anulowanych.
+You cannot cancel the order(s).,Nie można anulować zamówienia (zamówień).
+We canceled %1 order(s).,Anulowaliśmy zamówienia (%) w %1.
+%1 order(s) were not put on hold.,Kolejność (%) %1 nie została wstrzymana.
+No order(s) were put on hold.,Żadne zamówienia nie zostały wstrzymane.
+You have put %1 order(s) on hold.,Zawieszono kolejność %1.
+%1 order(s) were not released from on hold status., %1 zamówienia (zamówień) nie zostało zwolnionych ze stanu wstrzymania.
+No order(s) were released from on hold status.,Żadne zamówienia nie zostały zwolnione ze stanu wstrzymania.
+%1 order(s) have been released from on hold status., %1 zamówienia (zamówień) zostało zwolnionych ze stanu wstrzymania.
+There are no printable documents related to selected orders.,Brak dokumentów do wydrukowania związanych z wybranymi zamówieniami.
+The payment has been accepted.,Płatność została przyjęta.
+The payment has been denied.,Płatność została odrzucona.
+Transaction has been approved.,Transakcja została zatwierdzona.
+Transaction has been voided/declined.,Transakcja została unieważniona / odrzucona.
+There is no update for the transaction.,Nie ma aktualizacji dla transakcji.
+We can't update the payment right now.,Nie możemy teraz zaktualizować płatności.
+You assigned the order status.,Przydzieliłeś status zamówienia.
+Something went wrong while assigning the order status.,Coś poszło nie tak podczas przypisywania statusu zamówienia.
+We can't find this order status.,Nie możemy znaleźć tego statusu zamówienia.
+Create New Order Status,Utwórz nowy status zamówienia
+We found another order status with the same order status code.,Znaleźliśmy inny status zamówienia z tym samym kodem statusu zamówienia.
+You saved the order status.,Zapisałeś status zamówienia.
+We can't add the order status right now.,Nie możemy teraz dodać statusu zamówienia.
+You have unassigned the order status.,Masz nieprzypisany status zamówienia.
+Something went wrong while unassigning the order.,Coś poszło nie tak podczas cofania przydziału.
+Can't unhold order.,Nie można wstrzymać zamówienia.
+You released the order from holding status.,Wydałeś zamówienie ze statusu posiadania.
+The order was not on hold.,Zamówienie nie zostało wstrzymane.
+Exception occurred during order load,Wystąpił wyjątek podczas ładowania zamówienia
+Something went wrong while saving the gift message.,Coś poszło nie tak podczas zapisywania wiadomości podarunkowej.
+You saved the gift card message.,Zapisałeś wiadomość o karcie podarunkowej.
+The payment has been voided.,Płatność została anulowana.
+We can't void the payment right now.,Nie możemy teraz anulować płatności.
+Please correct the transaction ID and try again.,Popraw identyfikator transakcji i spróbuj ponownie.
+The transaction details have been updated.,Szczegóły transakcji zostały zaktualizowane.
+We can't update the transaction details.,Nie możemy zaktualizować szczegółów transakcji.
+Orders and Returns,Zamówienia i zwroty
+You entered incorrect data. Please try again.,Podałeś nieprawidłowe dane. Proszę spróbuj ponownie.
+Home,Dom
+Go to Home Page,Wróć do strony głównej
+We can't find this wish list.,Nie możemy znaleźć tej listy życzeń.
+"We could not add a product to cart by the ID ""%1"".","Nie można dodać produktu do koszyka według identyfikatora "" %1""."
+There is an error in one of the option rows.,Wystąpił błąd w jednym z wierszy opcji.
+Shipping Address: ,Adres wysyłki:
+Billing Address: ,Adres rozliczeniowy:
+Please specify order items.,Proszę podać elementy zamówienia.
+Please specify a shipping method.,Podaj metodę wysyłki.
+Please specify a payment method.,Podaj metodę płatności.
+This payment method is not available.,Ta metoda płatności jest niedostępna.
+Validation is failed.,Sprawdzanie poprawności nie powiodło się.
+You did not email your customer. Please check your email settings.,Nie wysłałeś wiadomości e-mail do swojego klienta. Sprawdź ustawienia poczty e-mail.
+-- Please Select --,-- Proszę wybrać --
+"Path ""%1"" is not part of allowed directory ""%2""","Ścieżka "" %1"" nie jest częścią dozwolonego katalogu "" %2"""
+Identifying Fields required,Wymagane pola identyfikacyjne
+Id required,Wymagany identyfikator
+"""Invoice Document Validation Error(s):\n"" .","""Błąd sprawdzania poprawności dokumentu faktury: \ n""."
+"Could not save an invoice, see error log for details","Nie można zapisać faktury, zobacz dziennik błędów, aby uzyskać szczegółowe informacje"
+A hold action is not available.,Akcja wstrzymania nie jest dostępna.
+You cannot remove the hold.,Nie możesz usunąć wstrzymania.
+We cannot cancel this order.,Nie możemy anulować tego zamówienia.
+Guest,Gość
+Please enter the first name.,Proszę podać imię.
+Please enter the last name.,Proszę podać nazwisko.
+Please enter the street.,Proszę podać ulicę.
+Please enter the city.,Proszę podać miasto.
+Please enter the phone number.,Wprowadź numer telefonu.
+Please enter the company.,Proszę podać firmę.
+Please enter the fax number.,Wprowadź numer faksu.
+Please enter the zip/postal code.,Wprowadź kod pocztowy / pocztowy.
+Please enter the country.,Proszę podać kraj.
+Please enter the state/province.,Wprowadź stan / prowincję.
+Requested entity doesn't exist,Żądany podmiot nie istnieje
+Could not delete order address,Nie można usunąć adresu zamówienia
+Could not save order address,Nie można zapisać adresu zamówienia
+Pending,W oczekiwaniu
+Refunded,Zwrócono środki
+Canceled,Odwołany
+Unknown State,Nieznany stan
+"We found an invalid quantity to refund item ""%1"".","Znaleźliśmy nieprawidłową ilość do zwrotu "" %1""."
+The creditmemo contains product item that is not part of the original order.,"Creditmemo zawiera produkt, który nie jest częścią oryginalnego zamówienia."
+The quantity to refund must not be greater than the unrefunded quantity.,Ilość do zwrotu nie może być większa niż ilość nieoficjalna.
+Maximum shipping amount allowed to refund is: %1,Maksymalna kwota przesyłki do zwrotu wynosi: %1
+Order Id is required for creditmemo document,Identyfikator zamówienia jest wymagany w przypadku dokumentu creditmemo
+"The creditmemo contains product SKU ""%1"" that is not part of the original order.","Creditmemo zawiera SKU produktu "" %1"", który nie jest częścią pierwotnego zamówienia."
+"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","Ilość do creditmemo nie może być większa niż nieoficjalna ilość dla SKU produktu "" %1""."
+You can't create a creditmemo without products.,Nie możesz utworzyć kredytu bez produktów.
+The most money available to refund is %1.,Najwięcej pieniędzy do zwrotu to %1.
+Could not delete credit memo,Nie można usunąć notatki kredytowej
+Could not save credit memo,Nie można zapisać noty kredytowej
+This order already has associated customer account,To zamówienie ma już powiązane konto klienta
+Paid,Płatny
+We cannot register an existing invoice,Nie możemy zarejestrować istniejącej faktury
+We can't create creditmemo for the invoice.,Nie możemy utworzyć creditmemo dla faktury.
+Order Id is required for invoice document,Identyfikator zamówienia jest wymagany w przypadku dokumentu faktury
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","Ilość do faktury nie może być większa niż niezafałszowana ilość dla SKU "" %1"" produktu."
+The invoice contains one or more items that are not part of the original order.,"Faktura zawiera jeden lub więcej elementów, które nie są częścią pierwotnego zamówienia."
+ID required,Wymagany identyfikator
+Unknown Status,Nieznany status
+Ordered,Zamówione
+Shipped,Wysłane
+Invoiced,Zafakturowane
+Backordered,Wzmocniony
+Returned,Zwrócony
+Partial,Częściowy
+Mixed,Mieszany
+Registered a Void notification.,Zarejestrowano powiadomienie o pustce.
+"If the invoice was created offline, try creating an offline credit memo.","Jeśli faktura została utworzona w trybie offline, spróbuj utworzyć notę ​​kredytową offline."
+We refunded %1 online.,Zwróciliśmy %1 online.
+We refunded %1 offline.,Zwróciliśmy %1 offline.
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Zwrócony"". Zwrot wydany przez kupca. Zarejestrowane powiadomienie o zwróconej kwocie %1. Identyfikator transakcji: "" %2"". Nota kredytowa nie została utworzona. Utwórz offline notę ​​kredytową."
+The credit memo has been created automatically.,Nota kredytowa została utworzona automatycznie.
+Registered notification about refunded amount of %1.,Zarejestrowane powiadomienie o zwróconej kwocie %1.
+Canceled order online,Anulowane zamówienie online
+Canceled order offline,Anulowane zamówienie w trybie offline
+Approved the payment online.,Zatwierdzono płatność online.
+There is no need to approve this payment.,Nie ma potrzeby zatwierdzania tej płatności.
+Denied the payment online,Odmowa płatności online
+Registered update about approved payment.,Zarejestrowana aktualizacja dotycząca zatwierdzonej płatności.
+Registered update about denied payment.,Zarejestrowana aktualizacja dotycząca odmowy płatności.
+There is no update for the payment.,Brak aktualizacji płatności.
+Voided authorization.,Unieważniono autoryzację.
+Amount: %1.,Kwota: %1.
+"Transaction ID: ""%1""","Identyfikator transakcji: "" %1"""
+The payment method you requested is not available.,Żądana metoda płatności jest niedostępna.
+The payment disallows storing objects.,Płatność uniemożliwia przechowywanie obiektów.
+"The transaction ""%1"" cannot be captured yet.","Transakcji "" %1"" nie można jeszcze przechwycić."
+The order amount of %1 is pending approval on the payment gateway.,Kwota zamówienia %1 oczekuje na zatwierdzenie w bramce płatności.
+Ordered amount of %1,Zamówiona kwota %1
+An amount of %1 will be captured after being approved at the payment gateway.,Kwota %1 zostanie przechwycona po zatwierdzeniu w bramce płatności.
+Registered notification about captured amount of %1.,Zarejestrowane powiadomienie o przechwyconej ilości %1.
+Order is suspended as its capture amount %1 is suspected to be fraudulent.,"Zamówienie zostało zawieszone, ponieważ jego kwota przechwytywania %1 jest podejrzewana o nieuczciwość."
+The parent transaction ID must have a transaction ID.,Identyfikator transakcji nadrzędnej musi mieć identyfikator transakcji.
+Payment transactions disallow storing objects.,Transakcje płatności uniemożliwiają przechowywanie obiektów.
+"The transaction ""%1"" (%2) is already closed.","Transakcja "" %1"" ( %2) jest już zamknięta."
+Set order for existing transactions not allowed,Ustaw kolejność dla istniejących transakcji jest niedozwolona
+"At minimum, you need to set a payment ID.",Co najmniej musisz ustawić identyfikator płatności.
+Order,Zamówienie
+Authorization,Upoważnienie
+"We found an unsupported transaction type ""%1"".","Znaleźliśmy nieobsługiwany typ transakcji "" %1""."
+Please set a proper payment and order id.,Ustaw prawidłową płatność i identyfikator zamówienia.
+Please enter a Transaction ID.,Wprowadź identyfikator transakcji.
+You can't do this without a transaction object.,Nie można tego zrobić bez obiektu transakcji.
+Order # ,Zamówienie #
+Order Date: ,Data zamówienia:
+Sold to:,Sprzedany:
+Ship to:,Dostawa do:
+Payment Method:,Metoda płatności:
+Shipping Method:,Sposób wysyłki:
+Total Shipping Charges,Całkowite koszty wysyłki
+Title,Tytuł
+Number,Numer
+We found an invalid renderer model.,Znaleźliśmy nieprawidłowy model renderera.
+Please define the PDF object before using.,Zdefiniuj obiekt PDF przed użyciem.
+"We don't recognize the draw line data. Please define the ""lines"" array.","Nie rozpoznajemy danych linii wyciągania. Zdefiniuj tablicę ""lines""."
+Products,Produkty
+Total (ex),Razem (ex)
+Qty,Ilość
+Tax,Podatek
+Total (inc),Łącznie (inc)
+Credit Memo # ,Nota kredytowa #
+Invoice # ,Faktura #
+The order object is not specified.,Obiekt zamówienia nie został określony.
+The source object is not specified.,Obiekt źródłowy nie jest określony.
+An item object is not specified.,Obiekt elementu nie został określony.
+A PDF object is not specified.,Obiekt PDF nie został określony.
+A PDF page object is not specified.,Obiekt strony PDF nie został określony.
+Excl. Tax,Excl. Podatek
+Incl. Tax,Incl. Podatek
+Packing Slip # ,Packing Slip #
+title,tytuł
+The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.,Pełny model PDF %1 musi być rozszerzony \ Magento \ Sales \ Model \ Order \ Pdf \ Total \ DefaultTotal.
+We cannot register an existing shipment,Nie możemy zarejestrować istniejącej przesyłki
+Parent shipment cannot be loaded for track object.,Nie można załadować przesyłki nadrzędnej dla obiektu ścieżki.
+Order Id is required for shipment document,Identyfikator zamówienia jest wymagany w przypadku dokumentu wysyłki
+You can't create a shipment without products.,Nie możesz utworzyć przesyłki bez produktów.
+"The shipment contains product SKU ""%1"" that is not part of the original order.","Przesyłka zawiera SKU produktu "" %1"", który nie jest częścią pierwotnego zamówienia."
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","Ilość do wysłania nie może być większa niż ilość wysyłkowa dla SKU produktu "" %1""."
+Please enter a tracking number.,Wprowadź numer śledzenia.
+Could not delete shipment,Nie można usunąć przesyłki
+Could not save shipment,Nie można zapisać przesyłki
+The last status can't be unassigned from its current state.,Ostatniego statusu nie można cofnąć z jego obecnego stanu.
+"Status can't be unassigned, because it is used by existing order(s).","Status nie może zostać cofnięty, ponieważ jest używany przez istniejące zamówienia."
+The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.,Całkowity model powinien zostać przedłużony z \ Magento \ Sales \ Model \ Order \ Total \ AbstractTotal.
+An invoice cannot be created when an order has a status of %1,"Faktury nie można utworzyć, gdy zamówienie ma status %1"
+A creditmemo can not be created when an order has a status of %1,"Kredytu nie można utworzyć, gdy zamówienie ma status %1"
+The order does not allow a creditmemo to be created.,Zamówienie nie pozwala na utworzenie kredytu kredytowego.
+A shipment cannot be created when an order has a status of %1,"Przesyłka nie może zostać utworzona, gdy zamówienie ma status %1"
+The order does not allow a shipment to be created.,Zamówienie nie pozwala na utworzenie przesyłki.
+"""Creditmemo Document Validation Error(s):\n"" .","""Błąd sprawdzania poprawności dokumentów kredytowych: \ n""."
+"Could not save a Creditmemo, see error log for details","Nie można zapisać Creditmemo, zobacz dziennik błędów, aby poznać szczegóły"
+We cannot determine the field name.,Nie możemy określić nazwy pola.
+City,Miasto
+Company,Firma
+Country,Kraj
+Email,E-mail
+First Name,Pierwsze imię
+Last Name,Nazwisko
+State/Province,Stan / prowincja
+Street Address,Adres ulicy
+Phone Number,Numer telefonu
+Zip/Postal Code,Kod pocztowy
+We can't save the address:\n%1,Nie możemy zapisać adresu: \ n %1
+Cannot save comment:\n%1,Nie można zapisać komentarza: \ n %1
+We don't have enough information to save the parent transaction ID.,"Nie mamy wystarczających informacji, aby zapisać macierzysty identyfikator transakcji."
+We cannot create an empty shipment.,Nie możemy utworzyć pustej przesyłki.
+Cannot save track:\n%1,Nie można zapisać śladu: \ n %1
+Cannot unassign status from state,Nie można cofnąć statusu ze stanu
+New Orders,Nowe zamówienia
+Order #%1 created at %2,Zamówienie nr %1 utworzone na %2
+Details for %1 #%2,Szczegóły dla %1 # %2
+Notified Date: %1,Data powiadomienia: %1
+Comment: %1<br/>,Komentarz: %1 <br/>
+Current Status: %1<br/>,Bieżący status: %1 <br/>
+Total: %1<br/>,Łącznie: %1 <br/>
+Order # %1 Notification(s),Zamówienie nr %1 Powiadomienia
+You can not cancel Credit Memo,Nie możesz anulować noty kredytowej
+Could not cancel creditmemo,Nie można anulować kredytu creditmemo
+We cannot register an existing credit memo.,Nie możemy zarejestrować istniejącej noty kredytowej.
+"We found an invalid quantity to invoice item ""%1"".","Znaleźliśmy nieprawidłową ilość do faktury "" %1""."
+"The Order State ""%1"" must not be set manually.","Stan zamówienia "" %1"" nie może być ustawiony ręcznie."
+"""Shipment Document Validation Error(s):\n"" .","""Błędy sprawdzania poprawności dokumentu wysyłki: \ n""."
+"Could not save a shipment, see error log for details","Nie można zapisać przesyłki, zobacz dziennik błędów, aby uzyskać szczegółowe informacje"
+VAT Request Identifier,Identyfikator żądania VAT
+VAT Request Date,Data wniosku VAT
+Pending Payment,Oczekująca płatność
+Processing,Przetwarzanie
+On Hold,W oczekiwaniu
+Complete,Kompletny
+Closed,Zamknięte
+Suspected Fraud,Podejrzane oszustwo
+Payment Review,Przegląd płatności
+New,Nowy
+test message,wiadomość testowa
+Email has not been sent,Email nie został wysłany
+Authorized amount of %1.,Autoryzowana kwota %1.
+We will authorize %1 after the payment is approved at the payment gateway.,Autoryzujemy %1 po zatwierdzeniu płatności w bramce płatności.
+Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.,"Autoryzowana kwota %1. Zamówienie zostaje zawieszone, ponieważ jego autoryzująca kwota %1 jest podejrzewana o oszustwo."
+Captured amount of %1 online.,Przechwycono kwotę %1 online.
+Authorized amount of %1,Autoryzowana kwota %1
+" Transaction ID: ""%1"""," Identyfikator transakcji: "" %1"""
+View,Widok
+Group was removed,Grupa została usunięta
+"Changing address information will not recalculate shipping, tax or other order amount.","Zmiana danych adresowych nie spowoduje ponownego obliczenia kwoty dostawy, podatku lub innego zamówienia."
+Comment Text,Tekst komentarza
+Notify Customer by Email,Powiadom klienta e-mailem
+Visible on Storefront,Widoczny na stronie sklepu
+Customer,Klient
+Notified,Powiadomiony
+Not Notified,Not Notified
+No Payment Methods,Brak metod płatności
+Order Comments,Zamów komentarze
+Apply Coupon Code,Zastosuj kod kuponu
+Apply,Zastosować
+Remove Coupon Code,Usuń kod kuponu
+Remove,Usunąć
+Address Information,Informacje adresowe
+Payment &amp; Shipping Information,Płatność i płatność informacje wysyłkowe
+Order Total,Suma zamówienia
+Order Currency:,Zamów walutę:
+Same As Billing Address,Taki sam jak adres rozliczeniowy
+Select from existing customer addresses:,Wybierz z istniejących adresów klientów:
+Add New Address,Dodaj nowy adres
+Save in address book,Zapisz w książce adresowej
+You don't need to select a shipping address.,Nie musisz wybierać adresu dostawy.
+Gift Message for the Entire Order,Wiadomość prezentowa dla całego zamówienia
+Leave this box blank if you don't want to leave a gift message for the entire order.,"Pozostaw to pole puste, jeśli nie chcesz zostawiać wiadomości prezentowej dla całego zamówienia."
+Row Subtotal,Wiersz Suma
+Action,Akcja
+No ordered items,Brak zamówionych przedmiotów
+Update Items and Quantities,Aktualizuj przedmioty i ilości
+Total %1 product(s),Razem %1 produktu (ów)
+Subtotal:,Podsuma:
+Tier Pricing,Poziom cen
+Custom Price,Cena niestandardowa
+Please select,Proszę wybrać
+Move to Shopping Cart,Przenieś do koszyka
+Move to Wish List,Przejdź do listy życzeń
+Subscribe to Newsletter,Zapisz się do newslettera
+Click to change shipping method,"Kliknij, aby zmienić metodę wysyłki"
+"Sorry, no quotes are available for this order.","Niestety, nie ma ofert dla tego zamówienia."
+Get shipping methods and rates,Uzyskaj metody wysyłki i stawki
+You don't need to select a shipping method.,Nie musisz wybierać metody wysyłki.
+Customer's Activities,Działania klienta
+Refresh,Odświeżać
+Item,Pozycja
+Add To Order,Dodaj do zamówienia
+Configure and Add to Order,Skonfiguruj i dodaj do zamówienia
+No items,Żadnych przedmiotów
+Append Comments,Dołącz komentarze
+Email Order Confirmation,Potwierdzenie zamówienia pocztą e-mail
+Grand Total Excl. Tax,Grand Total Excl. Podatek
+Grand Total Incl. Tax,Grand Total Incl. Podatek
+Subtotal (Excl. Tax),Podsuma (bez podatku)
+Subtotal (Incl. Tax),Podsuma (z podatkiem)
+Payment &amp; Shipping Method,Płatność i płatność Sposób wysyłki
+Payment Information,Informacje o płatności
+The order was placed using %1.,Zamówienie zostało złożone za pomocą %1.
+Shipping Information,informacje wysyłkowe
+Items to Refund,Produkty do Zwrotu
+Return to Stock,Wróć do magazynu
+Qty to Refund,Ilość do Zwrotu
+Tax Amount,Wysokość podatku
+Discount Amount,Kwota rabatu
+Row Total,Rząd łącznie
+No Items To Refund,Brak przedmiotów do zwrotu
+Credit Memo Comments,Komentarze do notatek kredytowych
+Refund Totals,Zwroty sumy
+Email Copy of Credit Memo,Email Copy of Credit Memo
+Please enter a positive number in this field.,Wpisz liczbę dodatnią w tym polu.
+Items Refunded,Produkty zwrócone
+No Items,Żadnych przedmiotów
+Memo Total,Memo Total
+Credit Memo History,Historia not kredytowych
+Credit Memo Totals,Nota kredytowa
+Customer Name: %1,Nazwa klienta: %1
+Purchased From: %1,Kupione od: %1
+Gift Message,Wiadomość na prezent
+From:,Od:
+To:,Do:
+Message:,Wiadomość:
+Shipping &amp; Handling,Wysyłka i amp; Obsługa
+Gift Options,Opcje upominków
+Create Shipment,Utwórz przesyłkę
+Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.,Typy faktur i przesyłek nie pasują do niektórych pozycji w tym zamówieniu. Możesz utworzyć przesyłkę dopiero po utworzeniu faktury.
+%1, %1
+Qty to Invoice,Ilość do faktury
+Invoice History,Historia faktur
+Invoice Comments,Komentarze na fakturze
+Invoice Totals,Sumy faktur
+Amount,Ilość
+Capture Online,Przechwyć online
+Capture Offline,Przechwyć offline
+Not Capture,Nie przechwytuj
+The invoice will be created offline without the payment gateway.,Faktura zostanie utworzona w trybie offline bez bramy płatności.
+Email Copy of Invoice,E-mail Kopia faktury
+Items Invoiced,Zafakturowane produkty
+Total Tax,Podatek całkowity
+From Name,Z nazwy
+To Name,Nazwać
+Status,Status
+Comment,Komentarz
+Notification Not Applicable,Powiadomienie nie dotyczy
+Order & Account Information,Informacje o zamówieniu i koncie
+The order confirmation email was sent,Wiadomość e-mail z potwierdzeniem zamówienia została wysłana
+The order confirmation email is not sent,Wiadomość e-mail z potwierdzeniem zamówienia nie została wysłana
+Order Date,Data zamówienia
+Order Date (%1),Data zamówienia ( %1)
+Purchased From,Kupiony od
+Link to the New Order,Link do nowego zamówienia
+Link to the Previous Order,Link do poprzedniego zamówienia
+Placed from IP,Umieszczono w IP
+%1 / %2 rate:,Współczynnik %1 / %2:
+Customer Name,Nazwa klienta
+Customer Group,Grupa klientów
+Notes for this Order,Uwagi do tego zamówienia
+Comment added,Dodano komentarz
+Transaction Data,Dane transakcji
+Transaction ID,Identyfikator transakcji
+Parent Transaction ID,Nadrzędny identyfikator transakcji
+Order ID,ID zamówienia
+Transaction Type,typ transakcji
+Is Closed,Zamknięte
+Created At,Utworzono w
+Child Transactions,Transakcje podrzędne
+Transaction Details,szczegóły transakcji
+Items,Przedmiotów
+Gift Message for this Order,Wiadomość prezentowa dla tego zamówienia
+Shipped By,Wysłane przez
+Tracking Number,Numer przesyłki
+Billing Last Name,Billing Last Name
+Find Order By,Znajdź zamówienie według
+ZIP Code,Kod pocztowy
+Billing ZIP Code,Billing ZIP Code
+Continue,Kontyntynuj
+Print All Refunds,Wydrukuj wszystkie zwroty
+Refund #,Zwrot #
+Print Refund,Wydrukuj zwrot pieniędzy
+Product Name,Nazwa produktu
+Order #,Zamówienie #
+Date,Data
+Ship To,Dostawa do
+Actions,działania
+View Order,Wyświetl zamówienie
+You have placed no orders.,Nie złożyłeś żadnych zamówień.
+No shipping information available,Brak dostępnych informacji o wysyłce
+Print Order,Zamówienie drukowania
+Print All Invoices,Wydrukuj wszystkie faktury
+Invoice #,Faktura #
+Print Invoice,Wydrukować fakturę
+Qty Invoiced,Ilość zafakturowanych
+Close,Blisko
+About Your Order,O Twoim zamówieniu
+"<span class=""label"">Order Date:</span> %1","<span class = ""label""> Data zamówienia: </ span> %1"
+Refund #%1,Zwrot # %1
+Shipment #%1,Przesyłka # %1
+Qty Shipped,Ilość wysłana
+Recent Orders,ostatnie zamówienia
+View All,Pokaż wszystkie
+Gift Message for This Order,Wiadomość prezentowa dla tego zamówienia
+Recently Ordered,Ostatnio zamówione
+Add to Cart,Dodaj do koszyka
+Search,Szukanie
+Credit memo for your %store_name order,Nota kredytowa dla twojego zamówienia% store_name
+"%name,","%Nazwa,"
+Thank you for your order from %store_name.,Dziękujemy za zamówienie z% store_name.
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Możesz sprawdzić stan swojego zamówienia, <a href=""%account_url""> logując się na swoje konto </a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące zamówienia, możesz wysłać do nas e-mail na <a href=""mailto:%store_email"">% store_email </a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas na <a href=""tel:%store_phone"">% store_phone </a>"
+"Our hours are <span class=""no-link"">%store_hours</span>.","Nasze godziny to <span class = ""no-link"">% store_hours </ span>."
+Your Credit Memo #%creditmemo_id for Order #%order_id,Twoja nr faktury #% creditmemo_id dla zamówienia nr% order_id
+Billing Info,Informacja rachunkowa
+Shipping Info,informacje o dostawie
+Update to your %store_name credit memo,Zaktualizuj swoją notatkę kredytową% store_name
+Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.,Twoje zamówienie #% increment_id zostało zaktualizowane ze statusem <strong>% order_status </ strong>.
+Invoice for your %store_name order,Faktura dla Twojego zamówienia% store_name
+Your Invoice #%invoice_id for Order #%order_id,Twoja faktura #% identyfikator_ faktury dla zamówienia nr% identyfikator zamówienia
+Update to your %store_name invoice,Zaktualizuj do faktury% store_name
+Your %store_name order confirmation,Twoje potwierdzenie zamówienia% store_name
+"%customer_name,","% nazwa_klienta,"
+Once your package ships we will send you a tracking number.,"Gdy twoje paczki zostaną wysłane, wyślemy ci numer śledzenia."
+"Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class = ""no-link""> #% increment_id </ span>"
+"Placed on <span class=""no-link"">%created_at</span>","Umieszczono w <span class = ""no-link"">% created_at </ span>"
+Once your package ships we will send an email with a link to track your order.,Po wysłaniu paczki wyślemy e-mail z linkiem do śledzenia zamówienia.
+Update to your %store_name order,Zaktualizuj kolejność% store_name
+Your %store_name order has shipped,Twoje zamówienie% store_name zostało wysłane
+Your shipping confirmation is below. Thank you again for your business.,Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twój biznes.
+Your Shipment #%shipment_id for Order #%order_id,Twoja przesyłka #% identyfikator_przesyłki dla zamówienia nr% identyfikator_ zamówienia
+Update to your %store_name shipment,Zaktualizuj przesyłkę% store_name
+Gift Options for ,Opcje upominków dla
+Add Products,Dodaj produkty
+You have item changes,Masz zmiany w przedmiotach
+Ok,Ok
+Operations,Operacje
+Create,Stwórz
+Send Order Email,Wyślij e-mail z zamówieniem
+Accept or Deny Payment,Zaakceptuj lub Odrzuć płatność
+Send Sales Emails,Wyślij e-maile dotyczące sprzedaży
+Sales Section,Sekcja sprzedaży
+Sales Emails Section,Sekcja sprzedaży e-maili
+General,Generał
+Hide Customer IP,Ukryj adres IP klienta
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Wybierz, czy adres IP klienta jest wyświetlany w zamówieniach, fakturach, wysyłkach i notach kredytowych."
+Checkout Totals Sort Order,Zamówienie kolejności sortowania zamówienia
+Allow Reorder,Zezwalaj na zmianę kolejności
+Invoice and Packing Slip Design,Projekt faktur i opakowań spakowanych
+Logo for PDF Print-outs (200x50),Logo do wydruków PDF (200x50)
+"
+                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                    ","Twoje domyślne logo będzie używane w dokumentach PDF i HTML. <br /> (jpeg, tiff, png) Jeśli obraz w pliku PDF jest zniekształcony, spróbuj użyć większego obrazu o rozmiarze pliku."
+Logo for HTML Print View,Logo dla HTML Print View
+"
+                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                    ","Logo tylko dla dokumentów HTML. Jeśli jest pusty, zostanie użyty domyślny. <br /> (jpeg, gif, png)"
+Address,Adres
+Minimum Order Amount,Minimalna kwota zamówienia
+Enable,Włączyć
+Minimum Amount,Stawka minimalna
+Subtotal after discount,Suma częściowa po rabacie
+Include Tax to Amount,Uwzględnij podatek do kwoty
+Description Message,Opis Wiadomość
+This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.,"Ta wiadomość zostanie wyświetlona w koszyku, gdy suma częściowa (po obniżce) jest niższa niż minimalna dozwolona kwota."
+Error to Show in Shopping Cart,Błąd wyświetlania w koszyku
+Validate Each Address Separately in Multi-address Checkout,Potwierdź każdy adres oddzielnie w wielu adresach kasy
+Multi-address Description Message,Wiele adresów Opis Wiadomość
+We'll use the default description above if you leave this empty.,"Będziemy używać domyślnego opisu powyżej, jeśli pozostawisz to pole puste."
+Multi-address Error to Show in Shopping Cart,Błąd adresu wielokrotnego do wyświetlenia w koszyku
+We'll use the default error above if you leave this empty.,"Użyjemy domyślnego błędu powyżej, jeśli pozostawisz to puste."
+Dashboard,Deska rozdzielcza
+Use Aggregated Data,Użyj zagregowanych danych
+Orders Cron Settings,Zamówienia Ustawienia Cron
+Pending Payment Order Lifetime (minutes),Żądanie realizacji płatności w toku (minuty)
+Sales Emails,Sprzedaż e-maili
+Asynchronous sending,Przesyłanie asynchroniczne
+Enabled,Włączone
+New Order Confirmation Email Sender,Nowa wiadomość e-mail z potwierdzeniem zamówienia
+New Order Confirmation Template,Nowy szablon potwierdzenia zamówienia
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrano szablon wiadomości e-mail na podstawie zastępczego motywu, gdy wybrano opcję ""Domyślne""."
+New Order Confirmation Template for Guest,Nowy szablon potwierdzenia zamówienia dla gościa
+Send Order Email Copy To,Wyślij zamówienie E-mail Kopiuj do
+Comma-separated,Oddzielone przecinkami
+Send Order Email Copy Method,Wyślij Zamówienie Metoda kopiowania wiadomości e-mail
+Order Comment Email Sender,Zamów komentarz e-mail nadawcy
+Order Comment Email Template,Zamów komentarz Szablon e-maila
+Order Comment Email Template for Guest,Zamów komentarz Szablon wiadomości e-mail dla gości
+Send Order Comment Email Copy To,Wyślij zamówienie Komentarz e-mail Kopiuj do
+Send Order Comments Email Copy Method,Wyślij zamówienie Komentarze Email Copy Method
+Invoice Email Sender,Invoice Email Sender
+Invoice Email Template,Szablon e-maila faktury
+Invoice Email Template for Guest,Szablon e-maila faktury dla gości
+Send Invoice Email Copy To,Wyślij wiadomość e-mail Kopiuj do
+Send Invoice Email Copy Method,Wyślij kopię e-mailem faktury
+Invoice Comment Email Sender,Invoice Comment Email Sender
+Invoice Comment Email Template,Szablon e-maila z komentarzem do faktury
+Invoice Comment Email Template for Guest,Szablon e-maila z komentarzem do faktury dla gości
+Send Invoice Comment Email Copy To,Wyślij komentarz faktury e-mail Kopiuj do
+Send Invoice Comments Email Copy Method,Wyślij fakturę Komentarze Email Copy Method
+Shipment,Wysyłka
+Shipment Email Sender,Wysłanie e-maila nadawcy
+Shipment Email Template,Szablon e-maila wysyłkowego
+Shipment Email Template for Guest,Szablon wiadomości e-mail przesyłki dla gości
+Send Shipment Email Copy To,Wyślij przesyłkę E-mail Kopiuj do
+Send Shipment Email Copy Method,Wyślij e-mail Kopiowanie Metoda
+Shipment Comments,Komentarze przesyłki
+Shipment Comment Email Sender,Wyślij wiadomość e-mail nadawcy
+Shipment Comment Email Template,Szablon wiadomości e-mail z komentarzem do wysyłki
+Shipment Comment Email Template for Guest,Szablon wiadomości e-mail z zaproszeniem do wysyłki
+Send Shipment Comment Email Copy To,Wyślij przesyłkę Komentarz e-mail Kopiuj do
+Send Shipment Comments Email Copy Method,Wyślij przesyłkę Komentarze Email Copy Method
+Credit Memo Email Sender,Nota kredytowa Email Send
+Credit Memo Email Template,Szablon wiadomości e-mail z notą kredytową
+Credit Memo Email Template for Guest,Szablon wiadomości e-mail z notą kredytową dla gości
+Send Credit Memo Email Copy To,Wyślij email do wiadomości e-mail Kopiuj do
+Send Credit Memo Email Copy Method,Wyślij notę ​​kredytową Email Copy Method
+Credit Memo Comment Email Sender,Komentarz do notatki kredytowej Wyślij wiadomość e-mail do nadawcy
+Credit Memo Comment Email Template,Szablon wiadomości e-mail z komentarzem do wiadomości
+Credit Memo Comment Email Template for Guest,Komentarz do wiadomości e-mail Szablon wiadomości e-mail dla gości
+Send Credit Memo Comment Email Copy To,Wyślij komentarz do wiadomości kredytowej Kopiuj do
+Send Credit Memo Comments Email Copy Method,Wyślij komentarze do wiadomości kredytowych Metoda kopiowania wiadomości e-mail
+PDF Print-outs,Wydruk PDF
+Display Order ID in Header,Wyświetl identyfikator zamówienia w nagłówku
+Customer Order Status Notification,Powiadomienie o statusie zamówienia klienta
+Asynchronous indexing,Asynchroniczne indeksowanie
+Orders and Returns Search Form,Formularz wyszukiwania zamówień i zwrotów
+Anchor Custom Title,Anchor Custom Title
+Template,Szablon
+Default Template,Domyślny szablon
+Name,Nazwa
+Phone,Telefon
+ZIP/Post Code,Kod pocztowy
+Signed-up Point,Punkt rejestracji
+Website,Stronie internetowej
+Bill-to Name,Nazwa rachunku
+Created,Stworzony
+Invoice Date,Data faktury
+Ship-to Name,Nazwa wysyłki
+Ship Date,Data wysyłki
+Total Quantity,Całkowita ilość
+Default Status,Domyślny status
+State Code and Title,Kod państwa i tytuł
+Item Status,Status produktu
+Original Price,Cena oryginalna
+Tax Percent,Procent podatkowy
+All Store Views,Wszystkie widoki Store
+PDF Credit Memos,PDF Credit Memos
+Purchase Point,Punkt zakupu
+Print Invoices,Drukuj faktury
+Print Packing Slips,Wydrukuj spinki do pakowania
+Print Credit Memos,Wydrukuj noty kredytowe
+Print All,Drukuj wszystko
+Print Shipping Labels,Wydrukuj etykiety wysyłkowe
+Purchase Date,Data zakupu
+Grand Total (Base),Grand Total (baza)
+Grand Total (Purchased),Suma całkowita (zakupiona)
+Customer Email,E-mail klienta
+Shipping and Handling,Wysyłka i doręczenie
+PDF Invoices,Faktury PDF
+PDF Shipments,Przesyłki PDF
+PDF Creditmemos,PDF Creditmemos
+Refunds,Zwroty

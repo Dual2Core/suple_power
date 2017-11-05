@@ -1,0 +1,7 @@
+Dictionary (Translation on Storefront side),Słownik (tłumaczenie na stronie Storefront)
+Embedded (Translation on Admin side),Wbudowany (Tłumaczenie po stronie administratora)
+"Error while translating phrase ""%s"" in file %s.","Błąd podczas tłumaczenia wyrażenia ""%s"" w pliku %s."
+"Error while generating js translation dictionary: ""%s""","Błąd podczas generowania słownika tłumaczeń JS: ""%s"""
+Translation Strategy,Strategia tłumaczenia
+Translations,Tłumaczenia
+Translation files,Pliki tłumaczeń

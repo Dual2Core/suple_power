@@ -1,0 +1,30 @@
+Always,Zawsze
+After number of attempts to login,Po liczbie prób logowania
+Provided form does not exist,Dostarczony formularz nie istnieje
+Incorrect CAPTCHA,Błędne CAPTCHA
+Incorrect CAPTCHA.,Błędne CAPTCHA.
+The account is locked. Please wait and try again or contact %1.,Konto jest zablokowane. Poczekaj i spróbuj ponownie lub skontaktuj się z% 1.
+Please enter the letters from the image,Proszę wprowadzić litery z obrazu
+<strong>Attention</strong>: Captcha is case sensitive.,<strong> Uwaga </ strong>: Captcha rozróżniana jest wielkość liter.
+Reload captcha,Załaduj ponownie captcha
+Please type the letters below,Proszę wpisać poniższe litery
+Attention: Captcha is case sensitive.,Uwaga: Captcha jest rozróżniana wielkość liter.
+CAPTCHA,CAPTCHA
+Enable CAPTCHA in Admin,Włącz CAPTCHA w Admin
+Font,Czcionka
+Forms,Formularze
+Displaying Mode,Tryb wyświetlania
+Number of Unsuccessful Attempts to Login,Liczba nieudanych prób logowania
+"If 0 is specified, CAPTCHA on the Login form will be always available.","Jeśli zostanie podane 0, CAPTCHA w formularzu logowania będzie zawsze dostępny."
+CAPTCHA Timeout (minutes),Limit czasu CAPTCHA (minuty)
+Number of Symbols,Liczba symboli
+Please specify 8 symbols at the most. Range allowed (e.g. 3-5),Proszę podać co najwyżej 8 symboli. Dopuszczalny zakres (np. 3-5)
+Symbols Used in CAPTCHA,Symbole używane w CAPTCHA
+"
+                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                    ",""""
+Case Sensitive,"                        W tym polu należy używać tylko liter (a-z lub A-Z) lub cyfr (0-9). Nie zezwala się na spacje ani inne postacie. <br /> Podobne postacie (np. ""I"" "","" ""l"" "","" ""1"" "") zmniejszają prawdopodobieństwo prawidłowego uznania przez klienta."
+Enable CAPTCHA on Storefront,"                    """
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",Sprawa wrażliwa
+,Włącz CAPTCHA na Storefront
+,"CAPTCHA dla formularzy ""Utwórz użytkownika"" i ""Nie pamiętam hasła"" jest zawsze włączona, jeśli jest zaznaczona."

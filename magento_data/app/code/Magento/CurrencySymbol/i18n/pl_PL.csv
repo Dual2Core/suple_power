@@ -1,0 +1,20 @@
+Save Currency Rates,Zapisz stawki walutowe
+Options,Opcje
+Reset,Nastawić
+Import,Import
+Manage Currency Rates,Zarządzaj kursami walut
+Import Service,Usługa importu
+Save Currency Symbols,Zapisz symbole walut
+Currency Symbols,Symbole walutowe
+Use Standard,Użyj standardu
+Please specify a correct Import Service.,Proszę podać prawidłową usługę importowania.
+We can't initialize the import model.,Nie można zainicjować modelu importu.
+"Click ""Save"" to apply the rates we found.","Kliknij przycisk ""Zapisz"", aby zastosować ustalone przez nas stawki."
+Currency Rates,Kursy Walutowe
+"Please correct the input data for ""%1 => %2"" rate.","Proszę poprawić dane wejściowe dla ""%1 =>%2""."
+All valid rates have been saved.,Wszystkie prawidłowe stawki zostały zapisane.
+System,System
+You applied the custom currency symbols.,Zastosowano niestandardowe symbole walut.
+You must first configure currency options before being able to see currency rates.,"Najpierw musisz skonfigurować opcje walutowe, zanim będzie można zobaczyć kursy walut."
+Old rate:,Stara stopa:
+Currency,Waluta

@@ -1,0 +1,35 @@
+Grouped Products,Pogrupowane produkty
+Please specify the quantity of product(s).,Proszę podać ilość produktu (-ów).
+Cannot process the item.,Nie można przetworzyć przedmiotu.
+Add Products to Group,Dodaj produkty do grupy
+Cancel,Anuluj
+Add Selected Products,Dodaj wybrane produkty
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","Zgrupowany produkt składa się z wielu samodzielnych produktów prezentowanych jako grupa. Możesz oferować wariacje pojedynczego produktu lub grupować je według pory roku lub tematu, aby utworzyć skoordynowany zestaw. Każdy produkt można kupić osobno lub jako część grupy."
+Remove,Usunąć
+ID,ID
+Thumbnail,Miniaturka
+Name,Nazwa
+Attribute Set,Zestaw atrybutów
+Status,Status
+SKU,SKU
+Price,Cena
+Default Quantity,Domyślna ilość
+Actions,działania
+Associated Products,Powiązane produkty
+Availability:,Dostępność:
+Out of stock,Obecnie brak na stanie
+Product Name,Nazwa produktu
+Qty,Ilość
+No options of this product are available.,Brak dostępnych opcji tego produktu.
+There are no grouped products.,Brak pogrupowanych produktów.
+Default Qty,Domyślna ilość
+Starting at,Zaczynać od
+Availability,Dostępność
+In stock,Na stanie
+Grouped product items,Zgrupowane produkty
+Grouped Product Image,Pogrupowany obraz produktu
+Select...,Wybierz...
+Type,Rodzaj
+Quantity,Ilość
+AttributeSetText,AttributeSetText
+StatusText,StatusText

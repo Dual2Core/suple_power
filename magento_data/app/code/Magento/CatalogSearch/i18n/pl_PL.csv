@@ -1,0 +1,39 @@
+Home,Dom
+Go to Home Page,Wróć do strony głównej
+Catalog Advanced Search,Katalog Wyszukiwanie zaawansowane
+All,Wszystko
+Yes,tak
+No,Nie
+Results,wyniki
+Advanced Search Results,Zaawansowane wyniki wyszukiwania
+Grid,Krata
+List,Lista
+Search Weight,Waga wyszukiwania
+Relevance,Stosowność
+Search results for: '%1',Wyniki wyszukiwania dla: ' %1'
+Minimum Search query length is %1,Minimalna długość zapytania wyszukiwania to %1
+Please specify at least one search term.,Proszę podać co najmniej jedno wyszukiwane hasło.
+%1 and greater, %1 i więcej
+up to %1,do %1
+". "" which is inconsistent with state of scope resolver""",". ""niezgodne z zakresem rozwiązywania problemów"""
+Category,Kategoria
+%1 and above, %1 i powyżej
+%1 - %2, %1 - %2
+"Sorry, something went wrong. You can find out more in the error log.","Przepraszam, coś poszło nie tak. Więcej informacji można znaleźć w dzienniku błędów."
+Bucket does not exist,Wiadro nie istnieje
+Product,Produkt
+Search Settings,Ustawienia wyszukiwania
+Search,Szukanie
+Advanced Search,zaawansowane wyszukiwanie
+<strong>%1 item</strong> were found using the following search criteria,<strong> %1 element </ strong> zostały znalezione przy użyciu następujących kryteriów wyszukiwania
+<strong>%1 items</strong> were found using the following search criteria,Znaleziono <strong> %1 elementów </ strong> przy użyciu następujących kryteriów wyszukiwania
+We can't find any items matching these search criteria.,Nie możemy znaleźć żadnych elementów spełniających te kryteria.
+Modify your search.,Modyfikuj wyszukiwanie.
+name,Nazwa
+Don't see what you're looking for?,"Nie widzisz tego, czego szukasz?"
+Your search returned no results.,Twoje wyszukiwanie nie przyniosło żadnych rezultatów.
+Popular Search Terms,Popularne wyszukiwane hasła
+Catalog Search,Wyszukiwanie katalogu
+Minimal Query Length,Minimalna długość zapytania
+Maximum Query Length,Maksymalna długość zapytania
+Rebuild Catalog product fulltext search index,Indeks wyszukiwania indeksu pełnego katalogu produktów

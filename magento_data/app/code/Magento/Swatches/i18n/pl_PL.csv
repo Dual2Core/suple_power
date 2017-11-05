@@ -1,0 +1,40 @@
+Admin is a required field in the each row,Administrator jest polem wymaganym w każdym wierszu
+Update Product Preview Image,Zaktualizuj obraz podglądu produktu
+Filtering by this attribute will update the product image on catalog page,Filtrowanie według tego atrybutu powoduje aktualizację obrazu produktu na stronie katalogu
+Use Product Image for Swatch if Possible,"Użyj obrazu produktu dla próbki, jeśli to możliwe"
+Allows use fallback logic for replacing swatch image with product swatch or base image,Umożliwia logikę awaryjną użycia do zastąpienia obrazu próbki próbką produktu lub obrazem podstawowym
+Visual Swatch,Wizualna próbka
+Text Swatch,Próbka tekstu
+Manage Swatch (Values of Your Attribute),Zarządzaj próbką (wartości twojego atrybutu)
+Is Default,Jest domyślny
+Add Swatch,Dodaj Swatch
+Sort Option,Sortuj opcję
+Swatch,próbka
+Description,Opis
+Delete,Kasować
+The value of Admin must be unique.,Wartość Admin musi być unikalna.
+Choose a color,Wybierz kolor
+Upload a file,Prześlij plik
+Clear,Jasny
+Step 2: Attribute Values,Krok 2: Wartości atrybutów
+Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.,Wybierz następujące wartości atrybutów dla tego produktu. Każda unikalna kombinacja wartości tworzy unikalny SKU produktu.
+Sort Variations,Sortuj wariacje
+Options,Opcje
+Select All,Zaznacz wszystko
+Deselect All,Odznacz wszystkie
+Remove Attribute,Usuń atrybut
+Save Option,Zapisz opcję
+Remove Option,Usuń opcję
+Create New Value,Utwórz nową wartość
+These changes affect all related products.,Te zmiany dotyczą wszystkich powiązanych produktów.
+Swatches per Product,Próbki na produkt
+Show Swatches in Product List,Pokaż próbki na liście produktów
+Swatch Image,Obraz Swatch
+"Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png."
+Image,Obraz
+Image Opacity,Krycie obrazu
+Example format: 200x300.,Przykładowy format: 200 x 300.
+Image Size,Rozmiar obrazu
+Image Position,Pozycja obrazu
+Default Store View,Domyślny widok sklepu
+Admin,Admin

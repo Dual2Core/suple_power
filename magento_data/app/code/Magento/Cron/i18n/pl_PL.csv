@@ -1,0 +1,21 @@
+We can't save the cron expression.,Nie możemy zapisać wyrażenia cron.
+Daily,Codziennie
+Weekly,Co tydzień
+Monthly,Miesięczny
+Invalid cron expression: %1,Nieprawidłowe wyrażenie cron: %1
+"Invalid cron expression, expecting 'match/modulus': %1","Nieprawidłowe wyrażenie cron, oczekiwane 'match / modulus': %1"
+"Invalid cron expression, expecting numeric modulus: %1","Nieprawidłowe wyrażenie cron, spodziewając się modułu liczbowego: %1"
+"Invalid cron expression, expecting 'from-to' structure: %1","Nieprawidłowa wyrażenie cron, spodziewając się struktury ""od-do"": %1"
+Some error,Niektóre błędy
+Invalid callback: Not_Existed_Class::execute can't be called,Nieprawidłowe wywołanie zwrotne: Not_Existed_Class :: execute nie może być wywołany
+Test exception,Wyjątek testowy
+Cron (Scheduled Tasks),Cron (zaplanowane zadania)
+For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.,"Aby uzyskać prawidłowe adresy URL generowane podczas uruchamiania cron, upewnij się, że adresy URL sieci Web> Bezpieczne i Bezpieczne bazy są ustawione jawnie. Wszystkie czasy są w minutach."
+Cron configuration options for group: ,Opcje konfiguracji Cron dla grupy:
+Generate Schedules Every,Generowanie harmonogramów każdego
+Schedule Ahead for,Planuj na przyszłość
+Missed if Not Run Within,"Niewykorzystane, jeśli nie uruchomiono"
+History Cleanup Every,Czyszczenie historii każdego
+Success History Lifetime,Historia sukcesu
+Failure History Lifetime,Historia awarii Trwałość
+Use Separate Process,Użyj oddzielnego procesu

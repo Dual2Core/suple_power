@@ -1,0 +1,47 @@
+Page not found.,Strona nie znaleziona
+You can't send messages more than %1 times an hour.,Nie możesz wyszłać wiadomości częściej niż %1 na godzinę
+The link to a friend was sent.,Link do znajomego wysłany
+We found some problems with the data.,Znaleźliśmy kilka problemów z damymi
+Some emails were not sent.,Kilka wiadomości nie zostało wysłanych
+You've met your limit of %1 sends in an hour.,Osiągnąłeś swój limit %1 na godzinę
+Please enter a sender name.,Proszę wpisać nazwę nadawcy
+Invalid Sender Email,Niepoprawny email nadawcy
+Please enter a message.,Proszę wpisać wiadomość
+Please specify at least one recipient.,Proszę podać przynajmniej jednego odbiorcę
+Please enter a correct recipient email address.,Proszę wpisać poprawny email odbiorcy
+No more than %1 emails can be sent at a time.,Tylko %1 emaili może być wysłanych teraz
+Please define a correct product instance.,Proszę zdefiniować poprawną instancje produktu
+Invalid Sender Information,Niepoprawne informacje nadawcy
+Please define the correct sender information.,Proszę zdefiniować poprawne informacje nadawcy
+IP Address,IP adres
+Cookie (unsafe),Cookie (niebezpieczne)
+No Product Exception.,Brak wyjątków produktów
+No Category Exception.,Brak wyjątków kategorii
+Some error,Kilka błędów
+Localized Exception.,Znaleziony wyjątek
+Exception.,Wyjątek
+Remove Recipent,Usuń odbiorcę
+Remove,usuń
+Name,Imię
+Email,Email
+* Required Fields,*Wymagane pola
+Sender,Nadawca
+Message,Wiadomość
+Invitee,Zaproszenie
+Maximum %1 email addresses allowed.,Maksimum adresów email dozwolonych: %1
+Add Invitee,Dodaj zaproszenie
+Send Email,Wyślij maila
+Back,Powrót
+"Welcome, %name","Witaj, %name"
+"%name,","%name,"
+%sender_name wants to share this product with you:,%sender_name chce podzielić się z Tobą tym produktem:
+Message from %sender_name:,Wiadomość od %sender_name:
+Email to a Friend,email do przyjaciela
+Email Templates,Szablony email
+Enabled,Włączony
+Select Email Template,Wybierz szablon projektu
+"Email template chosen based on theme fallback when ""Default"" option is selected.",Domyślny szablon email
+Allow for Guests,Zezwól gościom
+Max Recipients,Max odbiorców
+Max Products Sent in 1 Hour,Maksymalna liczba produktów do wysłania w czasie 1 h.
+Limit Sending By,Limit wysyłania przez:

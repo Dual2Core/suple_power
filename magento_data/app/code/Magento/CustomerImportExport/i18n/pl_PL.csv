@@ -1,0 +1,17 @@
+Please specify a website.,Proszę podać stronę internetową.
+Please specify an email.,Podaj e-mail.
+We found an invalid value in a website column.,Znaleziono nieprawidłową wartość w kolumnie serwisu WWW.
+Please enter a valid email.,Proszę podać poprawny adres e-mail.
+"Please make sure attribute ""%s"" is not empty.","Upewnij się, że atrybut ""%s"" nie jest pusty."
+We can't find a customer who matches this email and website code.,"Nie możemy znaleźć klienta, który pasuje do tego adresu e-mail i witryny."
+Customer address id column is not specified,Kolumna identyfikatora adresu odbiorcy nie jest określona
+We can't find that customer address.,Nie możemy znaleźć tego adresu.
+Please enter a valid region.,Wprowadź prawidłowy region.
+"We found another row with this email, website and address ID combination.","Znaleźliśmy kolejny wiersz z tą kombinacją adresu e-mail, witryny i adresu."
+This email is found more than once in the import file.,Ten e-mail znajduje się więcej niż jeden raz w pliku importu.
+Orphan rows that will be skipped due default row errors,"Srebrne wiersze, które zostaną pominięte z powodu domyślnych błędów wierszy"
+Invalid value in Store column (store does not exists?),Nieprawidłowa wartość w kolumnie Sklep (sklep nie istnieje?)
+We can't find that email and website combination.,Nie możemy znaleźć tej kombinacji e-mail i stron internetowych.
+Please enter a password with a valid length.,Wprowadź hasło z ważną długością.
+CSV,CSV
+Excel XML,Excel XML

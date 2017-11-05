@@ -1,0 +1,797 @@
+Root,Korzeń
+Delete,Kasować
+Save,Zapisać
+Use Config Settings,Użyj ustawień konfiguracyjnych
+Use All Available Attributes,Użyj wszystkich dostępnych atrybutów
+ID,ID
+Name,Nazwa
+SKU,SKU
+Price,Cena
+Position,Pozycja
+Add Subcategory,Dodaj podkategorię
+Add Root Category,Dodaj kategorię główną
+Day,Dzień
+Month,Miesiąc
+Year,Rok
+"<label class=""label""><span>from</span></label>","<label class = ""label""> <span> z </ span> </ label>"
+"<label class=""label""><span>to</span></label>","<label class = ""label""> <span> do </ span> </ label>"
+[GLOBAL],[ŚWIATOWY]
+[WEBSITE],[STRONIE INTERNETOWEJ]
+[STORE VIEW],[STORE VIEW]
+WYSIWYG Editor,Edytor WYSIWYG
+Add Product,Dodaj produkt
+label,etykieta
+Product Attributes,Cechy produktu
+Add New Attribute,Dodaj nowy atrybut
+Cancel,Anuluj
+Save Attribute,Zapisz atrybut
+Save in New Attribute Set,Zapisz w nowym zestawie atrybutów
+Enter Name for New Attribute Set,Wpisz nazwę dla nowego zestawu atrybutów
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Delete Attribute,Usuń atrybut
+"Edit Product Attribute ""%1""","Edytuj atrybut produktu ""% 1"""
+New Product Attribute,Nowy atrybut produktu
+Advanced Attribute Properties,Zaawansowane właściwości atrybutu
+Attribute Code,Kod atrybutu
+This is used internally. Make sure you don't use spaces or more than %1 symbols.,"To jest używane wewnętrznie. Upewnij się, że nie używasz spacji ani symboli% 1."
+Default Value,Domyślna wartość
+Unique Value,Unikalna wartość
+Unique Value (not shared with other products),Unikalna wartość (nie dzielona z innymi produktami)
+Not shared with other products.,Nie jest dzielony z innymi produktami.
+Input Validation for Store Owner,Weryfikacja wejściowa dla właściciela sklepu
+Add to Column Options,Dodaj do opcji kolumn
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Wybierz ""Tak"", aby dodać ten atrybut do listy opcji kolumn w siatce produktów."
+Use in Filter Options,Użyj w opcji filtra
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Wybierz ""Tak"", aby dodać ten atrybut do listy filtrów dostępnych w sieci produktów."
+Store View,Widok sklepu
+Website,Stronie internetowej
+Global,Światowy
+Scope,Zakres
+Declare attribute value saving scope.,Deklaracja zakresu wartości zapisywania wartości atrybutu.
+Storefront Properties,Właściwości sklepu
+Use in Search,Użyj w wyszukiwarce
+Visible in Advanced Search,Widoczne w wyszukiwaniu zaawansowanym
+Comparable on Storefront,Porównywalne na stronie sklepu
+Use for Promo Rule Conditions,Użyj do warunków promocji promocji
+Enable WYSIWYG,Włącz WYSIWYG
+Allow HTML Tags on Storefront,Zezwalaj na tagi HTML na stronie sklepu
+Visible on Catalog Pages on Storefront,Widoczne na stronach katalogu na stronie sklepu
+Used in Product Listing,Używany w listingu produktów
+Depends on design theme.,Zależy od motywu projektu.
+Used for Sorting in Product Listing,Używane do sortowania na liście produktów
+Media Image,Obraz mediów
+Gallery,Galeria
+System Properties,Właściwości systemu
+No,Nie
+Yes,tak
+Data Type for Saving in Database,Typ danych do zapisywania w bazie danych
+Text,Tekst
+Varchar,Varchar
+Static,Statyczny
+Datetime,Datetime
+Decimal,Dziesiętny
+Integer,Liczba całkowita
+Globally Editable,Na całym świecie można edytować
+Attribute Information,Informacje o atrybutach
+Properties,Nieruchomości
+Manage Labels,Zarządzaj etykietami
+Visible,Widoczny
+Web Site,Stronie internetowej
+Searchable,Można przeszukiwać
+Comparable,Porównywalny
+Delete Selected Group,Usuń zaznaczoną grupę
+Add New,Dodaj nowe
+Back,Plecy
+Reset,Nastawić
+You are about to delete all products in this attribute set. Are you sure you want to do that?,Zamierzasz usunąć wszystkie produkty w tym zestawie atrybutów. Czy na pewno chcesz to zrobić?
+New Set Name,Nowa nazwa zestawu
+Edit Attribute Set '%1',Edytuj zestaw atrybutów '% 1'
+Empty,Pusty
+Add Attribute,Dodaj atrybut
+Add New Group,Dodaj nową grupę
+Add Group,Dodaj grupę
+Edit Attribute Set Name,Edytuj nazwę zestawu atrybutów
+For internal use,Do użytku wewnętrznego
+Based On,Oparte na
+Add New Attribute Set,Dodaj nowy zestaw atrybutów
+Add Attribute Set,Dodaj zestaw atrybutów
+Attribute Sets,Zestawy atrybutów
+Close Window,Zamknij okno
+New Product,Nowy produkt
+Save & Edit,Zapisz i edytuj
+Save & New,Zapisz & nowe
+Save & Duplicate,Zapisz i zduplikuj
+Save & Close,Zapisz i zamknij
+Attributes,Atrybuty
+Change,Zmiana
+Advanced Inventory,Zaawansowane zasoby magazynu
+Websites,Strony internetowe
+Products Information,Informacje o produkcie
+Create Category,Utwórz kategorię
+Category Name,Nazwa Kategorii
+Parent Category,Kategoria nadrzędna
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","Jeśli nie ma niestandardowych kategorii nadrzędnych, użyj domyślnej kategorii nadrzędnej. Możesz zmienić przypisanie kategorii w dowolnym momencie w <a href=""%1"" target=""_blank""> Produkty> Kategorie </a>."
+Price Alert Subscriptions,Subskrypcja alertów o cenach
+Stock Alert Subscriptions,Zaproszenia na akcje
+There are no customers for this alert.,Brak tego klienta.
+First Name,Pierwsze imię
+Last Name,Nazwisko
+Email,E-mail
+Subscribe Date,Subskrybuj Data
+Last Notified,Ostatnia notyfikacja
+Send Count,Wyślij liczbę
+New Attribute,Nowy atrybut
+Type,Rodzaj
+Attribute Set,Zestaw atrybutów
+Status,Status
+Visibility,Widoczność
+Add New Option,Dodaj nową opcję
+Import Options,Opcje importu
+Use Default,Zastosowanie domyślne
+Import,Import
+Add New Row,Dodaj nowy wiersz
+Delete Row,Usuń wiersz
+Tier Pricing,Tier Ceny
+Default Price,Domyślna cena
+All Websites,Wszystkie witryny internetowe
+ALL GROUPS,WSZYSTKIE GRUPY
+Add Price,Dodaj cenę
+Default Values,Wartości domyślne
+Related Products,Produkty powiązane
+Up-sells,Up-sells
+Cross-sells,Cross-sells
+Size for %1,Rozmiar dla% 1
+Watermark File for %1,Plik znaku wodnego dla% 1
+Position of Watermark for %1,Pozycja znaku wodnego dla% 1
+Name in %1,Nazwa w% 1
+Quantity,Ilość
+Edit,Edytować
+Are you sure?,Jesteś pewny?
+Change Status,Zmień status
+Update Attributes,Zaktualizuj atrybuty
+start typing to search category,zacznij wpisywać do kategorii wyszukiwania
+New Category,Nowa kategoria
+"Images (.gif, .jpg, .png)","Obrazy (.gif, .jpg, .png)"
+Add New Images,Dodaj nowe obrazy
+Inc. Tax,Inc Podatek
+Does this have a weight?,Czy to ma wagę?
+Product,Produkt
+Notify Low Stock RSS,Powiadamiaj o Low Stock RSS
+Low Stock Products,Produkty o niskich zapasach
+%1 has reached a quantity of %2.,% 1 osiągnął ilość% 2.
+Home,Dom
+Go to Home Page,Wróć do strony głównej
+Subscribe to RSS Feed,Subskrybuj kanały RSS
+Products Comparison List,Porównanie produktów
+N/A,Nie dotyczy
+AM,RANO
+PM,PO POŁUDNIU
+-- Please Select --,-- Proszę wybrać --
+None,Żaden
+New Products from %1,Nowe produkty z% 1
+New Products,Nowe Produkty
+%1 - Special Products,% 1 - Produkty specjalne
+Click for price,Kliknij na cenę
+Special Expires On: %1,Specjalne wygaśnie:% 1
+Price: %1,Cena:% 1
+Special Price: %1,Cena specjalna:% 1
+Special Products,Produkty specjalne
+Manage Catalog Categories,Zarządzaj katalogami kategorii
+Manage Categories,Zarządzaj Kategorie
+You deleted the category.,Usunęła kategorię.
+Something went wrong while trying to delete the category.,Wystąpił błąd podczas próby usunięcia kategorii.
+Categories,Kategorie
+Category is not available for requested store.,Kategoria nie jest dostępna dla wybranego sklepu.
+There was a category move error. %1,Wystąpił błąd w kategorii. % 1
+There was a category move error.,Wystąpił błąd w kategorii.
+You moved the category.,Przeniesiono kategorię.
+"Attribute ""%1"" is required.","Wymagany jest atrybut ""% 1""."
+You saved the category.,Ty zapisałeś kategorię.
+Something went wrong while saving the category.,"Coś poszło nie tak, zachowując kategorię."
+Please select products for attributes update.,Proszę wybrać produkty do aktualizacji atrybutów.
+Please make sure to define SKU values for all processed products.,"Pamiętaj, aby zdefiniować wartości SKU dla wszystkich przetworzonych produktów."
+A total of %1 record(s) were updated.,Zaktualizowano łącznie% 1 rekordów.
+Something went wrong while updating the product(s) attributes.,Podczas aktualizowania atrybutów produktu wystąpił błąd.
+Unable to add attribute,Nie można dodać atrybutu
+"Please, specify attributes",Proszę podać atrybuty
+Catalog,Katalog
+Manage Product Attributes,Zarządzaj atrybutami produktu
+We can't delete the attribute.,Nie możemy usunąć atrybutu.
+You deleted the product attribute.,Usunął atrybut produktu.
+We can't find an attribute to delete.,Nie możemy znaleźć atrybutu do usunięcia.
+This attribute no longer exists.,Ten atrybut już nie istnieje.
+This attribute cannot be edited.,Nie można edytować tego atrybutu.
+Edit Product Attribute,Edytuj atrybut produktu
+An attribute set named '%1' already exists.,"Zestaw atrybutów o nazwie ""% 1"" już istnieje."
+Something went wrong while saving the attribute.,"Coś poszło nie tak, zachowując atrybut."
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod atrybutu ""% 1"" jest nieprawidłowy. W tym polu należy używać tylko liter (a-z), liczb (0-9) lub podkreślenia (_), pierwszym znakiem powinno być litera."
+We can't update the attribute.,Nie można zaktualizować atrybutu.
+You saved the product attribute.,Zapisałeś atrybut produktu.
+An attribute with this code already exists.,Atrybut z tym kodem już istnieje.
+An attribute with the same code (%1) already exists.,Atrybut z tym samym kodem (% 1) już istnieje.
+The value of Admin must be unique.,Wartość Admin musi być unikalna.
+The value of Admin scope can't be empty.,Wartość zakresu Admin nie może być pusta.
+You duplicated the product.,Powielałeś produkt.
+This product doesn't exist.,Ten produkt nie istnieje.
+Invalid product id. Should be numeric value greater than 0,Nieprawidłowy identyfikator produktu. Powinien być liczbą większą niż 0
+Products,Produkty
+A group with the same name already exists.,Grupa już o tej samej nazwie istnieje.
+Something went wrong while saving this group.,Wystąpił błąd podczas zapisywania tej grupy.
+A total of %1 record(s) have been deleted.,Usunięto co najmniej 1 rekordy.
+A total of %1 record(s) have been updated.,Zostało zaktualizowane łącznie 1 rekordy.
+Something went wrong while updating the product(s) status.,Podczas aktualizowania stanu produktu (s) wystąpił błąd.
+Unable to save product,Nie można zapisać produktu
+You saved the product.,Zapisałeś produkt.
+SKU for product %1 has been changed to %2.,SKU dla produktu% 1 został zmieniony na% 2.
+The image cannot be removed as it has been assigned to the other image role,"Obraz nie może zostać usunięty, ponieważ został przypisany do innej roli obrazu"
+New Attribute Set,Nowy zestaw atrybutów
+The attribute set has been removed.,Zestaw atrybutów został usunięty.
+We can't delete this set right now.,Nie możemy teraz usunąć tego zestawu.
+New Set,Nowy zestaw
+Manage Product Sets,Zarządzaj zestawami produktów
+Manage Attribute Sets,Zarządzaj zestawami atrybutów
+This attribute set no longer exists.,Ten zestaw atrybutów już nie istnieje.
+You saved the attribute set.,Zapisałeś zestaw atrybutów.
+Something went wrong while saving the attribute set.,Coś poszło nie tak podczas zapisywania zestawu atrybutów.
+You added product %1 to the comparison list.,Dodałeś produkt% 1 do listy porównawczej.
+You cleared the comparison list.,Wyczyszczono listę porównania.
+Something went wrong  clearing the comparison list.,"Coś poszło nie tak, czyszcząc listę porównawczą."
+You removed product %1 from the comparison list.,Usunął produkt% 1 z listy porównania.
+1 item,1 pozycja
+%1 items,% 1 elementów
+Are you sure you want to remove this item from your Compare Products list?,Czy na pewno chcesz usunąć ten element z listy Porównaj produkty?
+Are you sure you want to remove all items from your Compare Products list?,Czy na pewno chcesz usunąć wszystkie elementy z listy Porównaj produkty?
+Invalid attribute %1,Nieprawidłowy atrybut% 1
+Grid,Krata
+List,Lista
+All,Wszystko
+Bad controller interface for showing product,Złą kontrolę interfejsu do wyświetlania produktu
+Product is not loaded,Produkt nie jest ładowany
+Make sure the To Date is later than or the same as the From Date.,"Upewnij się, że data ""To"" jest późniejsza niż data ""Od""."
+"Sorry, but we can't find the new parent category you selected.","Przepraszamy, ale nie można znaleźć nowej kategorii nadrzędnej, którą wybrałeś."
+"Sorry, but we can't find the new category you selected.","Przepraszamy, ale nie możemy znaleźć nowej wybranej kategorii."
+We can't move the category because the parent category name matches the child category name.,"Nie można przenieść tej kategorii, ponieważ nazwa kategorii nadrzędnej jest zgodna z nazwą kategorii podrzędnej."
+Something went wrong while getting the image url.,Coś poszło nie tak podczas pobierania adresu URL obrazu.
+Can't delete root category.,Nie można usunąć kategorii głównej.
+"The value of attribute ""%1"" must be unique.","Wartość atrybutu ""% 1"" musi być unikatowa."
+Default Product Listing Sort by does not exist in Available Product Listing Sort By.,Domyślna lista produktów Sortuj według nie istnieje w dostępnym zestawieniu produktów Sortuj.
+No layout updates,Brak aktualizacji układu
+Products only,Tylko produkty
+Static block only,Tylko blok statyczny
+Static block and products,Blok statyczny i produkty
+Please select a static block.,Wybierz blok statyczny.
+frontend_label,frontend_label
+"Could not save product ""%1"" with position %2 to category %3","Nie można zapisać produktu ""% 1"" z pozycją% 2 do kategorii% 3"
+Category does not contain specified product,Kategoria nie zawiera określonego produktu
+"Could not save product ""%product"" with position %position to category %category","Nie udało się zapisać produktu ""% product"" z pozycją% position do kategorii% category"
+Operation do not allow to move a parent category to any of children category,Działanie nie zezwala na przenoszenie kategorii nadrzędnej do kategorii dzieci
+Could not move category,Nie można przenieść kategorii
+Could not save category: %1,Nie można zapisać kategorii:% 1
+Cannot delete category with id %1,Nie można usunąć kategorii z identyfikatorem% 1
+-- Please Select a Category --,- Proszę wybrać kategorię -
+Grid Only,Tylko siatka
+List Only,Tylko lista
+Grid (default) / List,Siatka (domyślnie) / lista
+List (default) / Grid,Lista (domyślnie) / Siatka
+Automatic (equalize price ranges),Automatyczne (wyrównanie zakresów cen)
+Automatic (equalize product counts),Automatycznie (wyrównuje liczebność produktów)
+Manual,podręcznik
+Fixed,Naprawiony
+Percent,Procent
+Discount,Zniżka
+-- Please select --,-- Proszę wybrać --
+Product Thumbnail Itself,Miniatura produktu
+Parent Product Thumbnail,Miniatura produktu dla rodziców
+12h AM/PM,12 godz. AM / PM
+24h,24h
+Stretch,Rozciągać
+Tile,Dachówka
+Top/Left,Lewy górny
+Top/Right,W prawym górnym rogu
+Bottom/Left,Na dole po lewej
+Bottom/Right,Prawy dolny
+Center,Centrum
+%1 doesn't extends \Magento\Framework\Model\AbstractModel,% 1 nie rozciąga się \ Magento \ Framework \ Model \ AbstractModel
+Something went wrong while saving the file(s).,Podczas zapisywania pliku (plików) wystąpił błąd.
+File can not be saved to the destination folder.,Plik nie może zostać zapisany w folderze docelowym.
+"Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""% 1""."
+We can't rebuild the index for an undefined product.,Nie można odbudować indeksu dla niezdefiniowanego produktu.
+Bad value was supplied.,Zła wartość została dostarczona.
+The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module,"Moduł Katalogu plazmowego ma ograniczony atrybut do filtrowania i / lub sortowania% 2 $ d. Aktualnie istnieje% 1 $ d z nich. Zwiększ liczbę atrybutów, które można filtrować / sortować, aby móc korzystać z tego modułu"
+"Unsupported product type ""%1"".","Nieobsługiwany typ produktu ""% 1""."
+Please correct the category.,Proszę poprawić kategorię.
+Must be category model instance or its id.,Musi być przykładem modelu kategorii lub jego identyfikatorem.
+The attribute model is not defined.,Model atrybutu nie jest zdefiniowany.
+Category,Kategoria
+%1 - %2,% 1 -% 2
+%1 was not found in algorithms,% 1 nie został znaleziony w algorytmach
+%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface,% 1 nie rozszerza \ Magento \ Catalog \ Model \ Layer \ Filter \ Dynamic \ AlgorithmInterface
+%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Layer \ Filter \ AbstractFilter
+The filter must be an object. Please set the correct filter.,Filtr musi być obiektem. Proszę ustawić prawidłowy filtr.
+Clear Price,Wyczyść cenę
+%1 and above,% 1 i powyżej
+The filters must be an array.,Filtry muszą być tablicą.
+Product was not registered,Produkt nie został zarejestrowany
+Store was not registered,Sklep nie został zarejestrowany
+Group price must be a number greater than 0.,Cena grupy musi wynosić więcej niż 0.
+Media Gallery converter should be an instance of EntryConverterInterface.,Konwerter Media Gallery powinien być przykładem InputConverterInterface.
+There is no MediaGalleryEntryConverter for given type,Dla danego typu nie ma MediaGalleryEntryConverter
+Please enter a number 0 or greater in this field.,W tym polu wprowadź liczbę 0 lub większą.
+"The value of attribute ""%1"" must be set","Wartość atrybutu ""% 1"" musi być ustawiona"
+SKU length should be %1 characters maximum.,Długość SKU powinna wynosić maksymalnie 1%.
+Please enter a valid number in this field.,W tym polu wprowadź prawidłowy numer.
+"We found a duplicate website, tier price, customer group and quantity.","Znaleźliśmy duplikat strony internetowej, tier price, grupa klientów i ilość."
+Percentage value must be a number between 0 and 100.,Wartość procentowa musi wynosić od 0 do 100.
+Invalid option id %1,Nieprawidłowa identyfikator opcji% 1
+Can not create attribute set based on non product attribute set.,Nie można utworzyć zestawu atrybutów na podstawie zestawu atrybutów innych firm.
+Can not create attribute set based on not existing attribute set,Nie można utworzyć zestawu atrybutów na podstawie nieistniejącego zestawu atrybutów
+Provided Attribute set non product Attribute set.,Dostarczony zestaw atrybutów ustawia zestaw atrybutów innego produktu.
+Use config,Użyj config
+Enabled,Włączone
+Disabled,Niepełnosprawny
+Attribute Set already exists.,Zestaw atrybutów już istnieje.
+We couldn't copy file %1. Please delete media with non-existing images and try again.,Nie można skopiować pliku% 1. Usuń nośniki z obrazami nie istniejącymi i spróbuj ponownie.
+The image content is not valid.,Treść obrazu jest nieprawidłowa.
+Cannot save product.,Nie można zapisać produktu.
+Failed to save new media gallery entry.,Nie udało się zapisać nowej galerii multimediów.
+There is no image with provided ID.,Nie ma obrazu z podanym ID.
+Such product doesn't exist,Taki produkt nie istnieje
+Such image doesn't exist,Taki obraz nie istnieje
+The image does not exist.,Obraz nie istnieje.
+Please correct the image file type.,Proszę poprawić typ pliku obrazu.
+We couldn't move this file: %1.,Nie można przenieść tego pliku:% 1.
+The option type to get group instance is incorrect.,Typ opcji w celu uzyskania instancji grupy jest niepoprawny.
+Select type options required values rows.,Wybierz typ opcji wymagane wiersze wartości.
+ProductSku should be specified,Należy określić ProductSku
+Could not remove custom option,Nie można usunąć niestandardowej opcji
+Please specify date required option(s).,Proszę podać datę wymaganą (ych).
+Please specify time required option(s).,Proszę podać wymaganą ilość czasu.
+Please specify product's required option(s).,Proszę podać wymaganą opcję (y) produktu.
+The option instance type in options group is incorrect.,Typ instancji opcjonalnej w grupie opcji jest niepoprawny.
+The product instance type in options group is incorrect.,Typ instancji produktu w grupie opcji jest nieprawidłowy.
+The configuration item option instance in options group is incorrect.,Opcja elementu opcji konfiguracji w grupie opcji jest nieprawidłowa.
+The configuration item instance in options group is incorrect.,Instancja elementu konfiguracji w grupie opcji jest nieprawidłowa.
+The BuyRequest instance in options group is incorrect.,Instancja BuyRequest w grupie opcji jest nieprawidłowa.
+We can't add the product to the cart because of an option validation issue.,Nie możemy dodać produktu do koszyka z powodu kwestii walidacji opcji.
+%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Option \ Type \ DefaultType
+The file options format is not valid.,Format opcji plików nie jest prawidłowy.
+px.,px.
+The file '%1' for '%2' has an invalid extension.,Plik '% 1' dla '% 2' ma nieprawidłowe rozszerzenie.
+The maximum allowed image size for '%1' is %2x%3 px.,Maksymalny dozwolony rozmiar obrazu dla '% 1' to% 2x% 3 px.
+The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.,"Plik ""% 1"" przesłany jest większy niż dozwolony przez nasz serwer% 2 megabajtów."
+The file '%1' is empty. Please choose another one,Plik '% 1' jest pusty. Proszę wybrać inny
+The file '%1' is invalid. Please choose another one,Plik '% 1' jest nieprawidłowy. Proszę wybrać inny
+File '%1' is not an image.,Plik '% 1' nie jest obrazem.
+Validation failed. Required options were not filled or the file was not uploaded.,Nieudana walidacja. Wymagane opcje nie zostały wypełnione lub plik nie został przesłany.
+The file you uploaded is larger than %1 Megabytes allowed by server,Plik przesłany jest większy niż% 1 megabajty dozwolone przez serwer
+Option required.,Wymagana opcja.
+The file is empty. Please choose another one,Plik jest pusty. Proszę wybrać inny
+Some of the selected item options are not currently available.,Niektóre z wybranych opcji nie są obecnie dostępne.
+The text is too long.,Tekst jest za długi.
+Invalid attribute %fieldName = %fieldValue.,Nieprawidłowy atrybut% fieldName =% fieldValue.
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Nie znaleziono szukanego sklepu. Idę wiersza: SKU =% SKU, identyfikator sklepu:% storeId."
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Nieprawidłowy atrybut Koszt =% koszt. Idę wiersza: SKU =% SKU, identyfikator sklepu:% storeId."
+Could not save Prices.,Nie można zaoszczędzić cen.
+Could not delete Prices,Nie można usunąć cen
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Żądany produkt nie istnieje. Identyfikator wiersza: SKU =% SKU, identyfikator sklepu:% storeId, cena od:% priceFrom, cena do:% priceTo."
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nie znaleziono szukanego sklepu. Identyfikator wiersza: SKU =% SKU, identyfikator sklepu:% storeId, cena od:% priceFrom, cena do:% priceTo."
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nieprawidłowy atrybut% label =% priceTo. Identyfikator wiersza: SKU =% SKU, identyfikator sklepu:% storeId, cena od:% priceFrom, cena do:% priceTo."
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nieprawidłowy atrybut Cena =% cena. Identyfikator wiersza: SKU =% SKU, identyfikator sklepu:% storeId, cena od:% priceFrom, cena do:% priceTo."
+Could not save Tier Prices,Nie można zaoszczędzić cen
+Could not replace Tier Prices,Nie można zastąpić Ceny podstawowej
+Could not delete Tier Prices,Nie można usunąć cen podstawowych
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nieprawidłowy atrybut SKU =% SKU. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nieprawidłowy atrybut Cena =% cena. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nieprawidłowy atrybut Price Type =% priceType. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nieprawidłowy atrybut Quantity =% qty. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nieprawidłowy atrybut Identyfikator witryny =% websiteId. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Znaleźliśmy zduplikowaną stronę internetową, cenę detaliczną, grupę klientów i ilość: Grupa klientów =% customerGroup, identyfikator witryny =% websiteId, Quantity =% qty. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Brak takiego podmiotu z grupą klientów =% customerGroup. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
+This product doesn't have tier price,Ten produkt nie ma ceny
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Produkt nie ma ceny grupowej z takimi danymi: customerGroupId = '% 1', strona =% 2, qty =% 3"
+Invalid data provided for tier_price,Nieprawidłowe dane podano dla tier_price
+Could not save group price,Nie udało się zapisać ceny grupowej
+Please provide valid data,Podaj ważne dane
+Values of following attributes are invalid: %1,Wartości następujących atrybutów są nieważne:% 1
+"We can't create writeable directory ""%1"".","Nie można utworzyć katalogu do zapisu ""% 1""."
+The file upload failed.,Przesyłanie plików nie powiodło się.
+The product has required options.,Produkt wymaga opcji.
+Something went wrong while processing the request.,Podczas przetwarzania żądania wystąpił błąd.
+%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ AbstractType
+%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ Price
+Not Visible Individually,Nie jest widoczny indywidualnie
+Search,Szukanie
+"Catalog, Search","Katalog, wyszukiwanie"
+Something went wrong while removing products from the websites.,Wystąpił błąd podczas usuwania produktów ze stron internetowych.
+Something went wrong while adding products to websites.,Coś poszło nie tak podczas dodawania produktów do witryn internetowych.
+"Group with id ""%1"" does not exist.","Grupa z id ""% 1"" nie istnieje."
+Attribute group that contains system attributes can not be deleted,"Nie można usunąć grupy atrybutów, która zawiera atrybuty systemu"
+Collection provider is not registered,Dostawca kolekcji nie jest zarejestrowany
+Unknown link type: %1,Nieznany typ łącza:% 1
+"Provided link type ""%1"" does not exist","Podany typ łącza ""% 1"" nie istnieje"
+Invalid data provided for linked products,Nieprawidłowe dane dostarczone dla połączonych produktów
+Product with SKU '%1' is not linked to product with SKU '%2',Produkt z SKU '% 1' nie jest powiązany z produktem z SKU '% 2'
+Product %1 doesn't have linked %2 as %3,Produkt% 1 nie ma powiązanego% 2 jako% 3
+Requested product doesn't exist,Żądany produkt nie istnieje
+Requested product does not support images.,Żądany produkt nie obsługuje zdjęć.
+"Product with SKU ""%1"" does not exist","Produkt z SKU ""% 1"" nie istnieje"
+Invalid product data: %1,Nieprawidłowe dane produktu:% 1
+Database connection error,Błąd połączenia z bazą danych
+Database deadlock found when trying to get lock,Blokada bazy danych została znaleziona podczas próby zablokowania
+Database lock wait timeout exceeded,Przekroczono limit czasu oczekiwania na blokadę bazy danych
+Unable to remove product %1,Nie można usunąć produktu% 1
+There are not websites for assign to product,Nie ma stron do przypisania produktu
+"Could not assign product ""%1"" to websites ""%2""","Nie można przypisać produktu ""% 1"" do witryn ""% 2"""
+"Could not save product ""%1"" with websites %2","Nie można zapisać produktu ""% 1"" ze stronami internetowymi% 2"
+We cannot determine the field name.,Nie możemy ustalić nazwy pola.
+Attribute '%1' is locked. %2,Atrybut '% 1' jest zablokowany. % 2
+Do not change the scope. %1,Nie zmieniaj zakresu. % 1
+Processor %1 doesn't implement BaseSelectProcessorInterface,Procesor% 1 nie implementuje BaseSelectProcessorInterface
+A product type is not defined for the indexer.,Typ produktu nie jest zdefiniowany dla indeksera.
+%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice,% 1 nie rozszerza \ Magento \ Catalog \ Model \ ResourceModel \ Product \ Indexer \ Price \ DefaultPrice
+Product with SKU %1 is not linked to product with SKU %2,Produkt z SKU% 1 nie jest powiązany z produktem z SKU% 2
+Multiple Select,Wybór wielokrotny
+Dropdown,Upuścić
+%1 doesn't extend \Magento\Framework\Filter\Template,% 1 nie rozszerza \ Magento \ Framework \ Filter \ Template
+As low as,Tak niski jak
+test,test
+Could not get extension attributes,Nie można uzyskać atrybutów rozszerzenia
+message,wiadomość
+Some exception,Niektóre wyjątki
+fl,fl
+Lock wait timeout,Zablokuj czas oczekiwania
+123,123
+Images,Obrazy
+Select...,Wybierz...
+Advanced Pricing,Zaawansowane ceny
+Customer Group Price,Cena grupy klientów
+Customer Group,Grupa klientów
+Special Price From,Cena specjalna od
+To,Do
+Done,Gotowe
+Add Selected,Dodaj wybrane
+Select Attribute,Wybierz Atrybut
+Create New Attribute,Utwórz nowy atrybut
+Customizable Options,Dostosowalne opcje
+Custom options let customers choose the product variations they want.,"Opcje niestandardowe pozwalają klientom wybrać odmiany produktu, które chcą."
+Add Option,Dodaj opcję
+New Option,Nowa opcja
+Select Product,Wybierz produkt
+Option Title,Tytuł opcji
+Add Value,Dodać wartość
+Title,Tytuł
+Option Type,Typ opcjonalny
+Required,wymagany
+Price Type,Typ ceny
+Max Characters,Maksymalna liczba znaków
+Compatible File Extensions,Kompatybilne rozszerzenia plików
+Maximum Image Size,Maksymalny rozmiar obrazu
+Please leave blank if it is not an image.,"Opuść puste, jeśli nie jest to obraz."
+%1,% 1
+This item has weight,Ten przedmiot ma wagę
+This item has no weight,Ten przedmiot nie ma wagi
+Set Product as New From,Ustaw produkt jako nowy
+"Related Products, Up-Sells, and Cross-Sells","Produkty pokrewne, sprzedaż w górę i sprzedaż krzyżowa"
+Related products are shown to customers in addition to the item the customer is looking at.,"Produkty pokrewne są wyświetlane klientom poza pozycją, na którą patrzy."
+Add Related Products,Dodaj powiązane produkty
+An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.,"Przedmiot sprzedawany na zakupy jest oferowany klientowi jako prierek lub wyższa jakość alternatywy dla produktu, który klient patrzy."
+Add Up-Sell Products,Dodaj produkty do sprzedaży
+Up-Sell Products,Up-Sprzedaj produkty
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Te produkty ""impulsowo-kupuj"" pojawiają się obok koszyka zakupów w formie cross-sells do przedmiotów już znajdujących się w koszyku."
+Add Cross-Sell Products,Dodaj produkty cross-sell
+Cross-Sell Products,Produkty Cross-Sell
+Add Selected Products,Dodaj wybrane produkty
+Remove,Usunąć
+Thumbnail,Miniaturka
+Actions,działania
+Schedule Update From,Zaktualizuj harmonogram z
+Product in Websites,Produkt w witrynach internetowych
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Jeśli instalacja Magento zawiera wiele witryn internetowych, możesz edytować zakres, aby korzystać z produktu w określonych witrynach."
+name,Nazwa
+Copy Data from,Skopiuj dane z
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Jeśli nie ma niestandardowych kategorii nadrzędnych, użyj domyślnej kategorii nadrzędnej. Możesz zmienić przypisanie kategorii w dowolnym momencie w <a href=""%1"" target=""_blank""> Produkty & gt; Kategorie </a>."
+This operation can take a long time,Ta operacja może zająć dużo czasu
+Collapse All,Zwinąć wszystkie
+Expand All,Rozwiń wszystkie
+Please confirm site switching. All data that hasn't been saved will be lost.,"Proszę potwierdzić zmianę lokalizacji. Wszystkie dane, które nie zostały zapisane, zostaną utracone."
+Use Default Value,Użyj wartości domyślnej
+"Manage Titles (Size, Color, etc.)","Zarządzaj tytułami (rozmiar, kolor itp.)"
+Manage Options (Values of Your Attribute),Zarządzaj opcjami (wartości Twojego atrybutu)
+Is Default,Domyślnie
+Sort Option,Opcja sortowania
+Groups,Grupy
+Double click on a group to rename it.,"Kliknij dwukrotnie na grupę, aby ją zmienić."
+Unassigned Attributes,Nieprzypisane atrybuty
+A name is required.,Wymagane jest nazwisko.
+This group contains system attributes. Please move system attributes to another group and try again.,Ta grupa zawiera atrybuty systemu. Proszę przenieść atrybuty systemu do innej grupy i spróbować ponownie.
+Please select a node.,Proszę wybrać węzeł.
+Please enter a new group name.,Wprowadź nową nazwę grupy.
+"An attribute group named ""/name/"" already exists.","Grupa atrybutów o nazwie ""/ name/"" już istnieje."
+"Sorry, we're unable to complete this request.","Niestety, nie możemy zrealizować tego żądania."
+You can't remove attributes from this attribute set.,Nie można usunąć atrybutów z tego zestawu atrybutów.
+Custom Options,Opcje niestandardowe
+This is a required option.,Jest to wymagana opcja.
+The field isn't complete.,Pole nie jest kompletne.
+Compatible file extensions to upload,Kompatybilne rozszerzenia plików do przesłania
+Maximum image width,Maksymalna szerokość obrazu
+Maximum image height,Maksymalna wysokość obrazu
+Maximum number of characters:,Maksymalna liczba znaków:
+start typing to search template,zacznij wpisywać szablon wyszukiwania
+Product online,Produkt online
+Product offline,Produkt w trybie offline
+Product online status,Stan online produktów
+Manage Stock,Zarządzaj zapasami
+Qty,Ilość
+Out-of-Stock Threshold,Próg Niedostępny
+Minimum Qty Allowed in Shopping Cart,Minimalna ilość dozwolona w koszyku
+Maximum Qty Allowed in Shopping Cart,Maksymalna ilość w koszyku
+Qty Uses Decimals,Ilość Używa dziesiętnych
+Backorders,Backorders
+Notify for Quantity Below,Powiadom o ilości poniżej
+Enable Qty Increments,Włącz zwiększenie ilości
+Qty Increments,Ilość przyrostów
+Stock Availability,Dostępność magazynowa
+In Stock,W magazynie
+Out of Stock,Obecnie brak na stanie
+Add Product To Websites,Dodaj produkt do stron internetowych
+Remove Product From Websites,Usuń produkt z witryn internetowych
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Aby ukryć element w katalogu lub w wynikach wyszukiwania, ustaw status na ""Wyłączony""."
+We can't save custom-defined options for bundles with dynamic pricing.,Nie możemy zapisać niestandardowych opcji dla grup z dynamiczną ceną.
+Delete Custom Option,Usuń opcję niestandardową
+Sort Custom Options,Sortuj opcje niestandardowe
+Input Type,Typ wejścia
+%1 <span>x</span> %2 <span>px.</span>,% 1 <span> x </ span>% 2 <span> px. </ Span>
+Sort Custom Option,Sortuj opcję niestandardową
+Item Price,Cena przedmiotu
+Action,Akcja
+and above,i powyżej
+Delete Tier,Usuń warstwę
+Product In Websites,Produkt w witrynach internetowych
+(Copy data from: %1),(Kopiuj dane z:% 1)
+Browse to find or drag image here,"Przeglądaj, aby znaleźć lub przeciągnąć obraz tutaj"
+Delete image,Usuń zdjęcie
+Hidden,Ukryty
+Alt Text,Tekst Alt
+Role,Rola
+Image Size,Rozmiar obrazu
+{size},{rozmiar}
+Image Resolution,Rozdzielczość obrazu
+{width}^{height} px,{width} ^ {height} px
+Hide from Product Page,Ukryj od strony produktu
+Product Alerts,Alerty produktów
+Allow Multiple Boxes for Shipping,Zezwól na wiele skrzynek do wysyłki
+start typing to search attribute,zacznij wpisywać do atrybutu wyszukiwania
+Basic Settings,Podstawowe ustawienia
+Advanced Settings,Zaawansowane ustawienia
+Changes have been made to this section that have not been saved.,"Wprowadzono zmiany w tej sekcji, które nie zostały zapisane."
+This tab contains invalid data. Please resolve this before saving.,Ta karta zawiera nieprawidłowe dane. Proszę rozwiązać ten problem przed zapisaniem.
+Mass Actions,Akty masowe
+Select All,Zaznacz wszystko
+Unselect All,Odznacz wszystko
+Select Visible,Wybierz Widoczne
+Unselect Visible,Usuń zaznaczenie
+Special Price,Cena promocyjna
+Regular Price,Normalna cena
+Buy %1 for: ,Kup% 1 dla:
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup% 1 dla% 2 każdego i <strong class = ""benefit""> zapisz <span class = ""percent tier-% 3""> & nbsp;% 4 </ span>% </ strong>"
+Buy %1 for %2 each,Kup% 1 dla% 2 każdy
+Shop By,Sklep przez
+Shopping Options,Opcje zakupów
+Compare Products,Porównaj produkty
+Print This Page,Wydrukuj tę stronę
+Remove Product,Usuń produkt
+Add to Cart,Dodaj do koszyka
+In stock,W magazynie
+Out of stock,Obecnie brak na stanie
+Add to Wish List,Dodaj do listy życzeń
+You have no items to compare.,Nie masz produktów do porównania.
+Remove This Item,Usuń ten element
+Compare,Porównać
+Clear All,Wyczyść wszystko
+Prev,Poprzedni
+Next,Następny
+We can't find products matching the selection.,Nie możemy znaleźć produktów pasujących do zaznaczenia.
+Learn More,Ucz się więcej
+Add to Compare,Dodaj do porównania
+We found other products you might like!,"Znaleźliśmy inne produkty, które mogą Ci się spodobać!"
+More Choices:,Więcej opcji:
+Check items to add to the cart or,"Zaznacz elementy, które chcesz dodać do koszyka lub"
+select all,Zaznacz wszystko
+Items %1-%2 of %3,Elementy% 1-% 2 z% 3
+%1 Item,% 1 Pozycja
+%1 Items,% 1 elementów
+Show,Pokazać
+per page,na stronę
+Sort By,Sortuj według
+Set Ascending Direction,Ustaw kierunek rosnący
+Set Descending Direction,Ustaw kierunek malejący
+View as,Zobacz jako
+More Information,Więcej informacji
+Loading...,Ładuję...
+* Required Fields,* Wymagane pola
+Availability,Dostępność
+Warning message,Wiadomość ostrzegawcza
+Submit,Zatwierdź
+We don't recognize or support this file extension type.,Nie rozpoznamy ani nie wspieramy tego typu rozszerzenia.
+Configure Product,Konfiguruj produkt
+OK,ok
+"This value does not follow the specified format (for example, 200X300).",Ta wartość nie działa pod określonym formatem (na przykład 200X300).
+Select type of option.,Wybierz typ opcji.
+Please add rows to option.,Proszę dodać wiersze do opcji.
+Please select items.,Proszę wybrać elementy.
+Choose existing category.,Wybierz istniejącą kategorię.
+Image Detail,Szczegóły obrazu
+Adding...,Dodawanie ...
+Added,W dodatku
+does not implement Storage Interface,nie implementuje interfejsu pamięci masowej
+unselect all,odznacz wszystko
+Inventory,Inwentarz
+Catalog Section,Sekcja katalogu
+Small,Mały
+Main,Główny
+Custom image,Niestandardowy obraz
+Product Fields Auto-Generation,Pola produktów Automatyczna generacja
+Mask for SKU,Maska do SKU
+Use {{name}} as Product Name placeholder,Użyj {{name}} jako nazwy zastępczej produktu produktu
+Mask for Meta Title,Maska dla tytułu Meta
+Mask for Meta Keywords,Maska dla Meta Słowa kluczowe
+Use {{name}} as Product Name or {{sku}} as Product SKU placeholders,Użyj {{name}} jako nazwy produktu lub {{sku}} jako elementu zastępczego produktu SKU
+Mask for Meta Description,Maska dla Meta Description
+Use {{name}} and {{description}} as Product Name and Product Description placeholders,Użyj {{name}} i {{description}} jako symbolu zastępczego produktu i opisu produktu
+Recently Viewed/Compared Products,Ostatnio oglądane / porównywane produkty
+Lifetime of products in Recently Viewed Widget,Żywotność produktów w ostatnio oglądanym Widgetze
+Lifetime of products in Recently Compared Widget,Żywotność produktów w niedawno zmodyfikowanym Widgetze
+Synchronize widget products with backend storage,Synchronizowanie produktów widgetów z zapleczem
+Storefront,Witryna sklepowa
+List Mode,Tryb listy
+Products per Page on Grid Allowed Values,Produkty na stronie w tabeli dozwolonych wartości
+Comma-separated.,Oddzielone przecinkami.
+Products per Page on Grid Default Value,Produkty na stronie w sieci o wartości domyślnej
+Must be in the allowed values list,Musi znajdować się w liście dozwolonych wartości
+Products per Page on List Allowed Values,Produkty na stronie w liście dozwolonych wartości
+Products per Page on List Default Value,Produkty na stronie w liście Wartość domyślna
+Use Flat Catalog Category,Użyj Katalog kategorii płaskich
+Use Flat Catalog Product,Użyj produktu Katalog płaski
+Product Listing Sort by,Lista produktów Sortuj według
+Allow All Products per Page,Zezwól na wszystkie produkty na stronie
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Czy chcesz wyświetlić opcję ""Wszystkie"" w menu ""Pokaż stronę X na stronie"""
+Allow Dynamic Media URLs in Products and Categories,Zezwalaj na adresy dynamicznych mediów w produktach i kategoriach
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Na przykład. {{media url = ""ścieżka / do / image.jpg""}} {{skin url = ""ścieżka / do / obraz.gif""}}. Dyrektywy dynamiczne analizujące wyniki katalogów oddziałów."
+Product Image Placeholders,Produkty zastępcze produktu
+Search Engine Optimization,optymalizacja wyszukiwarki
+Page Title Separator,Separator strony tytułowej
+Use Canonical Link Meta Tag For Categories,Użyj Meta Tag do kategorii
+Use Canonical Link Meta Tag For Products,Użyj tagu Meta Tag do produktów firmy Canonical
+Catalog Price Scope,Zakres cen katalogowych
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Określa zakres waluty bazowej (""Ustawienia walut""> ""Opcje walut""> ""Waluta podstawowa"")."
+Category Top Navigation,Kategoria Nawigacja w górę
+Maximal Depth,Maksymalna głębokość
+Date & Time Custom Options,Data i godzina Opcje niestandardowe
+Use JavaScript Calendar,Użyj kalendarza JavaScript
+Date Fields Order,Data zamówienia pola
+Time Format,Format czasu
+Year Range,Roczny zasięg
+Please use a four-digit year format.,Proszę użyć czterocyfrowego formatu roku.
+Use Static URLs for Media Content in WYSIWYG for Catalog,Użyj statycznych adresów URL dla zawartości multimedialnej w katalogu WYSIWYG
+This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.,"Dotyczy to wyłącznie produktów i kategorii katalogu. Treść mediów zostanie wstawiona do edytora jako statyczny adres URL. Zawartość multimedialna nie jest aktualizowana, jeśli zmieni się podstawowy adres URL konfiguracji systemu."
+Top Level Category,Kategoria najwyższego poziomu
+Product Info Column,Kolumna produktu Informacje
+Block after Info Column,Blokuj po kolumnie informacyjnej
+Product Flat Data,Dane płaskie produktu
+Reorganize EAV product structure to flat structure,Przeorganizować strukturę produktu EAV do struktury płaskiej
+Category Flat Data,Kategoria Dane płaskie
+Reorganize EAV category structure to flat structure,Reorganizacja struktury kategorii EAV do struktury płaskiej
+Category Products,Produkty kategorii
+Indexed category/products association,Stowarzyszenie kategorii / produktów indeksowanych
+Product Categories,Kategorie produktów
+Indexed product/categories association,Stowarzyszenie indeksowanych produktów / kategorii
+Product Price,Cena produktu
+Index product prices,Indeksuj ceny produktów
+Product EAV,Produkt EAV
+Index product EAV,Produkt indeksowy EAV
+Catalog New Products List,Katalog produktów Nowe produkty
+List of Products that are set as New,Lista produktów ustawionych jako nowe
+Display Type,Typ wyświetlacza
+"All products - recently added products, New products - products marked as new","Wszystkie produkty - ostatnio dodane produkty, Nowe produkty - produkty oznaczone jako nowe"
+All products,Wszystkie produkty
+New products,Nowe Produkty
+Display Page Control,Sterowanie stroną graficzną
+Number of Products per Page,Liczba produktów na stronie
+Number of Products to Display,Liczba produktów do wyświetlenia
+Template,Szablon
+New Products Grid Template,Nowe szablony produktów
+New Products List Template,Nowy szablon listy produktów
+New Products Images and Names Template,Nowe produkty Obrazki i nazwy Szablon
+New Products Names Only Template,Nowe produkty Nazwa tylko szablon
+New Products Images Only Template,Nowe produkty Tylko szablony
+Cache Lifetime (Seconds),Cykl życia (w sekundach)
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Domyślnie domyślnie 86400, jeśli nie ustawiono. Aby odświeżyć natychmiast, wyczyść pamięć podręczną Blocks HTML Output."
+Catalog Product Link,Link produktów do katalogu
+Link to a Specified Product,Link do określonego produktu
+Select Product...,Wybierz produkt ...
+Anchor Custom Text,Anchor Custom Text
+"If empty, we'll use the product name here.","Użyjemy tu nazwy produktu, jeśli jest pusta."
+Anchor Custom Title,Anchor Custom Title
+Product Link Block Template,Szablon bloku linków produktu
+Product Link Inline Template,Szablon wewnętrzny linku produktu
+Catalog Category Link,Katalog Kategoria Link
+Link to a Specified Category,Link do określonej kategorii
+Select Category...,Wybierz kategorię...
+"If empty, we'll use the category name here.","Użyjemy tutaj nazwy kategorii, jeśli będzie pusta."
+Category Link Block Template,Szablon Szablonu kategorii
+Category Link Inline Template,Szablon linku wewnętrznego kategorii
+Recently Viewed Products,ostatnio oglądane produkty
+List of Products Recently Viewed by Visitor,Lista produktów Ostatnio oglądane przez gości
+UI Component,Komponent interfejsu użytkownika
+Number of Products to display,Liczba produktów do wyświetlenia
+Product attributes to show,Atrybuty produktów do wyświetlenia
+Image,Obraz
+Learn More Link,Dowiedz się więcej Link
+Buttons to show,Przyciski do pokazania
+Add to Wishlist,Dodaj do listy życzeń
+Viewed Products Grid Template,Wyświetlane szablony produktów
+Viewed Products List Template,Szablon listy produktów
+Viewed Products Sidebar Template,Oglądane szablony pasków bocznych
+Recently Compared Products,Ostatnio porównywane produkty
+List of Products Recently Compared by Visitor,Lista produktów Ostatnio Porównanie według odwiedzających
+Compared Products Grid Template,Porównane szablony produktów
+Compared Products List Template,Szablon listy produktów porównywanych
+Set,Zestaw
+Category Information,Informacje o kategorii
+Enable Category,Włącz kategorię
+Include in Menu,Dołącz w menu
+Content,Zadowolony
+Category Image,Obraz kategorii
+Description,Opis
+Add CMS Block,Dodaj blok CMS
+Display Settings,Ustawienia wyświetlania
+Display Mode,Tryb wyświetlania
+Anchor,Kotwica
+Available Product Listing Sort By,Dostępny lista produktów Sortuj według
+Use All,Użyj wszystko
+Default Product Listing Sort By,Domyślny katalog produktów Sortowanie
+Layered Navigation Price Step,Krok krok po kroku
+URL Key,Klucz URL
+Meta Title,Tytuł Meta
+Meta Keywords,Meta Słowa kluczowe
+Meta Description,Opis Meta
+Products in Category,Produkty w kategorii
+Design,Projekt
+Theme,Motyw
+Layout,Układ
+Layout Update XML,Aktualizacja układu XML
+Apply Design to Products,Zastosuj projekt do produktów
+Schedule Design Update,Aktualizacja projektu harmonogramu
+AttributeSetText,AttributeSetText
+StatusText,StatusText
+Product Image Watermarks,Obraz produktu Znaki wodne
+Base,Baza
+"Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png."
+Image,Obraz
+Image Opacity,Nieprzewidywalność obrazu
+Example format: 200x300.,Przykładowy format: 200x300.
+Image Position,Pozycja obrazu
+Small,Mały
+Attribute Properties,Właściwości atrybutu
+Attribute Label,Etykieta atrybutu
+Catalog Input Type for Store Owner,Typ wejścia katalogu dla właściciela sklepu
+Values,Wartości
+Add this attribute to the list of column options in the product grid.,Dodaj ten atrybut do listy opcji kolumn w siatce produktów.
+Add this attribute to the list of filter options in the product grid.,Dodaj ten atrybut do listy filtrów w sieci produktów.
+System,System
+All Store Views,Wszystkie widoki sklepów
+Delete selected items?,Usunąć wybrane elementy?
+Delete items,Usuń elementy
+Change status,Zmień status
+Enable,Włączyć
+Disable,Wyłączyć
+Update attributes,Zaktualizuj atrybuty
+Overview,Przegląd
+Skip to the end of the images gallery,Przejdź na koniec galerii zdjęć
+Skip to the beginning of the images gallery,Przejdź na początek galerii obrazów
+Details,Detale
+Recently Compared,Niedawno porównane
+Add To Cart,Dodaj do koszyka
+Add To Compare,Dodaj do porównania
+Learn more,Ucz się więcej
+Recently Viewed,Ostatnio oglądane

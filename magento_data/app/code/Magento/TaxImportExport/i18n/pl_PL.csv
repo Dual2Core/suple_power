@@ -1,0 +1,19 @@
+Code,Kod
+Country,Kraj
+State,Stan
+Zip/Post Code,Kod pocztowy
+Rate,Oceniać
+Zip/Post is Range,Zip / Post to Range
+Range From,Zakres od
+Range To,Zakres Do
+Tax Zones and Rates,Strefy podatkowe i stawki
+Import and Export Tax Rates,Stawki podatku importowego i eksportowego
+The tax rate has been imported.,Stopa podatkowa została zaimportowana.
+Invalid file upload attempt,Nieprawidłowa próba przesłania pliku
+Invalid file upload attempt.,Nieprawidłowa próba przesłania pliku.
+Invalid file format.,Nieprawidłowy format pliku.
+One of the countries has invalid code.,Jeden z krajów ma nieprawidłowy kod.
+Import Tax Rates,Importuj stawki podatkowe
+Export Tax Rates,Eksportuj stawki podatkowe
+CSV,CSV
+Excel XML,Excel XML

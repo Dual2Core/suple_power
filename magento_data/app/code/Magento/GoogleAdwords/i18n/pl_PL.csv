@@ -1,0 +1,13 @@
+Dynamic,Dynamiczny
+Constant,Stały
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Kolor konwersji jest nieprawidłowy ""%1"". Ustaw szesnastkową 6-cyfrową wartość."
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Wartość identyfikatora konwersji jest niepoprawna ""%1"". Identyfikator konwersji powinien być liczbą całkowitą."
+Google AdWords,Google AdWords
+Enable,Włączyć
+Conversion ID,Identyfikator konwersji
+Conversion Language,Język konwersji
+Conversion Format,Format konwersji
+Conversion Color,Kolor konwersji
+Conversion Label,Etykieta konwersji
+Conversion Value Type,Typ wartości konwersji
+Conversion Value,Wartość konwersji

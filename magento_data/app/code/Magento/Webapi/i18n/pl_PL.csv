@@ -1,0 +1,24 @@
+Consumer is not authorized to access %resources,Konsument nie ma uprawnień dostępu do% zasobów
+Operation allowed only in HTTPS,Operacja dozwolona tylko w HTTPS
+Cannot perform GET operation with store code 'all',"Nie można wykonać operacji GET z kodem sklepu ""all"""
+Request does not match any route.,Żądanie nie pasuje do żadnej trasy.
+Not allowed parameters: %1. Please use only %2 and %3.,Niedozwolone parametry: %1. Proszę używać tylko %2 i %3.
+"Requested service is not available: ""%1""","Żądana usługa nie jest dostępna: "" %1"""
+"Operation ""%1"" not found.","Nie znaleziono operacji "" %1""."
+SOAP extension is not loaded.,Rozszerzenie SOAP nie zostało załadowane.
+Invalid XML,Nieprawidłowy XML
+Invalid XML: Detected use of illegal DOCTYPE,Nieprawidłowy kod XML: wykryto użycie niedozwolonego DOCTYPE
+message,wiadomość
+Message,Wiadomość
+Soap fault reason.,Przyczyna błędu mydła.
+Manage Customers,Zarządzaj klientami
+Create Customer,Utwórz klienta
+Edit Customer,Edytuj klienta
+Get Customer,Zdobądź klienta
+Delete Customer,Usuń klienta
+Magento Web API,Magento Web API
+SOAP Settings,Ustawienia SOAP
+Default Response Charset,Domyślny zestaw znaków odpowiedzi
+"If empty, UTF-8 will be used.","Jeśli jest pusty, zostanie użyty kod UTF-8."
+Web Services Configuration,Konfiguracja usług internetowych
+"REST and SOAP configurations, generated WSDL file","Konfiguracje REST i SOAP, wygenerowany plik WSDL"

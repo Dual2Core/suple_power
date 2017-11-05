@@ -1,0 +1,120 @@
+Default Config,Domyślna konfiguracja
+Save Config,Zapisz konfigurację
+[GLOBAL],[ŚWIATOWY]
+[WEBSITE],[STRONIE INTERNETOWEJ]
+[STORE VIEW],[STORE VIEW]
+Use system value,Użyj wartości systemowej
+Use Default,Zastosowanie domyślne
+Use Website,Użyj strony WWW
+Add,Dodaj
+Delete File,Usunąć plik
+Search String,Szukana fraza
+Design Theme,Motyw projektu
+Add \Exception,Dodaj \ wyjątek
+-- No Theme --,- Bez motywu -
+Enable,Włączyć
+Disable,Wyłączyć
+Configuration,Konfiguracja
+"Class for type ""%1"" was not declared","Klasa dla typu "" %1"" nie została zadeklarowana"
+%1 should implement %2, %1 powinien wykonać %2
+"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","Nie możemy zapisać tej opcji, ponieważ Magento nie jest zainstalowany. Aby zablokować tę wartość, należy ponownie wprowadzić polecenie za pomocą opcji - %1."
+"The value you set has already been locked. To change the value, use the --%1 option.","Ustawiona wartość została już zablokowana. Aby zmienić wartość, użyj opcji - %1."
+%1, %1
+"Configuration for path: ""%1"" doesn't exist","Konfiguracja ścieżki: "" %1"" nie istnieje"
+System,System
+You saved the configuration.,Zapisałeś konfigurację.
+Something went wrong while saving this configuration:,"Coś poszło nie tak, zachowując tę ​​konfigurację:"
+Page not found.,Strona nie znaleziona.
+Please specify the admin custom URL.,Podaj niestandardowy adres URL administratora.
+Invalid %1. %2,Nieprawidłowy %1.  %2
+Value must be a URL or one of placeholders: %1,Wartość musi być adresem URL lub jednym z symboli zastępczych: %1
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Określ adres URL lub ścieżkę, która zaczyna się od symbolu zastępczego: %1, i kończy się ""/""."
+%1 An empty value is allowed as well., %1 Opuszcza się również wartość pustą.
+Specify a fully qualified URL.,Określ pełny adres URL.
+"Selected allowed currency ""%1"" is not available in installed currencies.","Wybrana dopuszczalna waluta "" %1"" nie jest dostępna w zainstalowanych walutach."
+"Default display currency ""%1"" is not available in allowed currencies.","Domyślna waluta wyświetlania "" %1"" nie jest dostępna w dozwolonych walutach."
+"Sorry, we haven't installed the base currency you selected.","Niestety, nie zainstalowaliśmy wybranej waluty bazowej."
+We can't save the Cron expression.,Nie możemy zapisać wyrażenia Cron.
+"Sorry, we haven't installed the default display currency you selected.","Niestety, nie zainstalowaliśmy domyślnej waluty wyświetlanej."
+"Sorry, the default display currency you selected is not available in allowed currencies.","Przepraszamy, domyślna waluta wyświetlania wybrana przez Ciebie nie jest dostępna w dozwolonych walutach."
+"Please correct the email address: ""%1"".","Popraw adres email: "" %1""."
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Nazwa nadawcy "" %1"" jest nieprawidłowa. Proszę używać tylko widocznych znaków i spacji."
+Maximum sender name length is 255. Please correct your settings.,Maksymalna długość nazwy nadawców to 255. Popraw swoje ustawienia.
+The file you're uploading exceeds the server size limit of %1 kilobytes.,Przesyłany plik przekracza limit rozmiaru serwera wynoszący co najmniej 1 kilobajt.
+The base directory to upload file is not specified.,Nie podano katalogu podstawowego do przesłania pliku.
+The specified image adapter cannot be used because of: %1,Nie można użyć określonego adaptera obrazu ze względu na: %1
+Default scope,Zakres domyślny
+Base currency,Waluta bazowa
+Display default currency,Wyświetl domyślną walutę
+website(%1) scope,strona internetowa ( %1)
+store(%1) scope,magazyn ( %1) zakres
+"Currency ""%1"" is used as %2 in %3.","Waluta "" %1"" jest używana jako %2 w %3."
+Please correct the timezone.,Proszę poprawić strefę czasową.
+"The file ""%1"" does not exist","Plik "" %1"" nie istnieje"
+"The ""%1"" path does not exist","Ścieżka "" %1"" nie istnieje"
+Always (during development),Zawsze (podczas rozwoju)
+Only Once (version upgrade),Tylko raz (aktualizacja wersji)
+Never (production),Nigdy (produkcja)
+Bcc,Bcc
+Separate Email,Oddzielny adres e-mail
+%1 (Default), %1 (domyślnie)
+title,tytuł
+No,Nie
+Optional,Opcjonalny
+Required,wymagany
+Website,Stronie internetowej
+Store,Sklep
+Store View,Widok sklepu
+HTTP (unsecure),HTTP (niezabezpieczone)
+HTTPS (SSL),HTTPS (SSL)
+Yes (302 Found),Tak (302 Znalezione)
+Yes (301 Moved Permanently),Tak (301 Przeniesiono na stałe)
+Yes,tak
+Specified,Określony
+Config form fieldset clone model required to be able to clone fields,Konfiguracja modelu klonu z polami poleceń wymaganych do klonowania pól
+"%1: Instance of %2 is expected, got %3 instead"," %1: Oczekuje się wystąpienia %2, ale zamiast tego %3"
+Invalid XML in file %1:\n%2,Nieprawidłowy plik XML w pliku %1: \ n %2
+.,.
+'There is no defined type ' .,"""Nie ma zdefiniowanego typu""."
+'Object is not instance of ' .,"""Obiekt nie jest przykładem""."
+Filesystem is not writable.,System plików nie jest zapisywalny.
+Some error,Niektóre błędy
+Some message,Jakaś wiadomość
+This command is unavailable right now.,To polecenie jest obecnie niedostępne.
+"The ""test/test/test"" path does not exists","Ścieżka ""test / test / test"" nie istnieje"
+error message,Komunikat o błędzie
+some_label,some_label
+some_comment,some_comment
+some prefix,jakiś prefiks
+element label,etykieta elementu
+element hint,element podpowiedzi
+element comment,komentarz elementu
+element tooltip,element narzędziowy
+test,test
+test2,test2
+Add after,Dodaj po
+Delete,Kasować
+Current Configuration Scope:,Bieżąca konfiguracja:
+Stores,Sklepy
+Group Label,Etykieta Grupowa
+Some Label,Niektóre etykiety
+Tab Label,Etykieta tabulacji
+Allow everything,Pozwól na wszystko
+Magento Admin,Magento Admin
+Dashboard,Deska rozdzielcza
+Manage Stores,Zarządzaj sklepami
+Field 2,Pole 2
+Field 3,Pole 3
+Field 3.1,Pole 3.1
+Field 3.1.1,Pole 3.1.1
+Field 4,Pole 4
+Advanced Section,Sekcja zaawansowana
+Advanced Admin Section,Sekcja zaawansowanych administratorów
+Design Section,Sekcja Projektu
+General Section,Sekcja ogólna
+System Section,Sekcja systemu
+Currency Setup Section,Sekcja ustawień waluty
+Developer Section,Sekcja programisty
+Web Section,Sekcja internetowa
+Store Email Addresses Section,Sekcja adresów e-mail sklepu
+Email to a Friend,Email do przyjaciela

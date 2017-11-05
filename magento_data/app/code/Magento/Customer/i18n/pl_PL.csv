@@ -1,0 +1,530 @@
+Sign Out,Wyloguj się
+Sign In,Zaloguj
+You are subscribed to our newsletter.,Subskrybujesz nasz biuletyn.
+You aren't subscribed to our newsletter.,Nie subskrybujesz naszego biuletynu.
+You have not set a default shipping address.,Nie ustawiono domyślnego adresu wysyłki.
+You have not set a default billing address.,Nie ustawiono domyślnego adresu rozliczeniowego.
+Address Book,Książka adresowa
+Edit Address,Edytuj adres
+Add New Address,Dodaj nowy adres
+region,region
+Create Order,Utwórz zamówienie
+Save Customer,Zapisz klienta
+Delete Customer,Usuń klienta
+Reset Password,Zresetuj hasło
+Are you sure you want to revoke the customer's tokens?,Czy na pewno chcesz wycofać żetony klienta?
+Force Sign-In,Wymuszaj zalogowanie
+New Customer,Nowy klient
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Back,Plecy
+Please select,Proszę wybrać
+Reset,Nastawić
+ID,ID
+Product,Produkt
+SKU,SKU
+Quantity,Ilość
+Price,Cena
+Total,Całkowity
+Action,Akcja
+Configure,Konfiguruj
+Delete,Kasować
+Shopping Cart from %1,Koszyk od %1
+Newsletter,Biuletyn
+Newsletter Information,Informacje o newsletterze
+Subscribed to Newsletter,Zaprenumerowany Newsletter
+Last Date Subscribed,Data ostatniej subskrypcji
+Last Date Unsubscribed,Data ostatniej subskrypcji
+No Newsletter Found,Nie znaleziono żadnego biuletynu
+Start date,Data rozpoczęcia
+End Date,Data końcowa
+Receive Date,Data otrzymania
+Subject,Przedmiot
+Status,Status
+Sent,Wysłano
+Cancel,Anuluj
+Not Sent,Nie wysłane
+Sending,Wysyłanie
+Paused,Wstrzymano
+View,Widok
+Unknown,Nieznany
+Order,Zamówienie
+Purchased,Zakupione
+Bill-to Name,Bill-to nazwisko
+Ship-to Name,Nazwa przewoźnika
+Order Total,Suma zamówienia
+Purchase Point,Punkt zakupu
+Customer View,Widok klienta
+There are no items in customer's shopping cart.,W koszyku klienta nie ma żadnych elementów.
+Qty,Ilość
+Confirmed,Zatwardziały
+Confirmation Required,Wymagane Potwierdzenie
+Confirmation Not Required,Potwierdzenie nie jest wymagane
+Indeterminate,Nieokreślony
+The customer does not have default billing address.,Klient nie ma domyślnego adresu rozliczeniowego.
+Offline,Offline
+Online,Online
+Never,Nigdy
+Unlocked,Odblokowany
+Locked,Zablokowany
+Deleted Stores,Usunięte Sklepy
+Add Locale,Dodaj lokalizację
+Add Date,Dodaj datę
+Days in Wish List,Dni w liście życzeń
+Unlock,Odblokować
+No,Nie
+Yes,tak
+Delete File,Usunąć plik
+Download,Pobieranie
+Delete Image,Usuń zdjęcie
+View Full Size,Zobacz pełny rozmiar
+All countries,Wszystkie kraje
+Customer Groups,Grupy klientów
+Add New Customer Group,Dodaj nową grupę klientów
+Save Customer Group,Zapisz grupę klientów
+Delete Customer Group,Usuń grupę klientów
+New Customer Group,Nowa grupa klientów
+"Edit Customer Group ""%1""","Edytuj grupę klientów "" %1"""
+Group Information,Informacje o grupie
+Group Name,Nazwa grupy
+Maximum length must be less then %1 characters.,Maksymalna długość musi wynosić mniej niż %1 znaki.
+Tax Class,Klasa podatkowa
+The customer is now assigned to Customer Group %s.,Klient jest teraz przypisany do grupy klientów% s.
+Would you like to change the Customer Group for this order?,Czy chcesz zmienić grupę klientów dla tego zamówienia?
+The VAT ID is valid.,Identyfikator VAT jest ważny.
+The VAT ID entered (%s) is not a valid VAT ID.,Podany identyfikator VAT (% s) nie jest prawidłowym identyfikatorem VAT.
+The VAT ID is valid. The current Customer Group will be used.,Identyfikator VAT jest ważny. Zostanie użyta bieżąca grupa klientów.
+The VAT ID is valid but no Customer Group is assigned for it.,"Identyfikator VAT jest prawidłowy, ale nie przypisano do niego żadnej grupy klientów."
+"Based on the VAT ID, the customer belongs to the Customer Group %s.",Na podstawie ID VAT klient należy do grupy klientów% s.
+Something went wrong while validating the VAT ID.,Podczas weryfikacji identyfikatora VAT wystąpił błąd.
+The customer would belong to Customer Group %s.,Klient należał do grupy klientów% s.
+There was an error detecting Customer Group.,Wystąpił błąd podczas wykrywania grupy klientów.
+Validate VAT Number,Zatwierdzić numer VAT
+Customer Login,Logowanie do klienta
+Create New Customer Account,Utwórz nowe konto klienta
+Date of Birth,Data urodzenia
+Bad request.,Zła prośba.
+This confirmation key is invalid or has expired.,Ten klucz potwierdzenia jest nieprawidłowy lub wygasł.
+There was an error confirming the account,Podczas potwierdzania konta wystąpił błąd
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Jeśli jesteś zarejestrowanym klientem VAT, kliknij <a href=""%1""> tutaj </a>, aby wprowadzić prawidłowy kalkulator VAT."
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","Jeśli jesteś zarejestrowanym klientem VAT, kliknij <a href=""%1""> tutaj </a>, aby wprowadzić adres rozliczeniowy do właściwego obliczania VAT."
+Thank you for registering with %1.,Dziękujemy za zarejestrowanie się w %1.
+Please check your email for confirmation key.,Sprawdź swój adres e-mail w celu uzyskania klucza potwierdzenia.
+This email does not require confirmation.,Ten e-mail nie wymaga potwierdzenia.
+Wrong email.,Zły email.
+Your password reset link has expired.,Twój link do zresetowania hasła wygasł.
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Musisz potwierdzić swoje konto. Sprawdź link do potwierdzenia lub <a href=""%1""> kliknij tutaj </a>, aby uzyskać nowy link."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Z tym adresem e-mail jest już konto. Jeśli masz pewność, że jest to Twój adres e-mail, <a href=""%1""> kliknij tutaj </a>, aby uzyskać hasło i uzyskać dostęp do swojego konta."
+We can't save the customer.,Nie możemy zaoszczędzić klienta.
+Please make sure your passwords match.,"Upewnij się, że hasła są zgodne."
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Jeśli jesteś zarejestrowanym klientem VAT, <a href=""%1""> kliknij tutaj </a>, aby wprowadzić prawidłowy kalkulator VAT."
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Jeśli jesteś zarejestrowanym klientem VAT, <a href=""%1""> kliknij tutaj </a>, aby wprowadzić adres rozliczeniowy do właściwego obliczania VAT."
+Account Information,informacje o koncie
+You saved the account information.,Zapisałeś informacje o koncie.
+You did not sign in correctly or your account is temporarily disabled.,Nie zalogujesz się prawidłowo lub Twoje konto zostało tymczasowo wyłączone.
+Password confirmation doesn't match entered password.,Potwierdzenie hasła nie zgadza się z wprowadzonym hasłem.
+The password doesn't match this account.,Hasło nie pasuje do tego konta.
+Please correct the email address.,Popraw adres e-mailowy.
+We're unable to send the password reset email.,Nie możemy wysłać e-maila z resetem hasła.
+Please enter your email.,Wprowadź swój e-mail.
+If there is an account associated with %1 you will receive an email with a link to reset your password.,"Jeśli jest konto powiązane z %1, otrzymasz e-mail z linkiem do zresetowania hasła."
+My Account,Moje konto
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","To konto nie zostało potwierdzone. <a href=""%1""> Kliknij tutaj </a>, aby wysłać ponownie wiadomość e-mail z potwierdzeniem."
+An unspecified error occurred. Please contact us for assistance.,"Wystąpił nieokreślony błąd. Skontaktuj się z nami, aby uzyskać pomoc."
+A login and a password are required.,Wymagane jest logowanie i hasło.
+New Password and Confirm New Password values didn't match.,Nowe wartości haseł i Potwierdź nowe hasło nie zgadzają się.
+Please enter a new password.,Wprowadź nowe hasło.
+You updated your password.,Zaktualizowano hasło.
+Something went wrong while saving the new password.,Wystąpił błąd podczas zapisywania nowego hasła.
+You deleted the address.,Usunąłeś adres.
+We can't delete the address right now.,Nie możemy teraz usunąć adresu.
+You saved the address.,Zapisałeś adres.
+We can't save the address.,Nie możemy zapisać adresu.
+No customer ID defined.,Nie zdefiniowano identyfikatora klienta.
+Please correct the quote items and try again.,Popraw poprawność cytatów i spróbuj ponownie.
+You have revoked the customer's tokens.,Cofnąłeś żetony klienta.
+We can't find a customer to revoke.,Nie możemy znaleźć klienta do odwołania.
+Something went wrong while saving file.,Podczas zapisywania pliku wystąpił błąd.
+You deleted the customer group.,Usunąłeś grupę klientów.
+The customer group no longer exists.,Grupa klientów już nie istnieje.
+Customers,Klienci
+New Group,Nowa grupa
+New Customer Groups,Nowe grupy klientów
+Edit Group,Edytuj grupę
+Edit Customer Groups,Edytuj grupy klientów
+You saved the customer group.,Zapisałeś grupę klientów.
+Please select customer(s).,Proszę wybrać klientów.
+Customer could not be deleted.,Klient nie mógł zostać usunięty.
+You deleted the customer.,Usunąłeś klienta.
+Something went wrong while editing the customer.,Podczas edytowania klienta wystąpił błąd.
+Manage Customers,Zarządzaj klientami
+Please correct the data sent.,Proszę poprawić wysyłane dane.
+A total of %1 record(s) were updated.,Zaktualizowano łącznie %1 rekordów.
+A total of %1 record(s) were deleted.,Usunięto co najmniej 1 rekordy.
+The customer will receive an email with a link to reset password.,Klient otrzyma e-mail z linkiem do resetowania hasła.
+Something went wrong while resetting customer password.,Wystąpił błąd podczas resetowania hasła klienta.
+You saved the customer.,Zapisałeś klienta.
+Something went wrong while saving the customer.,"Coś poszło nie tak, pomagając klientowi."
+Page not found.,Strona nie znaleziona.
+Customer has been unlocked successfully.,Klient został odblokowany.
+Online Customers,Klienci online
+Customers Now Online,Klienci teraz online
+Please define Wish List item ID.,Określ identyfikator elementu listy produktów Wish List.
+Please load Wish List item.,Proszę wczytaj element listy życzeń.
+Login successful.,Zalogowano poprawnie.
+Invalid login or password.,Niepoprawny login lub hasło.
+"""%1"" section source is not supported","Źródło sekcji "" %1"" nie jest obsługiwane"
+%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface, %1 nie rozszerza \ Magento \ Customer \ CustomerData \ SectionSourceInterface
+No confirmation needed.,Nie potrzebujesz potwierdzenia.
+Account already active,Konto jest już aktywne
+Invalid confirmation token,Nieprawidłowy token potwierdzenia
+The account is locked.,Konto jest zablokowane.
+This account is not confirmed.,To konto nie zostało potwierdzone.
+"Invalid value of ""%value"" provided for the %fieldName field.","Nieprawidłowa wartość ""% value"" określona dla pola% fieldName."
+Please enter a password with at most %1 characters.,Wprowadź hasło z maksymalnie %1 znakami.
+Please enter a password with at least %1 characters.,Wprowadź hasło z co najmniej %1 znakami.
+The password can't begin or end with a space.,Hasło nie może zaczynać się ani kończyć spacjami.
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimalna liczba różnych znaków znaków w hasle to %1. Klasy znaków: dolna obudowa, górna obudowa, cyfry, znaki specjalne."
+Password cannot be the same as email address.,Hasło nie może być takie samo jak adres e-mail.
+This customer already exists in this store.,Ten klient już istnieje w tym sklepie.
+A customer with the same email already exists in an associated website.,Klient z tym samym e-mailem już istnieje w powiązanej witrynie.
+%fieldName is a required field.,% fieldName to wymagane pole.
+Reset password token mismatch.,Zresetuj niezgodność tokenu hasła.
+Reset password token expired.,Zresetuj token haseł wygasł.
+Please correct the transactional account email type.,Proszę poprawić typ konta konta transakcyjnego.
+"""%1"" is a required value.",""" %1"" jest wymaganą wartością."
+Global,Światowy
+Per Website,Na stronie internetowej
+We can't share customer accounts globally when the accounts share identical email addresses on more than one website.,"Nie możemy udostępniać kont klientów na całym świecie, gdy konta mają identyczne adresy e-mail w więcej niż jednej witrynie."
+Billing Address,Adres rozliczeniowy
+Shipping Address,adres wysyłki
+-- Please Select --,-- Proszę wybrać --
+Please enter a valid password reset token.,Wprowadź prawidłowy token resetowania hasła.
+The password can not begin or end with a space.,Hasło nie może zaczynać się ani kończyć spacjami.
+Admin,Admin
+ALL GROUPS,WSZYSTKIE GRUPY
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","Brak takiego podmiotu z% fieldName =% fieldValue,% field2Name =% field2Value"
+File can not be saved to the destination folder.,Plik nie może zostać zapisany w folderze docelowym.
+Unable to create directory %1.,Nie można utworzyć katalogu %1.
+Destination folder is not writable or does not exists.,Folder docelowy nie jest zapisywalny ani nie istnieje.
+Something went wrong while saving the file.,Podczas zapisywania pliku wystąpił błąd.
+Attribute object is undefined,Obiekt atrybutu jest niezdefiniowany
+"""%1"" invalid type entered.","Wprowadzono nieprawidłowy typ "" %1""."
+"""%1"" contains non-alphabetic or non-numeric characters.",""" %1"" zawiera znaki inne niż alfabetyczne lub nie."
+"""%1"" is an empty string.",""" %1"" to pusty ciąg."
+"""%1"" contains non-numeric characters.",""" %1"" zawiera cyfry nieparzyste."
+"""%1"" contains non-alphabetic characters.",""" %1"" zawiera znaki niebędące alfabetycznie."
+"""%1"" is not a valid email address.",""" %1"" nie jest prawidłowym adresem e-mail."
+"""%1"" is not a valid hostname.",""" %1"" nie jest prawidłową nazwą hosta."
+"""%1"" uses too many characters.",""" %1"" używa zbyt wielu znaków."
+"'%value%' looks like an IP address, which is not an acceptable format.","""% value%"" wygląda jak adres IP, który nie jest akceptowalnym formatem."
+'%value%' looks like a DNS hostname but we cannot match the TLD against known list.,"""% value%"" wygląda jak nazwa hosta DNS, ale nie możemy dopasować TLD do znanej listy."
+'%value%' looks like a DNS hostname but contains a dash in an invalid position.,"""% value%"" wygląda jak nazwa hosta DNS, ale zawiera dash w nieprawidłowej pozycji."
+'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,"'% value%' wygląda jak nazwa hosta DNS, ale nie możemy dopasować go do schematu nazwy hosta dla TLD '% tld%'."
+'%value%' looks like a DNS hostname but cannot extract TLD part.,"'% value%' wygląda jak nazwa hosta DNS, ale nie może wydobyć części TLD."
+'%value%' does not look like a valid local network name.,"""% value%"" nie wygląda jak poprawna nazwa sieci lokalnej."
+"'%value%' looks like a local network name, which is not an acceptable format.","""% value%"" wygląda jak nazwa sieci lokalnej, która nie jest akceptowalnym formatem."
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","""% value%"" wydaje się być nazwą hosta DNS, ale nie można dekodować podanego zapisu punkode."
+"""%1"" is not a valid URL.",""" %1"" nie jest prawidłowym adresem URL."
+"""%1"" is not a valid date.",""" %1"" nie jest ważną datą."
+"""%1"" does not fit the entered date format.",""" %1"" nie pasuje do wprowadzonego formatu daty."
+Please enter a valid date between %1 and %2 at %3.,Wpisz prawidłową datę między %1 i %2 na %3.
+Please enter a valid date equal to or greater than %1 at %2.,Wpisz ważną datę równą lub większą niż %1 na %2.
+Please enter a valid date less than or equal to %1 at %2.,Proszę podać prawidłową datę mniejszą lub równą %1 w %2.
+"""%1"" is not a valid file extension.",""" %1"" nie jest poprawnym rozszerzeniem."
+"""%1"" is not a valid file.",""" %1"" nie jest prawidłowym plikiem."
+"""%1"" exceeds the allowed file size.",""" %1"" przekracza dopuszczalny rozmiar pliku."
+"""%1"" is not a valid image format.",""" %1"" nie jest prawidłowym formatem obrazu."
+"""%1"" width exceeds allowed value of %2 px.",""" %1"" szerokość przekracza dozwoloną wartość %2 px."
+"""%1"" height exceeds allowed value of %2 px.",""" %1"" wysokość przekracza dozwoloną wartość %2 px."
+"""%1"" length must be equal or greater than %2 characters.","Długość "" %1"" musi być równa lub większa niż %2 znaki."
+"""%1"" length must be equal or less than %2 characters.","Długość "" %1"" musi być równa lub mniejsza niż 2%."
+label,etykieta
+Please enter a customer email.,Wprowadź adres e-mail klienta.
+A customer website ID must be specified when using the website scope.,Identyfikator witryny klienta musi być określony podczas korzystania ze strony internetowej.
+Customer Group,Grupa klientów
+"You can't delete group ""%1"".","Nie można usunąć grupy "" %1""."
+Customer Group already exists.,Grupa klientów już istnieje.
+Cannot delete group.,Nie można usunąć grupy.
+Error during VAT Number verification.,Błąd podczas weryfikacji VAT Numer.
+PHP SOAP extension is required.,Wymagane jest rozszerzenie PHP SOAP.
+VAT Number is valid.,Numer VAT jest ważny.
+Please enter a valid VAT number.,Wprowadź prawidłowy numer VAT.
+Your VAT ID was successfully validated.,Identyfikator VAT został pomyślnie sprawdzony.
+You will be charged tax.,Zostaniesz obciążony podatkiem.
+You will not be charged tax.,Nie pobierasz podatku.
+The VAT ID entered (%1) is not a valid VAT ID.,Wprowadzony identyfikator VAT ( %1) nie jest prawidłowym identyfikatorem VAT.
+Your Tax ID cannot be validated.,Twój identyfikator podatkowy nie może zostać zweryfikowany.
+"If you believe this is an error, please contact us at %1","Jeśli uważasz, że jest to błąd, skontaktuj się z nami na %1"
+No such entity with %fieldName = %fieldValue,Brak takiego podmiotu z% fieldName =% fieldValue
+Male,Męski
+Female,Płeć żeńska
+Not Specified,Nieokreślony
+Thank you for registering with,Dziękujemy za rejestrację
+enter your billing address for proper VAT calculation,wprowadź swój adres rozliczeniowy do prawidłowego obliczenia VAT
+enter your shipping address for proper VAT calculation,wprowadź swój adres wysyłki w celu uzyskania prawidłowego obliczenia VAT
+Please enter new password.,Wprowadź nowe hasło.
+message,wiadomość
+NoSuchEntityException,NoSuchEntityException
+Exception,Wyjątek
+InputException.,InputException.
+InputException,InputException
+Exception message,Komunikat o wyjątku
+Validator Exception,Wyjątek Walidatora
+Localized Exception,Zlokalizowany wyjątek
+some error,jakiś błąd
+frontend_label,frontend_label
+NOT LOGGED IN,NIE ZALOGOWANY
+Please enter the state/province.,Proszę podać stan / prowincję.
+region is a required field.,region jest wymaganym.
+regionId is a required field.,regionId jest wymaganym.
+Label,Etykieta
+Select...,Wybierz...
+Edit,Edytować
+Visitor,Gość
+Customer,Klient
+No item specified.,Brak elementu.
+Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten element?
+Personal Information,Informacje osobiste
+Last Logged In:,Ostatnie logowanie:
+Last Logged In (%1):,Ostatnie logowanie ( %1):
+Account Lock:,Blokada konta:
+Confirmed email:,Potwierdzony adres e-mail:
+Account Created:,Konto utworzone
+Account Created on (%1):,Utworzone konto ( %1):
+Account Created in:,Konto utworzone w:
+Customer Group:,Grupa klientów:
+Default Billing Address,domyślny adres rozliczeniowy
+Sales Statistics,Statystyka sprzedaży
+Web Site,Stronie internetowej
+Store,Sklep
+Store View,Widok sklepu
+Lifetime Sales,Sprzedaż przez całe życie
+Average Sale,Średnia sprzedaż
+All Store Views,Wszystkie widoki sklepów
+Change,Zmiana
+Manage Addresses,Zarządzaj adresami
+Default Shipping Address,Domyślny adres dostawy
+Contact Information,Informacje kontaktowe
+Change Password,Zmień hasło
+Newsletters,Biuletyny
+"You are subscribed to ""General Subscription"".","Subskrybujesz ""Subskrypcję Generalną""."
+or,lub
+Default Addresses,Domyślne adresy
+Change Billing Address,Zmień adres rozliczeniowy
+You have no default billing address in your address book.,W Twojej książce adresowej nie ma domyślnego adresu rozliczeniowego.
+Change Shipping Address,Zmień adres wysyłki
+You have no default shipping address in your address book.,W Twojej książce adresowej nie ma domyślnego adresu wysyłki.
+Additional Address Entries,Dodatkowe wpisy adresowe
+Delete Address,Usuń adres
+You have no other address entries in your address book.,W Twojej książce adresowej nie masz żadnych wpisów adresowych.
+* Required Fields,* Wymagane pola
+Address,Adres
+Street Address,Adres ulicy
+Street Address %1,Ulica 1
+VAT Number,Numer VAT
+City,Miasto
+State/Province,Państwo / województwo
+"Please select a region, state or province.","Proszę wybrać region, stan lub prowincję."
+Zip/Postal Code,Kod pocztowy
+Country,Kraj
+It's a default billing address.,Jest to domyślny adres rozliczeniowy.
+Use as my default billing address,Użyj jako domyślnego adresu rozliczeniowego
+It's a default shipping address.,Jest to domyślny adres wysyłki.
+Use as my default shipping address,Użyj jako domyślnego adresu wysyłki
+Save Address,Zapisz adres
+Go back,Wracaj
+Please enter your email below and we will send you the confirmation link.,"Wprowadź swój e-mail poniżej, a my wyślemy Ci link z potwierdzeniem."
+Email,E-mail
+Send confirmation link,Wyślij link z potwierdzeniem
+Back to Sign In,Powrót do logowania
+Change Email,Zmień adres e-mail
+Change Email and Password,Zmień adres e-mail i hasło
+Current Password,Aktualne hasło
+New Password,nowe hasło
+Password Strength,Siła hasła
+No Password,Bez hasła
+Confirm New Password,Potwierdź nowe hasło
+Save,Zapisać
+Please enter your email address below to receive a password reset link.,"Wpisz poniżej swój adres e-mail, aby otrzymać łącze z resetem hasła."
+Reset My Password,Zresetować moje hasło
+Registered Customers,Zarejestrowani Klienci
+"If you have an account, sign in with your email address.","Jeśli masz konto, zaloguj się pod swoim adresem e-mail."
+Password,Hasło
+Forgot Your Password?,Zapomniałeś hasła?
+Subscription option,Opcja subskrypcji
+General Subscription,Subskrypcja ogólna
+Sign Up for Newsletter,Zarejestruj się aby otrzymać newsletter
+Address Information,Informacje o adresie
+Sign-in Information,Informacje o logowaniu
+Confirm Password,Potwierdź hasło
+Create an Account,Utwórz konto
+Set a New Password,Ustaw nowe hasło
+You have signed out and will go to our homepage in 5 seconds.,Wylogujesz się i przejdziesz na naszą stronę internetową w ciągu 5 sekund.
+New Customers,Nowi Klienci
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Tworzenie konta ma wiele zalet: sprawdzaj szybciej, przechowujesz więcej niż jeden adres, śledzisz zamówienia i nie tylko."
+Company,Firma
+Fax,Faks
+Gender,Płeć
+Name,Nazwa
+Tax/VAT number,Numer podatkowy / VAT
+Phone Number,Numer telefonu
+Welcome to %store_name,Witamy w% store_name
+"%name,","%Nazwa,"
+Welcome to %store_name.,Witamy w% store_name.
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby się zalogować do naszej witryny, użyj tych poświadczeń podczas wyewidencjonowania lub na stronie <a href=""%customer_url""> Moje konto </a>:"
+Email:,E-mail:
+Password:,Hasło:
+Password you set when creating account,Hasło ustawione podczas tworzenia konta
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapomniałeś hasła swojego konta? Kliknij <a href=""%reset_url""> tutaj </a>, aby je zresetować."
+"When you sign in to your account, you will be able to:",Po zalogowaniu się na swoje konto będziesz mógł:
+Proceed through checkout faster,Szybciej przechodzić przez kasę
+Check the status of orders,Sprawdź stan zamówień
+View past orders,Wyświetl poprzednie zamówienia
+Store alternative addresses (for shipping to multiple family members and friends),Zapisywanie alternatywnych adresów (wysyłanych do wielu członków rodziny i przyjaciół)
+Please confirm your %store_name account,Potwierdź konto% store_name
+You must confirm your %customer_email email before you can sign in (link is only valid once):,"Musisz potwierdzić swój email% customer_email, zanim będzie można się zalogować (link jest ważny tylko raz):"
+Confirm Your Account,Potwierdzić swoje konto
+Thank you for confirming your %store_name account.,Dziękujemy za potwierdzenie konta w% store_name.
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Aby zalogować się do naszej witryny i ustawić hasło, kliknij link <a href ="
+Your %store_name email has been changed,Twój adres e-mail magazynu% store_name został zmieniony
+"Hello,","Cześć,"
+We have received a request to change the following information associated with your account at %store_name: email.,Otrzymaliśmy prośbę o zmianę następujących informacji związanych z Twoim kontem na% store_name: e-mail.
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Jeśli nie zezwoliłeś na takie działanie, skontaktuj się z nami natychmiast w <a href=""mailto:%store_email"">% store_email </a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas pod adresem <a href=""tel:%store_phone"">% store_phone </a>"
+"Thanks,<br>%store_name","Dzięki, <br>% store_name"
+Your %store_name email and password has been changed,Twój adres e-mail i hasło zostało zapisane
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Otrzymaliśmy prośbę o zmianę następujących informacji związanych z Twoim kontem na% store_name: e-mail, hasło."
+Reset your %store_name password,Zresetuj hasło% store_name
+There was recently a request to change the password for your account.,Ostatnio został wysłany prośba o zmianę hasła dla Twojego konta.
+"If you requested this change, set a new password here:","Jeśli zażądałeś tej zmiany, wpisz tutaj nowe hasło:"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie złożyłeś tego żądania, możesz zignorować ten e-mail, a Twoje hasło pozostanie takie samo."
+Your %store_name password has been changed,Twoje hasło% store_name zostało zmienione
+We have received a request to change the following information associated with your account at %store_name: password.,Otrzymaliśmy prośbę o zmianę następujących informacji związanych z Twoim kontem na% store_name: password.
+Checkout out as a new customer,Zrealizuj jako nowy klient
+Creating an account has many benefits:,Tworzenie konta ma wiele zalet:
+See order and shipping status,Zobacz stan zamówienia i wysyłki
+Track order history,Śledzenie historii zamówień
+Check out faster,Sprawdź szybciej
+Checkout out using your account,Wyloguj się za pomocą swojego konta
+Email Address,Adres e-mail
+Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
+Are you sure you want to delete this address?,Czy na pewno chcesz usunąć ten adres?
+Weak,Słaby
+Medium,Średni
+Strong,Silny
+Very Strong,Bardzo silny
+Guest checkout is disabled.,Czeka gościa jest wyłączony.
+All Customers,Wszyscy klienci
+Now Online,Teraz online
+Customers Section,Sekcja klientów
+Customer Configuration,Konfiguracja klienta
+Account Sharing Options,Opcje udostępniania kont
+Share Customer Accounts,Udostępnij konta klientów
+Create New Account Options,Utwórz nowe opcje konta
+Enable Automatic Assignment to Customer Group,Włącz automatyczne przyporządkowanie do grupy klientów
+Tax Calculation Based On,Obliczanie podatków na podstawie
+Default Group,Grupa domyślna
+Group for Valid VAT ID - Domestic,Grupa dla prawidłowego identyfikatora VAT - krajowego
+Group for Valid VAT ID - Intra-Union,Grupa ważnych identyfikatorów VAT - wewnątrz Unii
+Group for Invalid VAT ID,Grupa nieprawidłowego ID VAT
+Validation Error Group,Grupa błędów walidacji
+Validate on Each Transaction,Sprawdź w każdej transakcji
+Default Value for Disable Automatic Group Changes Based on VAT ID,Wartość domyślna wyłączenia automatycznych zmian grupowych na podstawie ID VAT
+Show VAT Number on Storefront,Pokaż numer VAT na sklepu
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Aby wyświetlić numer VAT na stronie Sklepu, ustaw opcję Pokaż numer VAT w opcji Sklep na Tak."
+Default Email Domain,Domena poczty e-mail domyślnej
+Default Welcome Email,Domyślnie Welcome Email
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Szablon poczty e-mail wybrany w oparciu o opcję zastępowania tematów, gdy wybrano opcję ""Domyślna""."
+Default Welcome Email Without Password,Domyślnie Welcome Email Without Password
+"
+                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                    ","                        Ten e-mail zostanie wysłany zamiast domyślnego powitalnego poczty elektronicznej, jeśli klient został utworzony bez hasła. <br /> <br />                         Szablon poczty e-mail wybrany na podstawie fallbacku tematu po wybraniu opcji """" Domyślna """"."
+Email Sender,Nadawca poczty elektronicznej
+Require Emails Confirmation,Wymagaj potwierdzenia wiadomości e-mail
+Confirmation Link Email,E-mail z potwierdzeniem
+Welcome Email,Witamy Email
+"
+                        This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                    ","                        Ten e-mail zostanie wysłany zamiast domyślnego powitalnego poczty elektronicznej, po potwierdzeniu konta. <br /> <br />                         Szablon poczty e-mail wybrany na podstawie fallbacku tematu po wybraniu opcji """" Domyślna """"."
+Generate Human-Friendly Customer ID,Wygeneruj identyfikator klienta przyjaznego dla człowieka
+Password Options,Opcje hasła
+Forgot Email Template,Szablon wiadomości e-mail
+Remind Email Template,Przypomnij szablon e-mail
+Reset Password Template,Zresetuj szablon hasła
+Password Template Email Sender,Szablon Szablonu Poczty Email Sender
+Recovery Link Expiration Period (hours),Okres ważności łącza odzyskiwania (godziny)
+Please enter a number 1 or greater in this field.,W tym polu wpisz numer 1 lub więcej.
+Number of Required Character Classes,Liczba wymaganych klas znaków
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Liczba różnych klas znaków wymaganych w hasłach: małe, wielkie, cyfry, znaki specjalne."
+Minimum Password Length,Minimalna długość hasła
+Maximum Login Failures to Lockout Account,Maksymalna liczba błędów logowania do konta
+Use 0 to disable account locking.,"Użyj 0, aby wyłączyć blokowanie konta."
+Lockout Time (minutes),Czas blokady (minuty)
+Enable Autocomplete on login/forgot password forms,Włącz autouzupełnianie podczas logowania / zapomni hasła
+Account Information Options,Opcje informacji o koncie
+Change Email Template,Zmień szablon wiadomości e-mail
+Change Email and Password Template,Zmień szablon adresu e-mail i hasła
+Name and Address Options,Opcje nazwy i adresu
+Number of Lines in a Street Address,Liczba linii w adresie ulicy
+Leave empty for default (2). Valid range: 1-4,Opuść wartość domyślną (2). Prawidłowy zakres: 1-4
+Show Prefix,Pokaż prefiks
+"The title that goes before name (Mr., Mrs., etc.)","Tytuł poprzedzający nazwę (pan, pani, itp.)"
+Prefix Dropdown Options,Opcje rozwijania prefiksu
+"
+                        Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
+                    ",                        Wartości oddzielone półtonem (;). <br/> Umieść średnik na początku dla pustej pierwszej opcji. <br/> Pozostaw puste pole tekstowe.
+Show Middle Name (initial),Pokaż imię (imię)
+Always optional.,Zawsze opcjonalne.
+Show Suffix,Pokaż Suffix
+"The suffix that goes after name (Jr., Sr., etc.)","Sufiks, który idzie po nazwie (Jr., Sr., itd.)"
+Suffix Dropdown Options,Opcje rozwijania Suffix
+Show Date of Birth,Pokaż datę urodzenia
+Show Tax/VAT Number,Pokaż numer podatkowy / VAT
+Show Gender,Pokaż Płeć
+Show Telephone,Pokaż telefon
+Show Company,Pokaż firmę
+Show Fax,Pokaż faks
+Login Options,Opcje logowania
+Redirect Customer to Account Dashboard after Logging in,Przekieruj konto do konta po zalogowaniu
+"Customer will stay on the current page if ""No"" is selected.","Klient pozostanie na bieżącej stronie, jeśli wybrano ""Nie""."
+Address Templates,Szablony adresowe
+Online Customers Options,Opcje klienta online
+Online Minutes Interval,Minuty interwału online
+Leave empty for default (15 minutes).,Opuść wartość domyślną (15 minut).
+Customer Notification,Powiadomienie klienta
+Customer Grid,Sieć klienta
+Rebuild Customer grid index,Przebuduj indeks sieci klientów
+Group,Grupa
+Add New Customer,Dodaj nowego klienta
+Are you sure to delete selected customers?,Czy na pewno usunąć wybrane klienci?
+Delete items,Usuń elementy
+Subscribe to Newsletter,Zapisz się do newslettera
+Are you sure to unsubscribe selected customers from newsletter?,Czy na pewno wyrejestrowanie wybranych klientów z biuletynu?
+Unsubscribe from Newsletter,Anuluj subskrypcję biuletynu
+Assign a Customer Group,Przypisz Grupę Klientów
+Phone,Telefon
+ZIP,zamek błyskawiczny
+Customer Since,Klient od
+Confirmed email,Potwierdzony e-mail
+Account Created in,Konto utworzone w
+Tax VAT Number,Podatek VAT Numer
+Billing Firstname,Imię i nazwisko faktury
+Billing Lastname,Nazwisko rozliczeniowe
+Account Lock,Blokada konta
+First Name,Pierwsze imię
+Last Name,Nazwisko
+Last Activity,Ostatnia aktywność
+Type,Rodzaj
+Customer Information,Informacje dla klientów
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Jeśli instalacja Magento zawiera wiele stron internetowych, możesz edytować zakres, aby powiązać klienta z konkretną witryną."
+Disable Automatic Group Change Based on VAT ID,Wyłącz automatyczną zmianę grupy na podstawie ID VAT
+Send Welcome Email From,Wyślij Witaj Email z
+Are you sure you want to delete this item?,Czy na pewno chcesz usunąć ten element?
+Addresses,Adresy
+Account Dashboard,Panel konta
+Edit Account Information,Edytuj informacje o koncie
+Password forgotten,Zapomniałeś hasła
+My Dashboard,moja tablica
+You are signed out,Wylogujesz się

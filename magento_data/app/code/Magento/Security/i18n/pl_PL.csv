@@ -1,0 +1,28 @@
+Account Activity,Aktywność na koncie
+All other open sessions for this account were terminated.,Wszystkie inne otwarte sesje dla tego konta zostały zakończone.
+We couldn't logout because of an error.,Nie mogliśmy się wylogować z powodu błędu.
+Someone logged into this account from another device or browser. Your current session is terminated.,Ktoś zalogował się na to konto z innego urządzenia lub przeglądarki. Twoja aktualna sesja została zakończona.
+Your current session is terminated by another user of this account.,Twoja aktualna sesja została zakończona przez innego użytkownika tego konta.
+Your account is temporarily disabled.,Twoje konto jest tymczasowo wyłączone.
+Your current session has been expired.,Twoja aktualna sesja wygasła.
+By IP and Email,Według adresu IP i adresu e-mail
+By IP,Według adresu IP
+By Email,E-mailem
+None,Żaden
+Too many password reset requests. Please wait and try again or contact %1.,Zbyt wiele żądań resetowania hasła. Zaczekaj i spróbuj ponownie lub skontaktuj się z %1.
+Incorrect Security Checker class. It has to implement SecurityCheckerInterface,Niepoprawna klasa sprawdzania bezpieczeństwa. Musi zaimplementować SecurityCheckerInterface
+some error,jakiś błąd
+This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.,"To konto administratora jest otwarte w więcej niż jednej lokalizacji. Pamiętaj, że inne lokalizacje mogą być różnymi przeglądarkami lub sesjami na tym samym komputerze."
+Concurrent session information:,Równoczesne informacje o sesji:
+IP Address,Adres IP
+Time of session start,Czas rozpoczęcia sesji
+Are you sure that you want to log out all other sessions?,Czy na pewno chcesz wylogować się z wszystkich innych sesji?
+Log out all other sessions,Wyloguj się z wszystkich innych sesji
+This computer is using IP address %1.,Ten komputer używa adresu IP %1.
+Admin Account Sharing,Udostępnianie konta administratora
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Jeśli ustawione na Tak, możesz zalogować się z wielu komputerów na to samo konto. Ustawienie domyślne Nie poprawia bezpieczeństwa."
+Password Reset Protection Type,Hasło Rodzaj ochrony resetowania
+Max Number of Password Reset Requests,Maksymalna liczba żądań resetowania hasła
+Limit the number of password reset request per hour. Use 0 to disable.,"Ogranicz liczbę żądań resetowania hasła na godzinę. Użyj 0, aby wyłączyć."
+Min Time Between Password Reset Requests,Min. Czas między żądaniami resetowania hasła
+Delay in minutes between password reset requests. Use 0 to disable.,"Opóźnienie w minutach między żądaniami resetowania hasła. Użyj 0, aby wyłączyć."

@@ -1,0 +1,154 @@
+Static Blocks,Bloki statyczne
+Add New Block,Dodaj nowy blok
+Back,Plecy
+Delete Block,Usuń blok
+Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
+Reset,Nastawić
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Save Block,Zapisz blok
+ID,ID
+Title,Tytuł
+Identifier,Identyfikator
+Status,Status
+Disabled,Niepełnosprawny
+Enabled,Włączone
+Manage Pages,Zarządzaj stronami
+Add New Page,Dodaj nową stronę
+Delete Page,Usuń stronę
+Save Page,Zapisz stronę
+URL Key,Klucz URL
+Layout,Układ
+Store View,Widok sklepu
+Created,Stworzony
+Modified,Zmodyfikowano
+Action,Akcja
+Preview,Zapowiedź
+Media Storage,Magazyn mediów
+Create Folder...,Utwórz folder ...
+Delete Folder,Usunięty folder
+Delete File,Usunąć plik
+Insert File,Wstaw plik
+New Folder Name:,Nowa nazwa folderu:
+Are you sure you want to delete this folder?,Czy na pewno chcesz usunąć ten folder?
+Are you sure you want to delete this file?,Czy na pewno chcesz usunąć ten plik?
+Images (%1),Zdjęcia ( %1)
+Storage Root,Magazyn główny
+Home,Dom
+Go to Home Page,Wróć do strony głównej
+CMS,CMS
+You deleted the block.,Usunął blok.
+We can't find a block to delete.,Nie możemy znaleźć bloku do usunięcia.
+This block no longer exists.,Ten blok już nie istnieje.
+Edit Block,Edytuj blok
+New Block,Nowy blok
+Blocks,Bloki
+Please correct the data sent.,Proszę poprawić wysyłane dane.
+A total of %1 record(s) have been deleted.,Usunięto co najmniej 1 rekordy.
+You saved the block.,Zapisałeś blok.
+Something went wrong while saving the block.,"Coś poszło nie tak, zachowując blok."
+The page has been deleted.,Strona została usunięta.
+We can't find a page to delete.,Nie możemy znaleźć strony do usunięcia.
+This page no longer exists.,Ta strona już nie istnieje.
+Edit Page,Edytuj stronę
+New Page,Nowa strona
+Pages,Strony
+Something went wrong while saving the page.,Podczas zapisywania strony wystąpił błąd.
+A total of %1 record(s) have been disabled.,Ogółem %1 rekordów zostało wyłączonych.
+A total of %1 record(s) have been enabled.,Łącznie zostało włączonych %1 rekordów.
+Page Title,Tytuł strony
+"To apply changes you should fill in hidden required ""%1"" field","Aby zastosować zmiany, należy wypełnić ukryte pole "" %1"""
+You saved the page.,Zapisałeś stronę.
+The directory %1 is not writable by server.,Katalog %1 nie może być zapisywany przez serwer.
+Make sure that static block content does not reference the block itself.,"Upewnij się, że statyczna zawartość bloku nie odwołuje się do bloku."
+"CMS Block with id ""%1"" does not exist.","Blok CMS z id "" %1"" nie istnieje."
+Enabled by Default,Włączone domyślnie
+Disabled by Default,Wyłączono domyślnie
+Disabled Completely,Całkowite wyeliminowanie
+"This identifier is reserved for ""CMS No Route Page"" in configuration.","Ten identyfikator jest zarezerwowany dla ""CMS No Route Page"" w konfiguracji."
+"This identifier is reserved for ""CMS Home Page"" in configuration.","Ten identyfikator jest zarezerwowany dla konfiguracji ""CMS Home Page""."
+"This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Ten identyfikator jest zarezerwowany dla konfiguracji ""CMS No Cookies Page""."
+Could not save the page: %1,Nie można zapisać strony: %1
+"CMS Page with id ""%1"" does not exist.","Strona CMS z identyfikatorem "" %1"" nie istnieje."
+Could not delete the page: %1,Nie można usunąć strony: %1
+A block identifier with the same properties already exists in the selected store.,Identyfikator bloku o tych samych właściwościach już istnieje w wybranym magazynie.
+The page URL key contains capital letters or disallowed symbols.,Klucz URL strony zawiera duże litery lub niedozwolone symbole.
+The page URL key cannot be made of only numbers.,Klucz URL strony nie może być tylko cyframi.
+"Please rename the folder using only letters, numbers, underscores and dashes.","Zmień nazwę folderu, używając tylko liter, cyfr, podkreślników i myślników."
+We found a directory with the same name. Please try another folder name.,Znaleźliśmy katalog o tej samej nazwie. Spróbuj użyć innej nazwy folderu.
+We cannot create a new directory.,Nie można utworzyć nowego katalogu.
+We cannot delete directory %1.,Nie można usunąć katalogu %1.
+We can't upload the file right now.,Nie możemy teraz przesłać pliku.
+We can't delete root directory %1 right now.,Nie możemy teraz usunąć katalogu głównego %1.
+Directory %1 is not under storage root path.,Katalog %1 nie znajduje się w katalogu głównego katalogu.
+Privacy and Cookie Policy,Polityka Prywatności i Cookie
+LocalizedException,LocalizedException
+RuntimeException,RuntimeException
+Exception,Wyjątek
+Could not create a directory.,Nie można utworzyć katalogu.
+Edit,Edytować
+Delete,Kasować
+Delete %1,Usuń %1
+Are you sure you want to delete a %1 record?,Czy na pewno chcesz usunąć rekord %1?
+All Store Views,Wszystkie widoki sklepów
+View,Widok
+px.,px.
+No files found,Nie znaleziono plików
+Browse Files...,Przeglądaj pliki ...
+Collapse All,Zwinąć wszystkie
+Expand All,Rozwiń wszystkie
+We could not detect a size.,Nie mogliśmy wykryć rozmiaru.
+Media Gallery,Galeria mediów
+Content Management,Zarządzanie zawartością
+CMS Home Page,Strona główna CMS
+CMS No Route Page,CMS Brak trasy
+CMS No Cookies Page,CMS nie ma plików cookie
+Show Breadcrumbs for CMS Pages,Pokaż Breadcrumbs dla stron CMS
+Browser Capabilities Detection,Wykrywanie zdolności przeglądarki
+Redirect to CMS-page if Cookies are Disabled,"Przekieruj na stronę CMS, jeśli ciasteczka są wyłączone"
+Show Notice if JavaScript is Disabled,"Pokaż powiadomienie, jeśli jest wyłączone"
+Show Notice if Local Storage is Disabled,"Pokaż powiadomienie, jeśli Magazyn lokalny jest wyłączony"
+WYSIWYG Options,Opcje WYSIWYG
+Enable WYSIWYG Editor,Włącz Edytor WYSIWYG
+CMS Page Link,Link strony CMS
+Link to a CMS Page,Link do strony CMS
+CMS Page,Strona CMS
+Select Page...,Wybierz stronę ...
+Anchor Custom Text,Anchor Custom Text
+"If empty, the Page Title will be used","Jeśli jest pusty, zostanie użyty tytuł strony"
+Anchor Custom Title,Anchor Custom Title
+Template,Szablon
+CMS Page Link Block Template,Szablon bloku łącza CMS
+CMS Page Link Inline Template,Szablon wewnętrzny strony CMS
+CMS Static Block,Blok statyczny CMS
+Contents of a Static Block,Zawartość bloku statycznego
+Block,Blok
+Select Block...,Wybierz blok ...
+CMS Static Block Default Template,Szablon domyślny bloku statycznego CMS
+General Information,Informacje ogólne
+Enable Block,Włącz blok
+Block Title,Tytuł bloku
+Are you sure you want to delete selected items?,Czy na pewno chcesz usunąć wybrane elementy?
+Delete items,Usuń elementy
+Page Information,Informacje o stronie
+Enable Page,Włącz stronę
+Content,Zadowolony
+Content Heading,Treść nagłówka
+Search Engine Optimisation,Search Engine Optimization
+Meta Title,Tytuł Meta
+Meta Keywords,Meta Słowa kluczowe
+Meta Description,Opis Meta
+Page in Websites,Strona w witrynach internetowych
+Design,Projekt
+Layout Update XML,Aktualizacja układu XML
+Custom Design Update,Niestandardowa aktualizacja projektu
+From,Od
+To,Do
+New Theme,Nowy motyw
+-- Please Select --,-- Proszę wybrać --
+New Layout,Nowy układ
+Disable,Wyłączyć
+Enable,Włączyć
+Custom design from,Projekt niestandardowy z
+Custom design to,Projekt niestandardowy do
+Custom Theme,Temat niestandardowy
+Custom Layout,Niestandardowy układ

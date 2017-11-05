@@ -1,0 +1,13 @@
+Invalid domain name: %1,Nieprawidłowa nazwa domeny: %1
+Invalid cookie lifetime: %1,Nieprawidłowe użytkowanie pliku cookie: %1
+Invalid cookie path,Nieprawidłowa ścieżka pliku cookie
+We use cookies to make your experience better.,"Korzystamy z plików cookie, aby lepiej wykorzystać swoje doświadczenia."
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Aby zastosować się do nowej dyrektywy o ochronie danych osobowych, musimy poprosić o zgodę na ustawianie plików cookie."
+"<a href=""%1"">Learn more</a>.","<a href=""%1""> Więcej informacji </a>."
+Allow Cookies,Zezwalaj na ciasteczka
+Default Cookie Settings,Domyślne ustawienia Cookie
+Cookie Lifetime,Czas życia Cookie
+Cookie Path,Ścieżka Cookie
+Cookie Domain,Domena Cookie
+Use HTTP Only,Używaj tylko HTTP
+Cookie Restriction Mode,Tryb restrykcji cookie

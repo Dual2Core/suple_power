@@ -1,0 +1,60 @@
+We cannot retrieve the payment method model object.,Nie możemy pobrać obiektu modelu metody płatności.
+Month,Miesiąc
+Year,Rok
+We cannot retrieve the payment info model object.,Nie możemy pobrać obiektu modelu informacji o płatności.
+N/A,Nie dotyczy
+Credit Card Type,Typ karty kredytowej
+Credit Card Number,numer karty kredytowej
+Switch/Solo/Maestro Issue Number,Switch / Solo / Maestro Numer wydania
+Switch/Solo/Maestro Start Date,Switch / Solo / Maestro Data rozpoczęcia
+We cannot retrieve the transparent payment method model object.,Nie możemy pobrać obiektu modelu metody płatności przejrzystych.
+Command Executor for %1 is not defined.,Command Executor dla %1 nie jest zdefiniowany.
+Command %1 does not exist.,Polecenie %1 nie istnieje.
+Transaction has been declined. Please try again later.,Transakcja została odrzucona. Spróbuj ponownie później.
+Wrong gateway response format.,Błędny format odpowiedzi bramki.
+Validator for field %1 does not exist.,Walidator dla pola %1 nie istnieje.
+Discount,Zniżka
+Shipping,Wysyłka
+All Allowed Countries,Wszystkie dozwolone kraje
+Specific Countries,Określone kraje
+The payment method you requested is not available.,Żądana metoda płatności jest niedostępna.
+The payment disallows storing objects.,Płatność uniemożliwia przechowywanie obiektów.
+We cannot retrieve the payment method code.,Nie możemy pobrać kodu metody płatności.
+We cannot retrieve the payment information object instance.,Nie możemy pobrać instancji obiektu informacji o płatnościach.
+You can't use the payment type you selected to make payments to the billing country.,Nie możesz użyć wybranego rodzaju płatności do dokonywania płatności w kraju rozliczenia.
+The order action is not available.,Działanie zamówienia jest niedostępne.
+The authorize action is not available.,Działanie autoryzacji jest niedostępne.
+The capture action is not available.,Czynność przechwytywania jest niedostępna.
+The refund action is not available.,Działanie zwrotu pieniędzy nie jest dostępne.
+The void action is not available.,Działanie nieważności jest niedostępne.
+The payment review action is unavailable.,Działanie przeglądu płatności jest niedostępne.
+The credit card number doesn't match the credit card type.,Numer karty kredytowej nie jest zgodny z typem karty kredytowej.
+Invalid Credit Card Number,Nieprawidłowy numer karty kredytowej
+This credit card type is not allowed for this payment method.,Ten rodzaj karty kredytowej nie jest dozwolony w przypadku tej metody płatności.
+Please enter a valid credit card verification number.,Wprowadź poprawny numer weryfikacyjny karty kredytowej.
+Please enter a valid credit card expiration date.,Wprowadź prawidłową datę ważności karty kredytowej.
+%1 class doesn't implement \Magento\Payment\Model\MethodInterface,Klasa %1 nie implementuje \ Magento \ Payment \ Model \ MethodInterface
+Yes,tak
+No,Nie
+Failure #1,Błąd nr 1
+Failure #2,Błąd nr 2
+Expiration Date,Termin ważności
+Card Verification Number,Numer weryfikacji karty
+ is not available. You still can process offline actions., jest niedostępne. Nadal możesz przetwarzać czynności offline.
+Please Select,Proszę wybrać
+We'll ask for your payment details before you place an order.,Przed złożeniem zamówienia poprosimy o szczegóły dotyczące płatności.
+--Please Select--,--Proszę wybrać--
+Card Verification Number Visual Reference,Numer weryfikacyjny karty Wzorzec wizualny
+What is this?,Co to jest?
+Credit Card Information,Informacje o karcie kredytowej
+Place Order,Złożyć zamówienie
+Forgot an Item?,Zapomniałeś przedmiotu?
+Edit Your Cart,Edytuj swój koszyk
+Please enter a valid credit card type number.,Wprowadź poprawny numer typu karty kredytowej.
+Please enter a valid credit card number.,Proszę podać poprawny numer karty kredytowej.
+Incorrect credit card expiration month.,Nieprawidłowy miesiąc ważności karty kredytowej.
+Incorrect credit card expiration year.,Nieprawidłowy termin ważności karty kredytowej.
+An error occurred on the server. Please try to place the order again.,Wystąpił błąd na serwerze. Spróbuj ponownie złożyć zamówienie.
+Payment Methods Section,Metody płatności
+Payment Services,Usługi płatnicze
+Payment Methods,Metody Płatności

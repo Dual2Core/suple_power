@@ -1,0 +1,34 @@
+Apply,Zastosować
+Please choose a valid discount amount.,Wybierz ważną kwotę rabatu.
+End Date must follow Start Date.,Data zakończenia musi być zgodna z datą rozpoczęcia.
+Please specify a website.,Proszę podać stronę internetową.
+Please specify Customer Groups.,Proszę podać grupy klientów.
+to,do
+by,przez
+Please choose an action to add.,"Wybierz akcję, którą chcesz dodać."
+Perform following actions,Wykonaj następujące czynności
+is,jest
+is not,nie jest
+equals or greater than,jest równy lub większy niż
+equals or less than,jest równy lub mniejszy niż
+greater than,lepszy niż
+less than,mniej niż
+contains,zawiera
+does not contain,nie zawiera
+is one of,jest jednym z
+is not one of,nie jest jednym z nich
+Please choose a condition to add.,Wybierz warunek do dodania.
+Add,Dodaj
+Remove,Usunąć
+ALL,WSZYSTKO
+ANY,KAŻDY
+TRUE,PRAWDZIWE
+FALSE,FAŁSZYWY
+If %1 of these conditions are %2:,Jeśli %1 z tych warunków to %2:
+Conditions Combination,Warunki Połączenie
+Attribute Set,Zestaw atrybutów
+Category,Kategoria
+Open Chooser,Otwórz Chooser
+Unknown condition operator,Nieznany operator warunku
+"There is no information about associated entity type ""%1"".","Brak informacji o powiązanym typie jednostki "" %1""."
+This won't take long . . .,To nie potrwa długo. . .

@@ -1,0 +1,22 @@
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","Nie skonfigurowano nowego identyfikatora aplikacji, nie można kontynuować z raportowaniem zdarzeń Cron"
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","""Integracja New Relic wymaga agenta newrelic-php5, który nie jest zainstalowany                         informacje na temat instalowania agenta są dostępne <a target=""""_blank"""" href=""""%1""""> tutaj </a>. """
+New Relic Reporting Section,Nowa sekcja raportowania relikwii
+New Relic Reporting,Nowe raporty reliktów
+General,Generał
+Enable New Relic Integration,Włącz nową integrację z reliktami
+New Relic API URL,Nowy URL interfejsu Relic API
+Insights API URL,Adres URL interfejsu Insights
+Use %s to replace the account ID in the URL,"Użyj% s, aby zastąpić identyfikator konta w adresie URL"
+New Relic Account ID,Nowy identyfikator konta reliktowego
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Potrzebujesz konta New Relic? <a href=""http://www.newrelic.com/magento"" target=""_blank""> Kliknij tutaj, aby je uzyskać"
+New Relic Application ID,Nowy identyfikator aplikacji Relic
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Można to zwykle znaleźć na końcu adresu URL podczas przeglądania APM po ""/ applications /"""
+New Relic API Key,Nowy klucz API Relic
+This is located by navigating to Events -> Deployments from the New Relic APM website,Jest to zlokalizowane po przejściu do Zdarzenia -> Wdrożenia z nowej witryny Relic APM
+Insights API Key,Klucz API Insights
+Generated under Insights in Manage data -> API Keys -> Insert Keys,Wygenerowano w sekcji Statystyki w Zarządzaj danymi -> Klucze API -> Wstaw klawisze
+New Relic Application Name,Nowa nazwa aplikacji reliktowej
+This is located by navigating to Settings from the New Relic APM website,Jest to zlokalizowane po przejściu do Ustawień z nowej witryny Relic APM
+Cron,Cron
+Enable Cron,Włącz Cron
