@@ -1,0 +1,21 @@
+Custom Variables,Zmienne niestandardowe
+Add New Variable,Dodaj nową zmienną
+Save and Continue Edit,Zapisz i kontynuuj edycję
+"Custom Variable ""%1""","Zmienna niestandardowa ""%1"""
+New Custom Variable,Nowa zmienna niestandardowa
+Variable,Zmienna
+Variable Code,Kod zmiennej
+Variable Name,Nazwa zmiennej
+Use Default Variable Values,Użyj domyślnych wartości zmiennych
+No,Nie
+Yes,tak
+Variable HTML Value,Zmienna wartość HTML
+Variable Plain Value,Zmienna równa wartość
+You deleted the custom variable.,Usunięto zmienną niestandardową.
+You saved the custom variable.,Zapisałeś zmienną niestandardową.
+Variable Code must be unique.,Kod zmiennej musi być unikalny.
+Validation has failed.,Sprawdzanie poprawności nie powiodło się.
+%1,%1
+Insert Variable...,Wstaw zmienną ...
+Variable ID,Identyfikator zmiennej
+Name,Nazwa

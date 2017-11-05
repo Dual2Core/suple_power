@@ -1,0 +1,79 @@
+Europe First Priority,Europa Pierwszy priorytet
+1 Day Freight,1 dzień frachtu
+2 Day Freight,2-dniowy transport towarowy
+2 Day,2 dzień
+2 Day AM,2 dzień AM
+3 Day Freight,3-dniowy transport towarowy
+Express Saver,szybka oszczednosc
+Ground,Ziemia
+First Overnight,Pierwszy nocleg
+Home Delivery,Dostawa do domu
+International Economy,Międzynarodowa gospodarka
+Intl Economy Freight,Intl Economy Freight
+International First,Międzynarodowe pierwsze
+International Ground,International Ground
+International Priority,Międzynarodowy priorytet
+Intl Priority Freight,Transport międzynarodowy priorytetowy
+Priority Overnight,Priorytet na jedną noc
+Smart Post,Inteligentny post
+Standard Overnight,Standard Overnight
+Freight,Fracht
+National Freight,National Freight
+Regular Pickup,Regularne odbiór
+Request Courier,Poproś Kuriera
+Drop Box,Drop Box
+Business Service Center,Centrum usług biznesowych
+Station,Stacja
+FedEx Envelope,Koperta FedEx
+FedEx Pak,FedEx Pak
+FedEx Box,FedEx Box
+FedEx Tube,FedEx Tube
+FedEx 10kg Box,FedEx 10kg Box
+FedEx 25kg Box,FedEx 25kg Box
+Your Packaging,Twoje opakowanie
+Not Required,Nie wymagane
+Adult,Dorosły
+Direct,Bezpośredni
+Indirect,Pośredni
+Pounds,Funty
+Kilograms,Kilogramy
+Invalid response from carrier,Nieprawidłowa odpowiedź od operatora
+No available tracking items,Brak dostępnych elementów śledzenia
+For some reason we can't retrieve tracking info right now.,Z jakiegoś powodu nie możemy teraz pobrać informacji o śledzeniu.
+status,status
+Empty response,Pusta odpowiedź
+None,Żaden
+Field ,Pole
+ is required., jest wymagane.
+FedEx,FedEx
+Enabled for Checkout,Włączono w celu realizacji transakcji
+Title,Tytuł
+Account ID,ID konta
+Please make sure to use only digits here. No dashes are allowed.,"Upewnij się, że używasz tutaj tylko cyfr. Żadne kreski nie są dozwolone."
+Meter Number,Numer licznika
+Key,Klawisz
+Password,Hasło
+Sandbox Mode,Tryb piaskownicy
+Web-Services URL (Production),URL usług internetowych (produkcja)
+Web-Services URL (Sandbox),URL usług internetowych (Sandbox)
+Packages Request Type,Typ wniosku paczki
+Packaging,Opakowanie
+Dropoff,Porzucenie
+Weight Unit,Jednostka wagi
+Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight),"Maksymalna waga paczki (skonsultuj się ze swoim przewoźnikiem, aby uzyskać maksymalną obsługiwaną wagę przesyłki)"
+Calculate Handling Fee,Oblicz opłatę manipulacyjną
+Handling Applied,Obsługa stosowana
+Handling Fee,Opłata manipulacyjna
+Residential Delivery,Dostawa do domu
+Allowed Methods,Dozwolone metody
+Hub ID,Identyfikator centrum
+The field is applicable if the Smart Post method is selected.,"Pole ma zastosowanie, jeśli wybrano metodę Smart Post."
+Free Method,Darmowa metoda
+Enable Free Shipping Threshold,Włącz próg bezpłatnej wysyłki
+Free Shipping Amount Threshold,Bezpłatna wysyłka kwoty progowej
+Displayed Error Message,Wyświetlany komunikat o błędzie
+FedEx,Wyślij do odpowiednich krajów
+Ship to Specific Countries,Wysyłka do określonych krajów
+Debug,Odpluskwić
+Show Method if Not Applicable,"Pokaż metodę, jeśli nie dotyczy"
+Sort Order,Porządek sortowania

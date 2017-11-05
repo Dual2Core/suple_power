@@ -1,0 +1,57 @@
+Now Shopping by,Zakupy przez
+Previous,Poprzedni
+Remove,Usuń
+Remove This Item,Usuń ten produkt
+Shop By,Sklep przez
+Clear All,Wyczyść wszystko
+Shopping Options,Opcje sklepu
+Welcome to %store_name,Witamy w %store_name
+"%name,","%name,"
+Welcome to %store_name.,Witamy w %store_name.
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się do naszej strony użyj tych danych podczas skladania zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:"
+Email:,Email:
+Password:,Hasło
+Password you set when creating account,Hasło jest ustawiane podczas tworzenia konta
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapomniałeś hasła? Naciśnij <a href=""%reset_url""> tutaj</a> aby je zresetować."
+"When you sign in to your account, you will be able to:",Kiedy zalogujesz się na konto będziesz miał możliwość:
+Quick Checkout,Szybkie podsumowanie
+Proceed through checkout faster,Szybciej przejdź przez kasę
+Order Status,Status zamówienia
+Check the status of orders,Sprawdź statusy zammówień
+Manage Addresses,Zarządzaj adresami
+Store alternative addresses,Zarządzaj alternatywnymi adresami
+For shipping to multiple family members and friends,Wysyłka do wielu członków rodziny i przyjaciół
+Order History,Historia zamówień
+View past orders,Zobacz poprzednie zamówienia
+Footer,Stopka
+About Us,O nas
+Customer Service,Obsługa klienta
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny operacji:<br /><span class=""no-link"">%store_hours</span>."
+Credit memo for your %store_name order,Nota kredytowa dla twojego %store_name zamówienia
+Thank you for your order from %store_name.,Dziękujmy za zamówienie z %store_name.
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Możesz sprawdzić status swojego zamówienia <a href=""%account_url"">tutaj</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jeżeli będziesz miał jakieś pytania odnośnie zamówienia, napisz do nas <a href=""mailto:%store_email"">%store_email</a>."
+Your Credit Memo #%creditmemo_id for Order #%order_id,Historia twoich płatności #%creditmemo_id dla zamówienia #%order_id
+Billing Info,Rachunek – info
+Shipping Info,Informacje o dostawie
+Payment Method,Sposób płatności
+Shipping Method,Sposób dostawy
+Update to your %store_name credit memo,Uaktualnij twój %store_name portfel
+Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.,Twoje zamówienie #%increment_id zostało uaktualnione ze statusem <strong>%order_status</strong>.
+Invoice for your %store_name order,Faktura dla zamówienia %store_name
+Your Invoice #%invoice_id for Order #%order_id,Twoja faktura #%invoice_id dla zamówienia #%order_id
+Update to your %store_name invoice,Uaktualnienie dla faktury %store_name
+Your %store_name order confirmation,Potwierdzenie twojego zamówienia %store_name
+"%customer_name,","%customer_name,"
+Once your package ships we will send you a tracking number.,"Wyślemy Ci numer paczki, aby ją śledzić"
+"Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Umieszczone na <span class=""no-link"">%created_at</span>"
+Update to your %store_name order,Uaktualnij swoje zamówienie %store_name
+Your %store_name order has shipped,Twoje zamówienie %store_name jest w drodze
+Your shipping confirmation is below. Thank you again for your business.,Potwierdzenie wysłania zamówienia jest poniżej. Dziękujemy ponownie za skorzystanie z naszego sklepu.
+Your Shipment #%shipment_id for Order #%order_id,Twoje przesyłki #%shipment_id dla zamówienia #%order_id
+Update to your %store_name shipment,Uaktualnienie przesyłki: %store_name
+Account Dashboard,Panel konta
+Address Book,Książka adresowa
+Account Information,Informacje o koncie

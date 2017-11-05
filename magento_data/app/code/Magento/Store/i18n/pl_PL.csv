@@ -1,0 +1,43 @@
+Invalid store parameter.,Nieprawidłowy parametr sklepu.
+Current store is not active.,Aktualny magazyn nie jest aktywny.
+Requested store is inactive,Żądany sklep jest nieaktywny
+Requested store is not found,Żądany sklep nie został znaleziony
+Environment emulation nesting is not allowed.,Zagnieżdżanie emulacji środowiska jest niedozwolone.
+%1, %1
+Website was not found,Witryna nie została znaleziona
+Group was not found,Grupa nie została znaleziona
+Store was not found,Sklep nie został znaleziony
+"Class for type ""%1"" was not declared","Klasa dla typu "" %1"" nie została zadeklarowana"
+%1 should implement %2, %1 powinien implementować %2
+"The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.","Następujące sklepy nie są powiązane z kategorią root: "". . "". Aby sklep był wyświetlany w sklepie, musi być powiązany z kategorią root."
+Invalid scope object,Nieprawidłowy obiekt zakresu
+Group with the same code,Grupuj z tym samym kodem
+Store with the same code,Przechowuj z tym samym kodem
+Website with the same code,Strona internetowa z tym samym kodem
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Kod witryny może zawierać tylko litery (a-z), cyfry (0-9) lub podkreślenie (_), a pierwszy znak musi być literą."
+Name is required,Imię jest wymagane
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Kod sklepu może zawierać tylko litery (a-z), cyfry (0-9) lub podkreślenie (_), a pierwszy znak musi być literą."
+Store is inactive,Sklep jest nieaktywny
+Default store is inactive,Magazyn domyślny jest nieaktywny
+All Store Views,Wszystkie widoki Store
+-- Please Select --,-- Proszę wybrać --
+Admin,Admin
+Default website is not defined,Domyślna strona internetowa nie jest zdefiniowana
+More than one default website is defined,Definiuje się więcej niż jedną domyślną witrynę
+no such entity exception,brak wyjątku takiego obiektu
+Your Language:,Twój język:
+Your Language,Twój język
+Language,Język
+Select Store,Wybierz Store
+Configuration,Konfiguracja
+Various XML configurations that were collected across modules and merged,"Różne konfiguracje XML, które zostały zebrane w ramach modułów i scalone"
+Layouts,Układy
+Layout building instructions,Układ instrukcji budowy
+Blocks HTML output,Blokuje wyjście HTML
+Page blocks HTML,Strona blokuje HTML
+Collections Data,Dane kolekcji
+Collection data files,Pliki danych kolekcji
+Reflection Data,Dane odbicia
+API interfaces reflection data,Interfejs API dzieli dane odbicia
+Database DDL operations,Operacje DDL bazy danych
+"Results of DDL queries, such as describing tables or indexes","Wyniki zapytań DDL, takich jak opis tabel lub indeksów"

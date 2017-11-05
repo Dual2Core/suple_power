@@ -1,0 +1,38 @@
+You saved the alert subscription.,Zapisałeś subskrypcję alertu.
+There are not enough parameters.,Nie ma wystarczającej liczby parametrów.
+We can't update the alert subscription right now.,Nie możemy teraz zaktualizować subskrypcji alertów.
+Alert subscription has been saved.,Subskrypcja alertów została zapisana.
+You deleted the alert subscription.,Usunąłeś subskrypcję alertu.
+We can't find the product.,Nie możemy znaleźć produktu.
+You will no longer receive price alerts for this product.,Nie będziesz już otrzymywać alertów cenowych dla tego produktu.
+Unable to update the alert subscription.,Nie można zaktualizować subskrypcji alertu.
+You will no longer receive stock alerts for this product.,Nie będziesz już otrzymywać powiadomień o zapasach dla tego produktu.
+The product was not found.,Produkt nie został znaleziony.
+You will no longer receive stock alerts.,Nie będziesz już otrzymywać ostrzeżeń o zapasach.
+Invalid block type: %1,Nieprawidłowy typ bloku: %1
+Price change alert! We wanted you to know that prices have changed for these products:,"Powiadomienie o zmianie ceny! Chcieliśmy, abyś wiedział, że ceny zmieniły się w przypadku tych produktów:"
+Price:,Cena:
+Click here to stop alerts for this product.,"Kliknij tutaj, aby zatrzymać powiadomienia o tym produkcie."
+Unsubscribe from all price alerts,Anuluj subskrypcję wszystkich alertów cenowych
+In stock alert! We wanted you to know that these products are now available:,"W magazynie alert! Chcieliśmy, abyś wiedział, że te produkty są teraz dostępne:"
+Unsubscribe from all stock alerts,Zrezygnuj z subskrypcji wszystkich alertów giełdowych
+Product alerts Cron error,Powiadomienia produktu Błąd Cron
+Product alerts cron warnings,Produkt wyświetla ostrzeżenia cron
+Products price changed alert,Powiadomienie o zmianie ceny produktu
+"%name,","%Nazwa,"
+Products back in stock alert,Produkty wróć do wpisu na magazynie
+Product Alerts,Alerty produktów
+Allow Alert When Product Price Changes,Zezwól na alert po zmianie cen produktu
+Allow Alert When Product Comes Back in Stock,"Zezwalaj na ostrzeżenie, gdy produkt pojawi się ponownie w magazynie"
+Price Alert Email Template,Powiadomienie o cenie szablonu e-maila
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrano szablon wiadomości e-mail na podstawie zastępczego motywu, gdy wybrano opcję ""Domyślne""."
+Stock Alert Email Template,Zapasowy szablon wiadomości e-mail
+Alert Email Sender,Alert e-mail nadawcy
+Product Alerts Run Settings,Alerty produktów Uruchom ustawienia
+Frequency,Częstotliwość
+Start Time,Czas rozpoczęcia
+Error Email Recipient,Adres e-mail odbiorcy błędu
+Error Email Sender,Błąd e-maila nadawcy
+Error Email Template,Szablon e-maila z błędem
+Notify me when the price drops,"Powiadom mnie, gdy cena spadnie"
+Notify me when this product is in stock,"Powiadom mnie, gdy ten produkt będzie dostępny w magazynie"

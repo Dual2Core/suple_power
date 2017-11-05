@@ -1,0 +1,12 @@
+Format for IDE '%1' is not supported,Format IDE '%1' nie jest obsługiwany
+Client side compilation doesn't work in production mode,Kompilacja po stronie klienta nie działa w trybie produkcyjnym
+Client side less compilation,Strona klienta mniej kompilowana
+Server side less compilation,Po stronie serwera mniej kompilacji
+Frontend Development Workflow,Frontend Development Workflow
+Workflow type,Typ przepływu pracy
+Not available in production mode,Niedostępne w trybie produkcyjnym
+Developer Client Restrictions,Ograniczenia klientów dla programistów
+Allowed IPs (comma separated),Dozwolone adresy IP (oddzielone przecinkami)
+Leave empty for access from any location.,Pozostaw puste miejsce w celu uzyskania dostępu z dowolnej lokalizacji.
+Log to File,Zaloguj się do pliku
+Not available in production mode.,Niedostępne w trybie produkcyjnym.

@@ -1,0 +1,153 @@
+Delete Selected Problems,Usuń wybrane problemy
+Unsubscribe Selected,Anuluj subskrypcję
+Back,Plecy
+Reset,Nastawić
+Preview Template,Podgląd szablonu
+Save Newsletter,Zapisz biuletyn
+Save and Resume,Zapisz i wznów
+View Newsletter,Zobacz biuletyn
+Edit Newsletter,Edytuj biuletyn
+Queue Information,Informacje o kolejce
+Queue Date Start,Kolejka Data rozpoczęcia
+Subscribers From,Subskrybenci od
+Subject,Przedmiot
+Sender Name,Imię nadawcy
+Sender Email,E-mail nadawcy
+Message,Wiadomość
+Newsletter Styles,Style newsletterów
+Start,Początek
+Pause,Pauza
+Do you really want to cancel the queue?,Czy na pewno chcesz anulować kolejkę?
+Cancel,Anuluj
+Resume,Wznawianie
+Preview,Zapowiedź
+Add New Template,Dodaj nowy szablon
+Newsletter Templates,Szablony biuletynu
+Convert to Plain Text,Konwertuj na zwykły tekst
+Return HTML Version,Zwróć wersję HTML
+Delete Template,Usuń szablon
+Save As,Zapisz jako
+Save Template,Zapisz szablon
+Edit Newsletter Template,Edytuj szablon biuletynu
+New Newsletter Template,Nowy szablon biuletynu
+Template Information,Informacje o szablonie
+Template Name,Nazwa szablonu
+Template Subject,Temat szablonu
+Template Content,Zawartość szablonu
+Template Styles,Style szablonów
+No Templates Found,Nie znaleziono szablonów
+ID,ID
+Template,Szablon
+Added,W dodatku
+Updated,Zaktualizowano
+Sender,Nadawca
+Template Type,Typ szablonu
+Action,Akcja
+Queue Newsletter,Kolejny newsletter
+We unsubscribed the people you identified.,"Anulowaliśmy subskrypcję osób, które zidentyfikowałeś."
+The problems you identified have been deleted.,Zidentyfikowane problemy zostały usunięte.
+Newsletter Problems Report,Biuletyn Raport o problemach
+Newsletter Problem Reports,Biuletyn Zgłoszenia problemów
+Newsletter Queue,Kolejka biuletynu
+Edit Queue,Edytuj kolejkę
+Please correct the newsletter template and try again.,Popraw szablon biuletynu i spróbuj ponownie.
+You saved the newsletter queue.,Zapisałeś kolejkę do biuletynu.
+Newsletter Subscribers,Subskrybenci biuletynu
+Newsletter,Biuletyn
+Subscribers,Subskrybenci
+Please select one or more subscribers.,Wybierz jednego lub więcej subskrybentów.
+Total of %1 record(s) were deleted.,Suma %1 rekordów została usunięta.
+A total of %1 record(s) were updated.,Zaktualizowano łącznie %1 rekordów.
+The newsletter template has been deleted.,Szablon biuletynu został usunięty.
+We can't delete this template right now.,Nie możemy teraz usunąć tego szablonu.
+Edit Template,Edytuj szablon
+New Template,Nowy szablon
+Create Newsletter Template,Utwórz szablon biuletynu
+The newsletter template has been saved.,Szablon biuletynu został zapisany.
+Something went wrong while saving this template.,Coś poszło nie tak podczas zapisywania tego szablonu.
+Newsletter Subscription,Subskrypcja newslettera
+Something went wrong while saving your subscription.,Coś poszło nie tak podczas zapisywania subskrypcji.
+We saved the subscription.,Zapisaliśmy subskrypcję.
+We removed the subscription.,Usunęliśmy subskrypcję.
+Your subscription has been confirmed.,Twoja subskrypcja została potwierdzona.
+This is an invalid subscription confirmation code.,To jest nieprawidłowy kod potwierdzenia subskrypcji.
+This is an invalid subscription ID.,To jest nieprawidłowy identyfikator subskrypcji.
+This email address is already assigned to another user.,Ten adres e-mail jest już przypisany innemu użytkownikowi.
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Przepraszamy, ale administrator odmówił subskrypcji dla gości. <a href=""%1""> Zarejestruj się </a>."
+Please enter a valid email address.,Proszę wpisać aktualny adres e-mail.
+This email address is already subscribed.,Ten adres e-mail jest już zasubskrybowany.
+The confirmation request has been sent.,Żądanie potwierdzenia zostało wysłane.
+Thank you for your subscription.,Dziękuję za subskrypcję.
+There was a problem with the subscription: %1,Wystąpił problem z subskrypcją: %1
+Something went wrong with the subscription.,Coś poszło nie tak z subskrypcją.
+You unsubscribed.,Anulowałeś subskrypcję.
+Something went wrong while unsubscribing you.,Coś poszło nie tak podczas anulowania subskrypcji.
+Sent,Wysłane
+Cancelled,Odwołany
+Not Sent,Nie wysłane
+Sending,Wysyłanie
+Paused,Wstrzymane
+There are no subscribers selected.,Nie wybrano żadnych subskrybentów.
+You selected an invalid queue.,Wybrałeś niepoprawną kolejkę.
+We cannot mark as received subscriber.,Nie możemy oznaczyć jako otrzymany subskrybent.
+Duplicate template code,Zduplikowany kod szablonu
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Kliknij ten link, aby anulować subskrypcję <! - Ten tag służy do rezygnacji z subskrypcji -> <a href=""{{var subscriber.getUnsubscriptionLink()}}""> {{var subscriber.getUnsubscriptionLink ()}} </a>"
+No such entity with %fieldName = %fieldValue,Brak takiej jednostki z% fieldName =% fieldValue
+Choose Store View:,Wybierz widok sklepu:
+Newsletter Message Preview,Podgląd wiadomości z biuletynu
+Add to Queue,Dodać do kolejki
+Are you sure that you want to strip all tags?,Czy na pewno chcesz usunąć wszystkie tagi?
+Please enter a new template name.,Wprowadź nową nazwę szablonu.
+ Copy, Kopiuj
+Are you sure you want to delete this template?,Czy na pewno chcesz usunąć ten szablon?
+Sign Up for Our Newsletter:,Zapisz się do naszego newslettera:
+Enter your email address,Wprowadź swój adres e-mail
+Subscribe,Subskrybować
+Newsletter subscription confirmation,Potwierdzenie subskrypcji newslettera
+Thank you for subscribing to our newsletter.,Dziękujemy za subskrypcję naszego biuletynu.
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Aby zacząć otrzymywać biuletyn, musisz najpierw potwierdzić subskrypcję, klikając poniższy link:"
+Newsletter subscription success,Poprawnie zapisano do newslettera
+You have been successfully subscribed to our newsletter.,Z powodzeniem zasubskrybowałeś nasz biuletyn.
+Newsletter unsubscription success,Sukces biuletynu z rezygnacją z subskrypcji
+You have been unsubscribed from the newsletter.,Anulowano subskrypcję biuletynu.
+Newsletter Template,Szablon biuletynu
+Newsletter Section,Sekcja Newsletter
+Subscription Options,Opcje subskrypcji
+Allow Guest Subscription,Pozwól na subskrypcję gości
+Need to Confirm,Potrzeba potwierdzenia
+Confirmation Email Sender,Potwierdzenie nadawcy wiadomości e-mail
+Confirmation Email Template,Szablon e-maila z potwierdzeniem
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrano szablon wiadomości e-mail na podstawie zastępczego motywu, gdy wybrano opcję ""Domyślne""."
+Success Email Sender,Powodzenie nadawcy wiadomości e-mail
+Success Email Template,Szablon e-maila powodzenia
+Unsubscription Email Sender,Anuluj subskrypcję e-mail
+Unsubscription Email Template,Szablon e-maila do anulowania subskrypcji
+We found no problems.,Nie znaleźliśmy żadnych problemów.
+Subscriber,Abonent
+Queue Start Date,Data rozpoczęcia kolejki
+Queue Subject,Kolejka temat
+Error Code,Kod błędu
+Error Text,Tekst błędu
+Queue Start,Kolejka Start
+Queue End,Koniec kolejki
+Status,Status
+Processed,Obrobiony
+Recipients,Odbiorcy
+Unsubscribe,Anuluj subskrypcję
+Delete,Kasować
+CSV,CSV
+Excel XML,Excel XML
+Email,E-mail
+Type,Rodzaj
+Guest,Gość
+Customer,Klient
+Customer First Name,Imię klienta
+Customer Last Name,Nazwisko klienta
+Not Activated,Nie aktywowany
+Subscribed,Subskrybujesz
+Unsubscribed,Anulowano subskrypcję
+Unconfirmed,Niepotwierdzone
+Web Site,Stronie internetowej
+Store,Sklep
+Store View,Widok sklepu
+Newsletter Subscriptions,Subskrypcje newslettera

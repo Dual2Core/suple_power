@@ -1,0 +1,29 @@
+Add Tax,Dodaj podatek
+Delete Tax,Usuń podatek
+All Websites,Wszystkie strony internetowe
+FPT,FPT
+You must set unique country-state combinations within the same fixed product tax,Musisz ustawić unikalne kombinacje kraju i stanu w ramach tego samego ustalonego podatku od produktów
+Including FPT only,W tym tylko FPT
+Including FPT and FPT description,W tym opis FPT i FPT
+Excluding FPT. Including FPT description and final price,Z wyłączeniem FPT. W tym opis FPT i cena końcowa
+Excluding FPT,Z wyłączeniem FPT
+label_value,label_value
+frontend_label,frontend_label
+Fixed Product Tax,Naprawiono podatek od produktów
+Country/State,Państwo / państwo
+Tax,Podatek
+Website,Stronie internetowej
+Action,Akcja
+Excl. Tax,Excl. Podatek
+Total,Całkowity
+Incl. Tax,Incl. Podatek
+Total Incl. Tax,Razem Incl. Podatek
+Final Price,Cena ostateczna
+Fixed Product Taxes,Naprawiono podatki od produktów
+Enable FPT,Włącz FPT
+Display Prices In Product Lists,Wyświetl ceny na listach produktów
+Display Prices On Product View Page,Wyświetl ceny na stronie wyświetlenia produktu
+Display Prices In Sales Modules,Wyświetl ceny w modułach sprzedaży
+Display Prices In Emails,Wyświetl ceny w wiadomościach e-mail
+Apply Tax To FPT,Zastosuj podatek do FPT
+Include FPT In Subtotal,Uwzględnij sumę częściową FPT w sumie

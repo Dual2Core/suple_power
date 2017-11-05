@@ -1,0 +1,151 @@
+"Add configurable attributes to the current Attribute Set (""%1"")","Dodaj konfigurowalne atrybuty do bieżącego zestawu atrybutów ("" %1"")"
+Add configurable attributes to the new Attribute Set based on current,Dodaj konfigurowalne atrybuty do nowego zestawu atrybutów w oparciu o bieżący
+New attribute set name,Nowa nazwa zestawu atrybutów
+Add configurable attributes to the existing Attribute Set,Dodaj konfigurowalne atrybuty do istniejącego zestawu atrybutów
+Choose existing Attribute Set,Wybierz istniejący zestaw atrybutów
+Save,Zapisać
+Save & New,Zapisz & nowe
+Save & Duplicate,Zapisz i zduplikuj
+Save & Close,Zapisz i zamknij
+Configurations,Konfiguracje
+Attribute Values,Wartości atrybutów
+Bulk Images &amp; Price,Obrazy zbiorcze & Cena
+Create New Attribute,Utwórz nowy atrybut
+Select Attributes,Wybierz Atrybuty
+Summary,Podsumowanie
+Choose an Option...,Wybierz opcję...
+This attribute is used in configurable products.,Ten atrybut jest używany w konfigurowalnych produktach.
+Product has been already attached,Produkt został już dołączony
+Parent product does not have configurable product options,Produkt nadrzędny nie ma konfigurowalnych opcji produktu
+Child product does not have attribute value %1,Produkt podrzędny nie ma wartości atrybutu %1
+Product with specified sku: %1 is not a configurable product,Produkt z określonym sku: %1 nie jest konfigurowalnym produktem
+Requested option doesn't exist,Żądana opcja nie istnieje
+Requested option doesn't exist: %1,Żądana opcja nie istnieje: %1
+Cannot delete variations from product: %1,Nie można usunąć zmian z produktu: %1
+Cannot delete option with id: %1,Nie można usunąć opcji z id: %1
+"Option with id ""%1"" not found","Opcja z identyfikatorem "" %1"" nie została znaleziona"
+Something went wrong while saving option.,Wystąpił błąd podczas zapisywania opcji.
+Only implemented for configurable product: %1,Wprowadzono tylko do konfigurowalnego produktu: %1
+Option attribute ID is not specified.,Identyfikator atrybutu opcji nie został określony.
+Option label is not specified.,Etykieta opcji nie jest określona.
+Option values are not specified.,Wartości opcji nie są określone.
+Value index is not specified for an option.,Indeks wartości nie jest określony dla danej opcji.
+"Product with id ""%1"" does not contain required attribute ""%2"".","Produkt z identyfikatorem "" %1"" nie zawiera wymaganego atrybutu "" %2""."
+"Products ""%1"" and ""%2"" have the same set of attribute values.","Produkty "" %1"" i "" %2"" mają ten sam zestaw wartości atrybutów."
+You can't add the item to shopping cart.,Nie możesz dodać elementu do koszyka.
+You need to choose options for your item.,Musisz wybrać opcje dotyczące przedmiotu.
+Some product variations fields are not valid.,Niektóre pola zmian produktów są nieprawidłowe.
+Configuration must have specified attributes,Konfiguracja musi mieć określone atrybuty
+Type %1 is not an instance of %2,Typ %1 nie jest przykładem %2
+Choose Affected Attribute Set,Wybierz Affected Set Attribute Set
+Add configurable attributes to the current Attribute Set,Dodaj konfigurowalne atrybuty do bieżącego zestawu atrybutów
+Confirm,Potwierdzać
+New Attribute Set Name,Nowa nazwa zestawu atrybutów
+Select Associated Product,Wybierz powiązany produkt
+Done,Gotowe
+Choose a new product to delete and replace the current product configuration.,"Wybierz nowy produkt, aby usunąć i zastąpić bieżącą konfigurację produktu."
+"For better results, add attributes and attribute values to your products.","Aby uzyskać lepsze wyniki, dodaj atrybuty i wartości atrybutów do produktów."
+Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).,Konfigurowalne produkty umożliwiają klientom wybór opcji (np .: kolor koszuli). Musisz stworzyć prosty produkt dla każdej konfiguracji (np .: produkt dla każdego koloru).
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Konfiguracji nie można utworzyć dla standardowego produktu z plikami do pobrania. Aby utworzyć konfiguracje, najpierw usuń wszystkie pliki do pobrania."
+Add Products Manually,Ręcznie dodawać produkty
+Create Configurations,Utwórz konfiguracje
+Current Variations,Bieżące odmiany
+Image,Obraz
+Name,Nazwa
+SKU,SKU
+Price,Cena
+Quantity,Ilość
+Weight,Waga
+Status,Status
+Attributes,Atrybuty
+Actions,działania
+"Custom options with price type ""percent"" is not available for configurable product.","Niestandardowe opcje z ceną ""procent"" nie są dostępne dla konfigurowalnego produktu."
+This group contains attributes used in configurable products. Please move these attributes to another group and try again.,Ta grupa zawiera atrybuty używane w konfigurowalnych produktach. Przenieś te atrybuty do innej grupy i spróbuj ponownie.
+This attribute is used in configurable products. You cannot remove it from the attribute set.,Ten atrybut jest używany w konfigurowalnych produktach. Nie można go usunąć z zestawu atrybutów.
+Associated Products,Powiązane produkty
+Step 2: Attribute Values,Krok 2: Wartości atrybutów
+Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.,"Wybierz wartości z każdego atrybutu, aby uwzględnić w tym produkcie. Każda unikalna kombinacja wartości tworzy niepowtarzalny produkt SKU."
+Sort Variations,Sortowanie wariantów
+Options,Opcje
+Select All,Zaznacz wszystko
+Deselect All,Odznacz wszystkie
+Remove Attribute,Usuń atrybut
+Save Option,Zapisz opcję
+Remove Option,Usuń opcję
+Create New Value,Utwórz nową wartość
+"Step 3: Bulk Images, Price and Quantity","Krok 3: Obrazy masywne, cena i ilość"
+Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.,"Na podstawie wybranych przez Ciebie %1 nowych produktów zostanie utworzonych. Skorzystaj z tego kroku, aby dostosować obrazy i cenę za nowe produkty."
+Images,Obrazy
+Apply single set of images to all SKUs,Zastosuj pojedynczy zestaw zdjęć do wszystkich SKU
+Apply unique images by attribute to each SKU,Zastosuj unikalne obrazy według atrybutu do każdego SKU
+Skip image uploading at this time,Pomiń przesyłanie zdjęć w tej chwili
+Browse Files...,Przeglądaj pliki ...
+Browse to find or drag image here,"Przeglądaj, aby znaleźć lub przeciągnąć obraz tutaj"
+Remove image,Usuń zdjęcie
+Hidden,Ukryty
+Alt Text,Tekst Alt
+Role,Rola
+Image Size,Rozmiar obrazu
+{size},{rozmiar}
+Image Resolution,Rozdzielczość obrazu
+{width}^{height} px,{width} ^ {height} px
+Hide from Product Page,Ukryj od strony produktu
+Select attribute,Wybierz atrybut
+Select,Wybierz
+Apply single price to all SKUs,Zastosuj pojedynczą cenę do wszystkich SKU
+Apply unique prices by attribute to each SKU,Zastosuj unikalne ceny według atrybutu do każdego SKU
+Skip price at this time,Pomiń cenę w tej chwili
+Apply single quantity to each SKUs,Zastosuj pojedynczą ilość do każdego SKU
+Apply unique quantity by attribute to each SKU,Zastosuj unikatową ilość według atrybutu dla każdego SKU
+Skip quantity at this time,Pomiń tę ilość w tej chwili
+Step 1: Select Attributes,Krok 1: Wybierz atrybuty
+Selected Attributes:,Wybrane atrybuty:
+Step 4: Summary,Krok 4: Podsumowanie
+"Configurable products allow customers to choose options (Ex: shirt color).
+            You need to create a simple product for each configuration (Ex: a product for each color).",Konfigurowalne produkty umożliwiają klientom wybór opcji (np .: kolor koszuli). Musisz stworzyć prosty produkt dla każdej konfiguracji (np .: produkt dla każdego koloru). 
+Edit Configurations,Edytuj konfiguracje
+Upload Image,Załaduj obrazek
+Upload image,Załaduj obrazek
+No Image,Brak obrazka
+Choose a different Product,Wybierz inny produkt
+Remove Product,Usuń produkt
+Create Product Configurations,Utwórz konfiguracje produktów
+Cancel,Anuluj
+Special Price,Cena promocyjna
+Regular Price,Normalna cena
+New Product Review,Nowy przegląd produktów
+Here are the products you're about to create.,"Oto produkty, które zamierzasz utworzyć."
+You created these products for this configuration.,Te produkty zostały utworzone dla tej konfiguracji.
+Disassociated Products,Odłączone produkty
+These products are not associated.,Te produkty nie są powiązane.
+Disable Product,Wyłącz produkt
+Enable Product,Włącz produkt
+Incl. Tax,Włącz. Podatek
+An attribute has been removed. This attribute will no longer appear in your configurations.,Atrybut został usunięty. Ten atrybut nie będzie już wyświetlany w Twoich konfiguracjach.
+Select options for all attributes or remove unused attributes.,Wybierz opcje dla wszystkich atrybutów lub usuń niezużyte atrybuty.
+Choose this option to delete and replace extension data for all past configurations.,"Wybierz tę opcję, aby usunąć i zastąpić dane rozszerzeń dla wszystkich poprzednich konfiguracji."
+Please select attribute for {section} section.,Wybierz atrybut dla sekcji {section}.
+Please fill in the values for {section} section.,Wprowadź wartości dla sekcji {section}.
+Please fill-in correct values.,Proszę wypełnić poprawne wartości.
+Please select image(s) for your attribute.,Wybierz obraz (i)) dla Twojego atrybutu.
+Please choose image(s).,Proszę wybrać zdjęcie.
+We could not detect a size.,Nie mogliśmy wykryć rozmiaru.
+We don't recognize or support this file extension type.,Nie rozpoznamy ani nie wspieramy tego typu rozszerzenia.
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",Podczas usuwania lub dodawania atrybutu automatycznie aktualizujemy wszystkie konfiguracje i trzeba ręcznie utworzyć nowe konfiguracje.
+Please select attribute(s).,Proszę wybrać atrybuty.
+Generate Products,Generuj produkty
+Something went wrong.,Coś poszło nie tak.
+Buy %1 for %2 each and,Kup %1 dla %2 każdy i
+save,zapisać
+Configurable Product Image,Konfigurowalny obraz produktu
+Select...,Wybierz...
+ID,ID
+Thumbnail,Miniaturka
+Attribute Code,Kod atrybutu
+Attribute Label,Etykieta atrybutu
+Required,wymagany
+System,System
+Visible,Widoczny
+Scope,Zakres
+Searchable,Można przeszukiwać
+Comparable,Porównywalny

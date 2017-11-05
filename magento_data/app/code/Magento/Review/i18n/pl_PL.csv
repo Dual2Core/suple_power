@@ -1,0 +1,134 @@
+Save Review,Zapisz recenzję
+New Review,Nowa recenzja
+Review Details,Szczegóły opinii
+Product,Produkt
+Product Rating,Ocena produktu
+Status,Status
+Visibility,Widoczność
+Nickname,Przezwisko
+Summary of Review,Podsumowanie przeglądu
+Review,Recenzja
+Previous,Poprzedni
+Save and Previous,Zapisz i poprzedni
+Save and Next,Zapisz i dalej
+Next,Następny
+Delete Review,Usuń recenzję
+Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
+Edit Review '%1',"Edytuj recenzję "" %1"""
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'""> %2% ​​3 </a> <a href=""mailto:%4""> (% 4) </a>"
+Administrator,Administrator
+Guest,Gość
+Author,Autor
+Summary Rating,Podsumowanie oceny
+Detailed Rating,Szczegółowa ocena
+ID,ID
+Created,Stworzony
+Title,Tytuł
+Type,Rodzaj
+SKU,SKU
+Action,Akcja
+Edit,Edytować
+Delete,Kasować
+Are you sure?,Jesteś pewny?
+Update Status,Stan aktualizacji
+Customer,Klient
+Pending Reviews of Customer `%1`,Oczekujące opinie klienta ` %1`
+Pending Reviews,Oczekuje na recenzje
+All Reviews of Customer `%1`,Wszystkie recenzje klienta ` %1`
+All Reviews of Product `%1`,Wszystkie recenzje produktu ` %1`
+All Reviews,Wszystkie recenzje
+Name,Nazwa
+Product Store Name,Nazwa sklepu produktowego
+Price,Cena
+Quantity,Ilość
+Websites,Strony internetowe
+Manage Ratings,Zarządzaj ocenami
+Add New Rating,Dodaj nową ocenę
+Save Rating,Zapisz ocenę
+Delete Rating,Usuń ocenę
+Edit Rating #%1,Edytuj ocenę # %1
+New Rating,Nowa ocena
+Rating Title,Tytuł klasyfikacji
+Default Value,Domyślna wartość
+Rating Visibility,Ocena widoczności
+Is Active,Jest aktywny
+Sort Order,Porządek sortowania
+Rating Information,Informacje o ratingu
+Product Reviews,Recenzje produktu
+Pending product review(s),Oczekujące recenzje produktu
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produkt: <a href=""%1"" target=""_blank""> %2 </a> <br/>"
+Summary of review: %1 <br/>,Podsumowanie opinii: %1 <br/>
+Review: %1 <br/>,Recenzja: %1 <br/>
+Store: %1 <br/>,Zapisz: %1 <br/>
+"Click <a href=""%1"">here</a> to see the review.","Kliknij <a href=""%1""> tutaj </a>, aby zobaczyć opinię."
+"Product: ""%1"" reviewed by: %2","Produkt: "" %1"" sprawdzony przez: %2"
+Pending Reviews RSS,Oczekuje na opinie RSS
+Reviews %1,Recenzje %1
+Reviews,Opinie
+The review has been deleted.,Recenzja została usunięta.
+Something went wrong  deleting this review.,Coś poszło nie tak podczas usuwania tej opinii.
+Customer Reviews,Opinie klientów
+Edit Review,Edytuj recenzję
+We can't retrieve the product ID.,Nie możemy pobrać identyfikatora produktu.
+Please select review(s).,Wybierz opinie.
+A total of %1 record(s) have been deleted.,Łącznie %1 rekordów zostało usuniętych.
+Something went wrong while deleting these records.,Coś poszło nie tak podczas usuwania tych rekordów.
+A total of %1 record(s) have been updated.,Łącznie %1 rekordów zostało zaktualizowanych.
+Something went wrong while updating these review(s).,Coś poszło nie tak podczas aktualizowania tych recenzji.
+You saved the review.,Zapisałeś recenzję.
+Something went wrong while saving this review.,Coś poszło nie tak podczas zapisywania tej opinii.
+The review was removed by another user or does not exist.,Recenzja została usunięta przez innego użytkownika lub nie istnieje.
+You deleted the rating.,Usunąłeś ocenę.
+Ratings,Oceny
+You saved the rating.,Zapisałeś ocenę.
+My Product Reviews,Moje recenzje produktów
+Cannot initialize product,Nie można zainicjować produktu
+You submitted your review for moderation.,Twoja opinia została przesłana do moderacji.
+We can't post your review right now.,Nie możemy teraz opublikować Twojej recenzji.
+Storage key was not set,Klucz pamięci nie został ustawiony
+Approved,Zatwierdzony
+Pending,W oczekiwaniu
+Not Approved,Niezatwierdzone
+Please enter a review summary.,Wprowadź podsumowanie opinii.
+Please enter a nickname.,Proszę podać pseudonim.
+Please enter a review.,Wprowadź opinię.
+Rating isn't Available,Ocena nie jest dostępna
+"Please specify a rating title for a store, or we'll just use the default value.",Podaj tytuł oceny sklepu lub użyjemy wartości domyślnej.
+Assigned Options,Przypisane opcje
+Option Title:,Tytuł opcji:
+Product Name,Nazwa produktu
+Rating,Ocena
+Actions,działania
+See Details,Patrz szczegóły
+You have submitted no reviews.,Nie przesłałeś żadnych opinii.
+Back,Plecy
+My Recent Reviews,Moje najnowsze recenzje
+View All,Pokaż wszystkie
+Average Customer Rating:,Średnia ocena klienta:
+Your Review,Twoja opinia
+Submitted on %1,Przesłano w %1
+Back to My Reviews,Powrót do Moich recenzji
+Ratings Review Summary,Podsumowanie oceny ocen
+Be the first to review this product,"Bądź pierwszym, który oceni ten produkt"
+Write Your Own Review,Napisz własną recenzję
+* Required Fields,* Wymagane pola
+You're reviewing:,Oceniasz:
+Your Rating,Twoja ocena
+%1 %2, %1 %2
+Summary,Podsumowanie
+Submit Review,Dodaj recenzję
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać recenzje. <a href=""%1""> Zaloguj się </a> lub <a href=""%2""> utwórz konto </a>"
+Add Your Review,Dodaj swoją recenzję
+%1 Review(s), %1 Review (s)
+Review by,Recenzja wg
+Posted on,Wysłany dnia
+Back to Main Product Info,Powrót do głównej informacji o produkcie
+Average Customer Rating,Średnia ocena klienta
+Product Rating:,Ocena produktu:
+Product Review (submitted on %1):,Przegląd produktu (przesłany w %1):
+Back to Product Reviews,Powrót do recenzji produktów
+By Customers,Przez klientów
+By Products,Według produktów
+Allow Guests to Write Reviews,Pozwól gościom pisać opinie
+Active,Aktywny
+Inactive,Nieaktywny

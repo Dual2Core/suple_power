@@ -1,0 +1,50 @@
+Read Details,Przeczytaj szczegóły
+Mark as Read,Oznacz jako przeczytane
+Are you sure?,Jesteś pewny?
+Remove,Usunąć
+Messages Inbox,Skrzynki odbiorcze wiadomości
+You have %1 new system messages,Masz %1 nowych wiadomości systemowych
+You have %1 new system message,Masz %1 nowego komunikatu systemowego
+Incoming Message,Wiadomość przychodząca
+close,blisko
+Notifications,Powiadomienia
+The message has been marked as Read.,Wiadomość została oznaczona jako przeczytana.
+We couldn't mark the notification as Read because of an error.,Nie możemy oznaczyć powiadomienia jako przeczytanego z powodu błędu.
+Please select messages.,Wybierz wiadomości.
+A total of %1 record(s) have been marked as Read.,Łącznie %1 rekordów zostało oznaczonych jako przeczytane.
+Total of %1 record(s) have been removed.,Usunięto co najmniej 1 rekordy.
+We couldn't remove the messages because of an error.,Nie możemy usunąć wiadomości z powodu błędu.
+The message has been removed.,Wiadomość została usunięta.
+1 Hour,1 godzina
+2 Hours,2 godziny
+6 Hours,6 godzin
+12 Hours,12 godzin
+24 Hours,24 godziny
+critical,krytyczny
+major,poważny
+minor,mniejszy
+notice,ogłoszenie
+Wrong message type,Niewłaściwy typ wiadomości
+Wrong notification ID specified.,Określono nieprawidłowy identyfikator powiadomienia.
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} nie zaleca się używać w środowisku produkcyjnym w celu zadeklarowania adresu URL niezaufanego adresu URL / bazy danych. Gorąco polecamy zmianę tej wartości w <a href=""%1""> konfiguracji </a>."
+One or more of the Cache Types are invalidated: %1. ,Co najmniej jeden typ pamięci podręcznej jest nieprawidłowy: %1.
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1""> zarządzania pamięcią podręczną </a> i odświeżanie typów pamięci podręcznej."
+We were unable to synchronize one or more media files. Please refer to the log file for details.,Nie można zsynchronizować jednego lub więcej plików multimedialnych. Szczegółowe informacje można znaleźć w pliku dziennika.
+Synchronization of media storages has been completed.,Synchronizacja magazynów mediów została zakończona.
+Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,Twój serwer internetowy jest nieprawidłowo skonfigurowany i umożliwia nieautoryzowany dostęp do poufnych plików. Skontaktuj się z dostawcą usług hostingowych.
+System Messages:,Komunikaty systemowe:
+Critical System Messages,Krytyczne komunikaty systemowe
+Major System Messages,Główne komunikaty systemowe
+System messages,Komunikaty systemowe
+Close,Blisko
+See All (,Widzieć wszystko (
+ unread), niewykształcony)
+Show Toolbar,Pokaż pasek narzędzi
+Show List,Pokaż listę
+Use HTTPS to Get Feed,Użyj HTTPS do pobierania kanału
+Update Frequency,Częstotliwość aktualizacji
+Last Update,Ostatnia aktualizacja
+Severity,Surowość
+Date Added,Data dodania
+Message,Wiadomość
+Actions,działania

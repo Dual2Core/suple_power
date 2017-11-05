@@ -1,0 +1,87 @@
+Search Term,Szukany produkt
+Results,Wyniki
+Uses,Zastosowania
+Search Terms,Szukany produkt
+Search Synonyms,Produkt powiązane
+New Synonym Group,Nowa grupa produktów powiązanych
+Back,Wstecz
+Delete Synonym Group,Usuń grupę produktów powiązanych
+Are you sure you want to delete this synonym group?,"Czy jesteś pewien, że chciałbyś usunąć grupę powiązań?"
+Reset,Reset
+Save and Continue Edit,Zapisz i kontynuuj edytowanie
+Save Synonym Group,Zapisz grupę produktów powiązanych
+Search,Szukaj
+Add New Search Term,Dodaj nowy szukany produkt
+Save Search,Zapisz szukanie
+Delete Search,Usuń szukanie
+Edit Search '%1',Edytuj szykanie ‘%1’
+New Search,Nowe szukanie
+Search Information,Informacje o szukaniu
+General Information,Informacje ogólne
+No,Nie
+Yes,Tak
+Search Query,Przeszukaj Bazę
+Store,Sklep
+Number of results,Liczba wyników
+Number of results (For the last time placed),Liczba wyników
+For the last time placed.,Dla ostatnio umiesczonych
+Number of Uses,Liczba użyć
+Redirect URL,Przekierowanie URL
+ex. http://domain.com,np. http://domain.com
+Display in Suggested Terms,Wyświetl w Sugerowanych Warunkach
+The synonym group has been deleted.,Grupa synonimów została usunięta
+An error was encountered while performing delete operation.,Wystąpił błąd podczas usuwania
+We can't find a synonym group to delete.,Nie możemy znaleźć grupy synonimów do usuwanych produktów
+This synonyms group no longer exists.,Ta grupa synonimów nie istnieje
+Edit Synonym Group,Edytuj grupę synonimów
+Synonym Group,Grupa synonimów
+Failed to delete %1 synonym group(s).,Niepowodzenie podczas usuwanie %1 grupy synonimów
+A total of %1 synonym group(s) have been deleted.,Wszystkie z %1 grup synonimów zostały usunięte
+Marketing,Marketing
+Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.,Szukanie synonimów nie jest wspierane przez %1 wyszukiwarkę
+This synonym group no longer exists.,Ta grupa synonimów już nie istnieje
+You saved the synonym group.,Zapisałeś grupę synonimów
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła (% 1) należą do 1 istniejącej grupy synonimów,% 2. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła (% 1) należą do% 2 istniejących grup synonimów,% 3 i% 4. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
+You deleted the search.,Usunąłeś szukanie
+We can't find a search term to delete.,Nie możemy znaleźć warunków szukania do usunięcia
+This search no longer exists.,To szukanie nie istnieje
+Edit Search,Edytuj szukanie
+Please select searches.,Proszę wybrać typ szukania
+Total of %1 record(s) were deleted.,Wszystkie z %1 wyników zostało usuniętych
+Reports,Raport
+Search Terms Report,Zgłoszone warunki szukania
+You saved the search term.,Zapisałeś warunki szukania
+Something went wrong while saving the search query.,Coś poszło nie tak podczas zapisywania zapytania szukania
+You already have an identical search term query.,Masz już identyczne zapytanie o wyszukiwane hasło.
+"Your search query can't be longer than %1, so we shortened your query.","Twoje zapytanie nie może być dłuższe niż% 1, więc skróciliśmy zapytanie."
+Synonym group with id %1 cannot be deleted. %2,Nie można usunąć grupy synonimów %1 z identyfikatorem. % 2
+Merge conflict with existing synonym group(s): %1,Połącz konflikt z istniejącą grupą synonimów:% 1
+All Websites,All Websites
+    All Store Views,    All Store Views
+All Store Views,All Store Views
+Delete,Usuń
+Are you sure you want to delete synonym group with id: %1?,Czy na pewno chcesz usunąć grupę synonimów z identyfikatorem:% 1?
+View/Edit,Podgląd/edycja
+Search entire store here...,Przeszukaj cały sklep tutaj.
+There are no search terms available.,Nie ma żadnych wyników wyszukiwania.
+Search Engine,Silnik szukania
+CSV,CSV
+Excel XML,Excel XML
+ID,ID
+Hits,Hits
+Are you sure?,Czy jesteś pewny?
+Suggested Terms,Proponowane warunki
+yes,tak
+no,nie
+Action,Akcja
+Edit,Edytuj
+You can adjust the scope of this synonym group by selecting an option from the list.,"Zakres tej synonimii można dostosować, wybierając opcję z listy."
+Scope,zakres
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Lista synonimów oddzielonych przecinkami. Wprowadzone terminy (oddzielone przecinkami) będą używane jako zapytanie typu ""LUB"", aby przeszukiwać cały sklep. Na przykład jeśli wpiszesz ""buty, obuwie"" i użytkownik szukał butów, wyniki wyszukiwania będą zawierać dowolny produkt lub treść z hasłem ""buty"" lub ""obuwie""."
+Synonyms,Synonimy
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatycznie łączy synonimy w grupach mających ten sam zakres. Jeśli zaznaczysz to pole i dodajesz jedno lub więcej tych samych wyrazów do różnych synonimów w tym samym zakresie, automatycznie łączysz wszystkie terminy z jedną grupą. Jeśli nie chcesz, usuń zaznaczenie pola i wyświetlany jest błąd, jeśli chcesz dodać te same terminy."
+Store View,Widok sklepu
+Website,Website
+Are you sure you want to delete the selected synonym groups?,Czy na pewno chcesz usunąć wybrane grupy synonimów?
+Delete items,Usuń produkt

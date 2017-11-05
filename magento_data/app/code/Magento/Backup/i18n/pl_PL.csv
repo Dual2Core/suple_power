@@ -1,0 +1,78 @@
+System Backup,Kopia zapasowa systemu
+Database and Media Backup,Kopia zapasowa bazy danych i nośników
+Database Backup,Kopia zapasowa bazy danych
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum można skompresować za pomocą <a href=""%1"">% 2 </a> w systemach Windows."
+You need more permissions to activate maintenance mode right now.,"Potrzebujesz więcej uprawnień, aby włączyć teraz tryb konserwacji."
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Aby utworzyć kopie zapasowe, usuń zaznaczenie opcji ""Umieść magazyn w tryb konserwacji"" lub zaktualizuj uprawnienia."
+Something went wrong while putting your store into maintenance mode.,Wystąpił błąd podczas wprowadzania sklepu do trybu konserwacji.
+You need more free space to create a backup.,"Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową."
+You need more permissions to create a backup.,"Aby utworzyć kopię zapasową, potrzebujesz więcej uprawnień."
+We can't create the backup right now.,Nie możemy teraz utworzyć kopii zapasowej.
+Backups,Kopie zapasowe
+System,System
+Tools,Przybory
+Backup,Utworzyć kopię zapasową
+We can't delete one or more backups.,Nie można usunąć jednej lub więcej kopii zapasowych.
+failed,nie
+successful,udany
+You deleted the selected backup(s).,Usunięto wybrane kopie zapasowe.
+Can't load snapshot archive,Nie można załadować archiwum migawki
+Please correct the password.,Proszę poprawić hasło.
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Aby zakończyć wycofywanie, usuń zaznaczenie opcji ""Umieść magazyn w tryb konserwacji"" lub zaktualizuj uprawnienia."
+We can't find the backup file.,Nie można znaleźć pliku kopii zapasowej.
+We can't connect to the FTP right now.,Nie możemy teraz połączyć się z FTP.
+Failed to validate FTP.,Nie udało się zweryfikować FTP.
+You need more permissions to perform a rollback.,Potrzebujesz więcej uprawnień do wykonania wycofania.
+Failed to rollback.,Nie można wycofać.
+Database,Baza danych
+Database and Media,Baza danych i media
+System (excluding Media),System (z wyłączeniem Media)
+You created the system backup.,Utworzyłeś kopię zapasową systemu.
+You created the system backup (excluding media).,Utworzyłeś kopię zapasową systemu (z wyłączeniem mediów).
+You created the database and media backup.,Utworzono bazę danych i kopię zapasową nośników.
+You created the database backup.,Utworzono kopię zapasową bazy danych.
+Please correct the order of creation for a new backup.,Popraw kolejność tworzenia dla nowej kopii zapasowej.
+The backup file does not exist.,Plik kopii zapasowej nie istnieje.
+The backup file path was not specified.,Nie określono ścieżki do pliku kopii zapasowej.
+"The backup file ""%1"" does not exist.","Plik kopii zapasowej "" %1"" nie istnieje."
+"Sorry, but we cannot read from or write to backup file ""%1"".","Przepraszamy, ale nie możemy odczytać lub zapisać do pliku kopii zapasowej "" %1""."
+The backup file handler was unspecified.,Obsługujący plik kopii zapasowej był nieokreślony.
+"Something went wrong while writing to the backup file ""%1"".","Podczas zapisu do pliku kopii zapasowej "" %1"" coś się nie udało."
+We can't save the Cron expression.,Nie możemy zapisać wyrażenia Cron.
+"You will lose any data created since the backup was made, including admin users, customers and orders.","Utracisz wszystkie dane utworzone po utworzeniu kopii zapasowej, w tym użytkowników, klientów i zamówień."
+Are you sure you want to continue?,"Jesteś pewien, że chcesz kontynuować?"
+This may take a few moments.,Może to zająć chwilę.
+Be sure your store is in maintenance mode during backup.,"Upewnij się, że Twój sklep znajduje się w trybie konserwacji podczas tworzenia kopii zapasowej."
+Backup Name,Nazwa kopii zapasowej
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Proszę używać tylko liter (a-z lub A-Z), cyfr (0-9) lub spacji w tym polu."
+Maintenance mode,Tryb konserwacji
+Please put your store into maintenance mode during backup.,Przechowuj swój sklep w trybie konserwacji podczas tworzenia kopii zapasowej.
+Exclude,Wykluczać
+Exclude media folder from backup,Wyklucz folder mediów z kopii zapasowej
+Please enter the password to confirm rollback.,"Wprowadź hasło, aby potwierdzić wycofanie."
+This action cannot be undone.,Ta czynność nie może zostać cofnięta.
+User Password,Hasło użytkownika
+Please put your store into maintenance mode during rollback processing.,Przechowuj swój sklep w trybie konserwacji podczas przetwarzania wycofywania.
+FTP,FTP
+Use FTP Connection,Użyj połączenia FTP
+FTP credentials,Poświadczenia FTP
+FTP Host,Host FTP
+FTP Login,Logowanie FTP
+FTP Password,Hasło FTP
+Magento root directory,Katalog główny Magento
+Create Backup,Stworzyć kopię zapasową
+Rollback,Wycofanie
+Scheduled Backup Settings,Zaplanowane ustawienia kopii zapasowych
+Enable Scheduled Backup,Włącz zaplanowaną kopię zapasową
+Backup Type,Typ kopii zapasowej
+Start Time,Czas rozpoczęcia
+Frequency,Częstotliwość
+Maintenance Mode,tryb konserwacji
+Delete,Kasować
+Are you sure you want to delete the selected backup(s)?,Czy na pewno chcesz usunąć wybrane kopie zapasowe?
+Time,Czas
+Name,Nazwa
+Size(bytes),Rozmiar (bajty)
+Type,Rodzaj
+Download,Pobieranie
+Action,Akcja

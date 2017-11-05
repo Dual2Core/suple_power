@@ -1,0 +1,118 @@
+Wish List,Lista życzeń
+Wish List Sharing,Udostępnianie listy życzeń
+My Wish List,Moja lista życzeń
+%1's Wish List,Lista życzeń %1
+Page not found.,Strona nie znaleziona.
+We can't specify a product.,Nie możemy określić produktu.
+We can't add the item to Wish List right now: %1.,Nie możemy teraz dodać przedmiotu do listy życzeń: %1.
+We can't add the item to Wish List right now.,Nie możemy teraz dodać przedmiotu do listy życzeń.
+You added %1 to your shopping cart.,Dodano %1 do koszyka na zakupy.
+This product(s) is out of stock.,Ten produkt (y) nie ma w magazynie.
+We can't add the item to the cart right now.,Nie możemy teraz dodać przedmiotu do koszyka.
+We can't load the Wish List item right now.,Nie możemy załadować elementu listy życzeń już teraz.
+We can't configure the product right now.,Nie możemy teraz skonfigurować produktu.
+The requested cart item doesn't exist.,Żądany przedmiot koszyka nie istnieje.
+%1 has been moved to your wish list., %1 został przeniesiony do twojej listy życzeń.
+We can't move the item to the wish list.,Nie możemy przenieść przedmiotu do listy życzeń.
+We can't delete the item from Wish List right now because of an error: %1.,Nie możemy teraz usunąć elementu z listy życzeń z powodu błędu: %1.
+We can't delete the item from the Wish List right now.,Nie możemy teraz usunąć tego elementu z listy życzeń.
+Message length must not exceed %1 symbols,Długość wiadomości nie może przekraczać symboli %1
+Please enter an email address.,Wprowadź adres e-mail.
+This wish list can be shared %1 more times.,Ta lista życzeń może być współdzielona %1 więcej razy.
+Please enter a valid email address.,Proszę wpisać aktualny adres e-mail.
+Your wish list has been shared.,Twoja lista życzeń została udostępniona.
+We can't delete item from Wish List right now.,Nie możemy teraz usunąć elementu z listy życzeń.
+Can't save description %1,Nie można zapisać opisu %1
+Can't update wish list,Nie można zaktualizować listy życzeń
+%1 has been updated in your Wish List., %1 został zaktualizowany na twojej liście życzeń.
+We can't update your Wish List right now.,Nie możemy teraz zaktualizować Twojej listy życzeń.
+The requested Wish List doesn't exist.,Żądana lista życzeń nie istnieje.
+We can't create the Wish List right now.,Nie możemy teraz utworzyć listy życzeń.
+%1 items, %1 przedmiotów
+1 item,1 pozycja
+Comment,Komentarz
+Display number of items in wish list,Pokaż liczbę przedmiotów na liście życzeń
+Display item quantities,Wyświetlaj wielkości pozycji
+An item option with code %1 already exists.,Opcja elementu z kodem %1 już istnieje.
+We can't specify a wish list.,Nie możemy określić listy życzeń.
+Cannot specify product.,Nie można określić produktu.
+Product is not salable.,Produkt nie nadaje się do sprzedaży.
+Invalid item option format.,Nieprawidłowy format opcji przedmiotu.
+"%1 for ""%2""."," %1 dla "" %2""."
+We can't add this item to your shopping cart right now.,Nie możemy teraz dodać tego produktu do koszyka.
+We couldn't add the following product(s) to the shopping cart: %1.,Nie mogliśmy dodać następujących produktów do koszyka: %1.
+We can't update the Wish List right now.,Nie możemy teraz zaktualizować listy życzeń.
+%1 product(s) have been added to shopping cart: %2., %1 produkt (ów) zostało dodanych do koszyka: %2.
+Comment:,Komentarz:
+We cannot retrieve the Wish List.,Nie możemy odzyskać listy życzeń.
+%1's Wishlist, %1's Wishlist
+We can't specify a wish list item.,Nie możemy określić elementu listy życzeń.
+The product does not exist.,Produkt nie istnieje.
+Test Phrase,Frazy testowe
+message,wiadomość
+Message,Wiadomość
+error-message,Komunikat o błędzie
+LocalizedException,LocalizedException
+Product Exception.,Wyjątek produktowy.
+Localized Exception.,Zlokalizowany wyjątek.
+Are you sure you want to remove this item?,Czy na pewno chcesz usunąć ten element?
+Share Wish List,Udostępnij listę życzeń
+Add All to Cart,Dodaj wszystko do koszyka
+Update Wish List,Zaktualizuj listę życzeń
+Move to Wishlist,Przejdź do listy życzeń
+Add to Wish List,Dodaj do listy życzeń
+View Product,Wyświetl produkt
+Qty,Ilość
+Add to Cart,Dodaj do koszyka
+Availability,Dostępność
+In stock,Na stanie
+Out of stock,Obecnie brak na stanie
+Edit,Edytować
+Remove Item,Usuń przedmiot
+Remove item,Usuń przedmiot
+Add to Compare,Dodaj do porównania
+This Wish List has no Items,Ta lista życzeń nie zawiera żadnych elementów
+%1 has been added to your Wish List., %1 został dodany do twojej listy życzeń.
+"Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1""> tutaj </a>, aby kontynuować zakupy."
+See Details,Patrz szczegóły
+Options Details,Szczegóły opcji
+RSS link to %1's wishlist,RSS link do listy życzeń %1
+RSS Feed,Kanał RSS
+Product,Produkt
+Back,Plecy
+Wish List is empty now.,Lista życzeń jest teraz pusta.
+* Required Fields,* Wymagane pola
+Sharing Information,Dzielenie się informacjami
+"Email addresses, separated by commas",Adresy e-mail rozdzielone przecinkami
+Check here to link an RSS feed to your Wish List.,"Sprawdź tutaj, aby połączyć kanał RSS z Twoją listą życzeń."
+Last Added Items,Ostatnio dodane przedmioty
+Remove This Item,Usuń ten przedmiot
+Go to Wish List,Przejdź do listy życzeń
+You have no items in your wish list.,Nie masz żadnych przedmiotów na swojej liście życzeń.
+Take a look at %customer_name's Wish List,Spójrz na listę życzeń% customer_name
+%customer_name wants to share this Wish List from %store_name with you:,% customer_name chce udostępnić tę listę życzeń z% store_name:
+Message from %customer_name:,Wiadomość od% nazwa_klienta:
+View all Wish List items,Wyświetl wszystkie elementy listy życzeń
+Wish List Section,Sekcja listy życzeń
+Share Options,Opcje udostępniania
+Email Sender,Email Sender
+Email Template,Szablon e-maila
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrano szablon wiadomości e-mail na podstawie zastępczego motywu, gdy wybrano opcję ""Domyślne""."
+Max Emails Allowed to be Sent,Maksymalna liczba wysłanych wiadomości e-mail
+Email Text Length Limit,Limit długości tekstu wiadomości e-mail
+General Options,Opcje ogólne
+Enabled,Włączone
+My Wish List Link,My Wish List Link
+Display Wish List Summary,Wyświetl podsumowanie listy życzeń
+Enable RSS,Włącz RSS
+No Items Found,Nie znaleziono przedmiotów
+Product Name,Nazwa produktu
+User Description,Opis użytkownika
+Quantity,Ilość
+Add Locale,Dodaj ustawienia regionalne
+Add Date,Dodaj datę
+Days in Wish List,Dni na liście życzeń
+Action,Akcja
+Configure,Skonfiguruj
+Delete,Kasować
+Product Details and Comment,Szczegóły produktu i komentarz

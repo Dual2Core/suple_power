@@ -1,0 +1,43 @@
+Url,Url
+Title,Tytuł
+Description,Opis
+Preview Image,Obraz podglądu
+Get Video Information,Uzyskaj informacje o filmie
+Hide from Product Page,Ukryj ze strony produktu
+Role,Rola
+YouTube and Vimeo supported.,Obsługa YouTube i Vimeo.
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Obsługa Vimeo. <br /> Aby dodać wideo z YouTube, najpierw <a href=""%1""> wpisz klucz API interfejsu API </a>."
+Protocol isn't allowed,Protokół jest niedozwolony
+Could not get preview image information. Please check your connection and try again.,Nie można uzyskać informacji o obrazie podglądu. Sprawdź połączenie i spróbuj ponownie.
+Add Video,Dodaj wideo
+Browse to find or drag image here,"Przeglądaj, aby znaleźć lub przeciągnąć obraz tutaj"
+Delete video,Usuń wideo
+Delete image,Usuń obraz
+Hidden,Ukryty
+Alt Text,Alt Text
+Image Size,Rozmiar obrazu
+{size},{rozmiar}
+Image Resolution,Rozdzielczość obrazu
+{width}^{height} px,{szerokość} ^ {wysokość} px
+Title:,Tytuł:
+Uploaded:,Przesłano:
+Uploader:,Uploader:
+Duration:,Trwanie:
+Video Error,Błąd wideo
+Unknown video type,Nieznany typ wideo
+Invalid video url,Nieprawidłowy URL filmu
+Youtube API key is invalid,Klucz API Youtube jest nieprawidłowy
+Video cant be shown due to the following reason: ,Nie można wyświetlić filmu z następujących powodów:
+Video not found,Nie znaleziono filmu
+New Video,Nowe wideo
+Save,Zapisać
+Cancel,Anuluj
+Delete,Kasować
+Edit Video,Edytuj wideo
+Images and Videos,Obrazy i filmy
+Product Video,Wideo produktu
+YouTube API Key,Klucz API YouTube
+Autostart base video,Automatyczne odtwarzanie wideo podstawowego
+Show related video,Pokaż podobne wideo
+Auto restart video,Automatycznie uruchom ponownie wideo
+Images And Videos,Obrazy i filmy

@@ -1,0 +1,55 @@
+Country,Kraj
+Region/State,Region / państwo
+Zip/Postal Code,Kod pocztowy
+Shipping Price,Cena przesyłki
+Export CSV,Eksportuj plik CSV
+Store Pickup,odbiór ze sklepu
+Weight vs. Destination,Waga a miejsce docelowe
+Price vs. Destination,Cena a miejsce docelowe
+# of Items vs. Destination,Liczba przedmiotów vs. miejsce docelowe
+Weight (and above),Waga (i powyżej)
+Order Subtotal (and above),Zamów sumę częściową (i powyżej)
+# of Items (and above),Liczba przedmiotów (i powyżej)
+Please correct Table Rate code type: %1.,Popraw typ kodu stawki: %1.
+Please correct Table Rate code for type %1: %2.,Popraw kod określający stół dla typu %1: %2.
+None,Żaden
+Per Order,Na zamówienie
+Per Item,Za sztukę
+Unable to import data,Nie można importować danych
+Something went wrong while importing table rates.,Coś poszło nie tak podczas importowania stawek stołowych.
+We couldn't import this file because of these errors: %1,Nie można zaimportować tego pliku z powodu tych błędów: %1
+"Requested column ""%1"" cannot be resolved","Żądana kolumna "" %1"" nie może zostać rozwiązana"
+"Column ""%1"" not found","Nie znaleziono kolumny "" %1"""
+Please correct Table Rates format in the Row #%1.,Popraw format tabeli stawek w wierszu # %1.
+"Please correct Country ""%1"" in the Row #%2.","Popraw kraj "" %1"" w wierszu # %2."
+"Please correct Region/State ""%1"" in the Row #%2.","Popraw region / stan "" %1"" w wierszu # %2."
+"Please correct %1 ""%2"" in the Row #%3.","Popraw %1 "" %2"" w wierszu # %3."
+"Please correct Shipping Price ""%1"" in the Row #%2.","Popraw cenę dostawy "" %1"" w wierszu # %2."
+Duplicate Row #%1 (duplicates row #%2),Duplikuj wiersz # %1 (duplikuje wiersz # %2)
+Please correct Table Rates File Format.,Popraw format pliku tabeli stawek.
+No,Nie
+For matching items only,Tylko dla pasujących elementów
+For shipment with matching items,Do wysyłki z pasującymi przedmiotami
+Field ,Pole
+ is required., jest wymagane.
+Flat Rate,Jednolita stawka
+Enabled,Włączone
+Method Name,Nazwa metody
+Price,Cena
+Calculate Handling Fee,Oblicz opłatę manipulacyjną
+Handling Fee,Opłata manipulacyjna
+Sort Order,Porządek sortowania
+Title,Tytuł
+Type,Rodzaj
+Ship to Applicable Countries,Wyślij do odpowiednich krajów
+Ship to Specific Countries,Wysyłka do określonych krajów
+Show Method if Not Applicable,"Pokaż metodę, jeśli nie dotyczy"
+Displayed Error Message,Wyświetlany komunikat o błędzie
+Table Rates,Stawki stołowe
+Condition,Stan
+Include Virtual Products in Price Calculation,Uwzględnij produkty wirtualne w kalkulacji cen
+Export,Eksport
+Import,Import
+Free Shipping,Darmowa dostawa
+Minimum Order Amount,Minimalna kwota zamówienia
+-- Please Select --,-- Proszę wybrać --

@@ -1,0 +1,131 @@
+cc_type,Typ karty kredytowej
+cc_number,numer karty kredytowej
+avsPostalCodeResponseCode,Kod odpowiedzi na kod pocztowy firmy AVS
+avsStreetAddressResponseCode,Kod odpowiedzi na adres siedziby firmy AVS
+cvvResponseCode,Kod odpowiedzi CVV
+processorAuthorizationCode,Kod autoryzacji procesora
+processorResponseCode,Kod odpowiedzi procesora
+processorResponseText,Tekst odpowiedzi odpowiedzi procesora
+braintree,Braintree
+liabilityShifted,Przeniesienie odpowiedzialności
+liabilityShiftPossible,Trwa możliwość zmiany odpowiedzialności
+riskDataId,Identyfikator ryzyka
+riskDataDecision,Decyzja o Ryzyku
+paymentId,Identyfikator płatności
+payerEmail,Payer Email
+sale,Sprzedaż
+credit,Kredyt
+authorization_expired,Upoważnienie wygasło
+authorizing,Autoryzowanie
+authorized,Upoważniony
+gateway_rejected,Odrzucona brama
+failed,Niepowodzenie
+processor_declined,Procesor odrzucił
+settled,Osiadły
+settling,Utknięcie
+submitted_for_settlement,Złożony do rozliczenia
+voided,Nieważne
+unrecognized,Nierozpoznany
+settlement_declined,Ugoda została odrzucona
+settlement_pending,Rozliczenia oczekujące
+settlement_confirmed,Potwierdzono rozliczenie
+paypal_account,konto paypal
+coinbase_account,Rachunek monetarny
+europe_bank_accout,Konto bankowe w Europie
+credit_card,Karta kredytowa
+apple_pay_card,Karta płatnicza firmy Apple
+android_pay_card,Karta płatnicza Androida
+Country,Kraj
+Allowed Credit Card Types,Dozwolone typy kart kredytowych
+Add Rule,Dodaj regułę
+Braintree Settlement Report,Raport o Ugodzie Braintree
+"Sorry, but something went wrong","Przepraszam, ale coś poszło nie tak"
+We can't initialize checkout.,Nie możemy zainicjować kasy.
+No authorization transaction to proceed capture.,"Brak transakcji autoryzacji, aby kontynuować przechwytywanie."
+Braintree error response.,Braintree error response.
+Payment method nonce can't be retrieved.,Nie można pobrać metody nonce.
+Wrong transaction status,Niewłaściwy stan transakcji
+Authorize,Autoryzować
+Authorize and Capture,Autoryzuj i przechwytywaj
+--Please Select--,--Proszę wybrać--
+Please agree to all the terms and conditions before placing the order.,Prosimy o wyrażenie zgody na wszystkie warunki przed złożeniem zamówienia.
+Credit Card Type,Typ karty kredytowej
+Credit Card Number,numer karty kredytowej
+"Please, enter valid Credit Card Number",Wprowadź prawidłową liczbę kart kredytowych
+Expiration Date,Termin ważności
+"Please, enter valid Expiration Date",Proszę podać prawidłową datę ważności
+Card Verification Number,Numer weryfikacji karty
+"Please, enter valid Card Verification Number",Wprowadź prawidłowy numer weryfikacyjny karty
+ending,kończący się
+expires,wygasa
+Are you sure you want to delete this PayPal account,Czy na pewno chcesz usunąć to konto PayPal
+PayPal Account,Konto paypal
+PayPal Logo,Logo PayPal
+Actions,działania
+Delete,Kasować
+Credit Card Information,Informacje o karcie kredytowej
+What is this?,Co to jest?
+Save for later use.,Zaoszczędź do późniejszego użycia.
+Place Order,Złożyć zamówienie
+This payment is not available,Ta płatność nie jest dostępna
+MM,MM
+YY,YY
+Please try again with another form of payment.,Spróbuj ponownie za pomocą innej formy płatności.
+"Sorry, but something went wrong.","Przepraszam, ale coś poszło nie tak."
+Payment ,Zapłata
+Braintree,Braintree
+Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.,"Zaakceptuj karty kredytowe / debetowe i PayPal w magazynie Magento. <br/> Żadne ustawienia ani opłaty miesięczne, a klienci nigdy nie opuszczają sklepu, aby zakończyć zakup."
+Enable this Solution,Włącz to rozwiązanie
+Enable PayPal through Braintree,Włącz PayPal poprzez Braintree
+Vault Enabled,Skrytka jest włączona
+Basic Braintree Settings,Podstawowe ustawienia Braintree
+Title,Tytuł
+Environment,Środowisko
+Payment Action,Działania związane z płatnościami
+Merchant ID,Identyfikator sprzedawcy
+Public Key,Klucz publiczny
+Private Key,Klucz prywatny
+Advanced Braintree Settings,Zaawansowane ustawienia Braintree
+Vault Title,Tytuł Vault
+Merchant Account ID,Identyfikator konta sprzedawcy
+Advanced Fraud Protection,Zaawansowana ochrona przed oszustwami
+Kount Merchant ID,Kount Merchant ID
+Debug,Odpluskwić
+CVV Verification,Weryfikacja CVV
+Credit Card Types,Typy kart kredytowych
+Sort Order,Sortuj kolejność
+Country Specific Settings,Ustawienia specyficzne dla danego kraju
+Payment from Applicable Countries,Płatności od właściwych krajów
+Payment from Specific Countries,Płatności z określonych krajów
+Country Specific Credit Card Types,Rodzaje kart kredytowych poszczególnych krajów
+PayPal through Braintree,PayPal poprzez Braintree
+Override Merchant Name,Zastąp nazwę handlowca
+Require Customer's Billing Address,Wymagaj adresu rozliczeniowego klienta
+Allow to Edit Shipping Address Entered During Checkout on PayPal Side,Zezwól na edycję adresu wysyłki w trakcie dokonywania płatności w serwisie PayPal
+Display on Shopping Cart,Wyświetl w koszyku
+Skip Order Review,Pomiń zamówienie
+3D Secure Verification Settings,Ustawienia weryfikacji 3D Secure
+3D Secure Verification,Bezpieczna weryfikacja 3D
+Threshold Amount,Kwota progu
+Verify for Applicable Countries,Weryfikuj dla odpowiednich krajów
+Verify for Specific Countries,Weryfikuj dla konkretnych krajów
+Dynamic Descriptors,Deskryptory dynamiczne
+Name,Nazwa
+Phone,Telefon
+URL,Adres URL
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Zastosuj filtry, aby uzyskać wyniki. W sieci wyświetlane będą tylko pierwsze 100 rekordów, można pobrać pełną wersję raportu w formacie .csv."
+Select...,Wybierz...
+Status,Status
+Transaction Type,typ transakcji
+Payment Type,Typ płatności
+PayPal Payment ID,ID płatności PayPal
+Created At,Utworzone w
+Transaction ID,Identyfikator transakcji
+Order ID,ID zlecenia
+Type,Rodzaj
+Amount,Ilość
+Settlement Code,Kod rozliczeniowy
+Settlement Response Text,Tekst odpowiedzi na rozliczenia
+Refund Ids,Identyfikacja zwrotu
+Settlement Batch ID,Identyfikator zbiorczy rozliczenia
+Currency,Waluta

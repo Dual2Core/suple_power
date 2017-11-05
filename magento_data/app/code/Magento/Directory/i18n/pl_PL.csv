@@ -1,0 +1,49 @@
+State/Province,Państwo / województwo
+--Please Select--,--Proszę wybrać--
+lbs,lbs
+kgs,kg
+Requested country is not available.,Kraj żądany jest niedostępny.
+"Undefined rate from ""%1-%2"".","Nieokreślona stawka z "" %1- %2""."
+Please correct the target currency.,Zmień walutę docelową.
+label,etykieta
+We can't retrieve a rate from %1 for %2.,Nie możemy pobrać stawki z %1 dla %2.
+We can't retrieve a rate from %1.,Nie możemy pobrać stawki z %1.
+FATAL ERROR:,BŁĄD KRYTYCZNY:
+We can't initialize the import model.,Nie można zainicjować modelu importu.
+Please specify the correct Import Service.,Proszę podać prawidłową usługę importowania.
+WARNING:,OSTRZEŻENIE:
+Please correct the country code: %1.,Popraw kod kraju: %1.
+Country and Format Type combination should be unique,Typ kraju i formatu połączenia powinny być unikalne
+Please correct the rates received,Proszę poprawić otrzymane stawki
+"Please select a region, state or province.","Proszę wybrać region, stan lub prowincję."
+Currency,Waluta
+Your current currency is: %1.,Aktualną walutą jest: %1.
+Continue,Kontyntynuj
+Currency Update Warnings,Ostrzeżenia dotyczące aktualizacji waluty
+Currency Setup,Konfiguracja walutowa
+Currency Options,Opcje walutowe
+Base Currency,Waluta bazowa
+"
+                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","                        Waluta podstawowa jest używana w przypadku wszystkich transakcji płatności online. Zakres waluty bazowej określa zakres cen katalogowych (""Katalog"" "">"" ""Cennik"" "">"" Zakres cen katalogowych """")."
+Default Display Currency,Domyślna waluta wyświetlania
+Allowed Currencies,Dozwolone waluty
+Yahoo Finance Exchange,Yahoo Finance Exchange
+Connection Timeout in Seconds,Limit czasu połączenia w sekundach
+Fixer.io,Fixer.io
+Webservicex,Webservicex
+Scheduled Import Settings,Ustawienia importu zaplanowanego
+Enabled,Włączone
+Error Email Recipient,Błąd adresu e-mail odbiorcy
+Error Email Sender,Błędny adres Email Sender
+Error Email Template,Szablon wiadomości o błędzie
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Szablon poczty e-mail wybrany w oparciu o opcję zastępowania tematów, gdy wybrano opcję ""Domyślna""."
+Frequency,Częstotliwość
+Service,Usługa
+Start Time,Czas rozpoczęcia
+Installed Currencies,Zainstalowane waluty
+Zip/Postal Code is Optional for,Kod pocztowy jest opcjonalny
+State Options,Opcje państwowe
+State is Required for,Stan jest wymagany
+Allow to Choose State if It is Optional for Country,"Zezwól na wybór stanu, jeśli jest to opcjonalne dla danego kraju"
+Weight Unit,Jednostka wagi

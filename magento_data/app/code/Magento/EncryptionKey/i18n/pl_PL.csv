@@ -1,0 +1,14 @@
+Change Encryption Key,Zmień klucz szyfrowania
+Encryption Key,Klucz szyfrowania
+New Encryption Key,Nowy klucz szyfrowania
+The encryption key is used to protect passwords and other sensitive data.,Klucz szyfrowania służy do ochrony haseł i innych poufnych danych.
+Auto-generate a Key,Automatycznie generuj klucz
+No,Nie
+Yes,tak
+The generated key will be displayed after changing.,Wygenerowany klucz zostanie wyświetlony po zmianie.
+New Key,Nowy klucz
+Deployment configuration file is not writable.,Plik konfiguracji wdrażania nie jest zapisywalny.
+Please enter an encryption key.,Wprowadź klucz szyfrowania.
+The encryption key has been changed.,Klucz szyfrowania został zmieniony.
+This is your new encryption key: %1. Be sure to write it down and take good care of it!,"To jest twój nowy klucz szyfrowania:%1. Pamiętaj, aby go zapisać i dobrze się nim zająć!"
+Manage Encryption Key,Zarządzaj kluczem szyfrowania

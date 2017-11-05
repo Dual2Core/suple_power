@@ -1,0 +1,69 @@
+You created the order.,Złożyłeś zamówienie
+Order saving error: %1,Błąd podczas zapisywania zamówienia %1
+Please choose a payment method.,Proszę wybrać metodę płatności
+We can't process your order right now. Please try again later.,Nie możemy przetworzyć Twojego zamówienia. Proszę spróbować później
+An error occurred on the server. Please try to place the order again.,Wystąpił błąd na serwerze. Proszę złożyć zamówienie jeszcze raz.
+Credit Card: xxxx-%1,Karta kredytowa: xxxx-%1
+amount %1,ilość %1
+failed.,niepowodzenie
+successful.,sukces
+Authorize.Net Transaction ID %1.,Autoryzowanie .Net transakcji ID %1.
+authorize,autoryzuj 
+authorize and capture,Autoryzuj i zdobądź
+capture,przechwyć
+refund,zwrot
+void,unieważnij
+Gateway error: %1,Błąd bramy: %1
+Something went wrong in the payment gateway.,Coś poszło nie tak podczas płatności.
+Invalid amount for capture.,Nieprawidłowa ilość na zamówieniu
+Payment capturing error.,Błąd płatności.
+Invalid transaction ID.,Nieprawidłowy ID transakcji ID.
+Payment voiding error.,Błąd unieważniania transakcji.
+Invalid amount for refund.,Niepoprawna ilość zwrotów
+Payment refunding error.,Błąd zwrotu pieniędzy
+The transaction was declined because the response hash validation failed.,Transakcja została odrzucona z powodu niepoprawnej walidacji hasha z odpowiedzi
+This payment didn't work out because we can't find this order.,"Płatność się nie powiodła, ponieważ nie możemy znaleźć zamówienia."
+There was a payment authorization error.,Błąd podczas autoryzacji płatności
+Please enter a transaction ID to authorize this payment.,"Proszę wpisać ID transakcji, aby autoryzować płatność"
+Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.,Coś poszło nie tak. Liczba produktów przy płatności nie zgadza się z zamówieniem.
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transakcja %1 została zatwierdzona. Kwota %2. Stan transakcji to ""%3"""
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transakcja %1 została unieważniona / odrzucona. Stan transakcji to ""%2"". Kwota %3."
+Authorize Only,Autoryzuj tylko
+Authorize and Capture,Autoryzuj i przychwyć
+Unable to get transaction details. Try again later.,Nie można pobrać szczegółów transakcji. Spróbuj jeszcze raz.
+Electronic payments save the trees.,Elektroniczna płatność zapisuje drzewa
+Credit Card Type,Typ karty
+Please Select,Proszę wybrać
+Credit Card Number,Numer karty
+Expiration Date,Data ważności
+Card Verification Number,Weryfikacja numeru karty
+Fraud Detection ,Wykrywanie oszustw
+FDS Filter Action,Działanie filtru FDS
+AVS Response,Odpowiedź AVS
+Card Code Response,Odpowiedź kodu karty
+CAVV Response,Odpowiedź CAVV
+Fraud Filters,Filtry oszustw
+Place Order,Złóż zamówienie
+"Sorry, but something went wrong. Please contact the seller.","Przepraszamy, coś poszło nie tak. Spróbuj ponownie później"
+Authorize.net Direct Post,Autoryzacja  .net Post
+Enabled,Włączone
+Payment Action,Płatność
+Title,Tytuł
+API Login ID,API login ID
+Transaction Key,Klucz transakcji
+Merchant MD5,Kupiec MD5
+New Order Status,Nowy status zamówienia
+Test Mode,Tryb testowy
+Gateway URL,Brama URL
+Transaction Details URL,Szczegóły transakcji URL
+Accepted Currency,Akceptowane waluty
+Debug,Debug
+Email Customer,Email klienta
+Merchant's Email,Email kupca
+Credit Card Types,Typ karty kredytowej
+Credit Card Verification,Weryfikacja karty kredytowej
+Payment from Applicable Countries,Płatność od właściwych krajów
+Payment from Specific Countries,Płatność od specyficznych krajów
+Minimum Order Total,Minimalna suma zamówień
+Maximum Order Total,Maksymalna suma zamówień
+Sort Order,Sortuj zamówienia

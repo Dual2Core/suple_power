@@ -1,0 +1,4 @@
+Please correct the data sent.,Proszę poprawić wysyłane dane.
+Entity type model '%1' is not found,Nie znaleziono modelu typu entity '%1'
+Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,Typ typu jednostki musi być wystąpieniem typu \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType
+There are no product types available for export,Nie ma dostępnych typów produktów do eksportu

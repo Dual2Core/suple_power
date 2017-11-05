@@ -1,0 +1,80 @@
+Delete Rule,Usuń regułę
+Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
+Reset,Nastawić
+Save and Apply,Zapisz i zastosuj
+Save and Continue Edit,Zapisz i kontynuuj edycję
+Save,Zapisać
+Catalog Price Rule,Regulamin cen katalogowych
+Add New Rule,Dodaj nową regułę
+Apply Rules,Zastosuj reguły
+Conditions,Warunki
+Conditions (don't add conditions if rule is applied to all products),"Warunki (nie dodawaj warunków, jeśli reguła jest stosowana do wszystkich produktów)"
+ID,ID
+Type,Rodzaj
+Attribute Set,Zestaw atrybutów
+SKU,SKU
+Product,Produkt
+Promotions,Promocje
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Znaleźliśmy zaktualizowane reguły, które nie są stosowane. Kliknij ""Zastosuj reguły"", aby zaktualizować katalog."
+We can't apply the rules.,Nie możemy stosować reguł.
+You deleted the rule.,Usunęła regułę.
+We can't delete this rule right now. Please review the log and try again.,Nie możemy teraz usunąć tej reguły. Sprawdź dziennik i spróbuj ponownie.
+We can't find a rule to delete.,"Nie możemy znaleźć reguły, która ma zostać usunięta."
+This rule no longer exists.,Ta zasada nie istnieje.
+New Catalog Price Rule,Nowa reguła cen katalogu
+Edit Rule,Edytuj regułę
+New Rule,Nowa zasada
+Catalog,Katalog
+You saved the rule.,Zapisałeś regułę.
+Something went wrong while saving the rule data. Please review the error log.,Wystąpił błąd podczas zapisywania danych reguły. Sprawdź dziennik błędów.
+Promo,Promo
+Unable to save rule %1,Nie można zapisać reguły %1
+"Rule with specified ID ""%1"" not found.","Nie znaleziono reguły z określonym identyfikatorem "" %1""."
+Unable to remove rule %1,Nie można usunąć reguły %1
+Could not rebuild index for empty products array,Nie można odbudować indeksu dla pustego produktu
+We can't rebuild the index for an undefined product.,Nie można odbudować indeksu dla niezdefiniowanego produktu.
+Catalog rule indexing failed. See details in exception log.,Indeks reguł katalogowych nie powiódł się. Zobacz szczegóły w dzienniku wyjątków.
+Percentage discount should be between 0 and 100.,Odsetek dyskonta powinien wynosić od 0 do 100.
+Discount value should be 0 or greater.,Wartość rabatu powinna wynosić 0 lub więcej.
+Unknown action.,Nieznana akcja.
+Update the Product,Zaktualizuj produkt
+Rule price,Cena reguły
+To Fixed Value,Do wartości ustalonej
+To Percentage,Odsetek
+By Fixed value,Przez wartość ustaloną
+By Percentage,Według procentów
+Update product's %1 %2: %3,Zaktualizuj produkt %1 %2: %3
+Apply as percentage of original,Zastosuj jako procent oryginału
+Apply as fixed amount,Zastosuj jako stałą kwotę
+Adjust final price to this percentage,Dostosuj ostateczną cenę do tej wartości procentowej
+Adjust final price to discount value,Dostosuj ostateczną cenę do wartości dyskontowej
+Conditions Combination,Warunki łączenia
+Product Attribute,Atrybut produktu
+Updated rules applied.,Zaktualizowano reguły.
+"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Wyłączyłeś zasady cen katalogowych %1 w oparciu o atrybut ""%2""."
+Catalog Rule Product,Katalog Zasad Produktu
+Indexed rule/product association,Zrzeszenie reguł indeksowanych / powiązań produktów
+Catalog Product Rule,Katalog produktów Reguły
+Indexed product/rule association,Powiązanie z indeksowanym asortymentem / regułami
+Rule,Reguła
+Start,Początek
+End,Koniec
+Status,Status
+Active,Aktywny
+Inactive,Nieaktywny
+Web Site,Stronie internetowej
+Back,Plecy
+Rule Information,Informacje o regule
+Rule Name,Nazwa reguły
+Description,Opis
+Websites,Strony internetowe
+Customer Groups,Grupy klientów
+From,Od
+To,Do
+Priority,Priorytet
+Actions,działania
+Apply,Zastosować
+Discount Amount,Kwota rabatu
+Discard subsequent rules,Odrzuć kolejne reguły
+Yes,tak
+No,Nie

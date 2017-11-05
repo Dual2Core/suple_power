@@ -1,0 +1,226 @@
+New Accounts,Nowe konta
+Customers by number of orders,Klienci według liczby zamówień
+Customers by Orders Total,Klienci według zamówień Razem
+Filter,Filtr
+Date Used,Data użycia
+Day,Dzień
+Month,Miesiąc
+Year,Rok
+Period,Okres
+From,Od
+To,Do
+Yes,tak
+No,Nie
+Empty Rows,Puste wiersze
+Invalid date specified,Podano nieprawidłową datę
+Refresh,Odświeżać
+We can't find records for this period.,Nie możemy znaleźć zapisów dla tego okresu.
+Show Reviews,Pokaż recenzje
+Products Report,Raport o produktach
+Downloads,Pliki do pobrania
+Product,Produkt
+Link,Połączyć
+SKU,SKU
+Purchases,Zakupy
+CSV,CSV
+Excel XML,Excel XML
+Unlimited,Nieograniczony
+Low stock,Niskie zasoby
+Products Ordered,Produkty zamówione
+Most Viewed,Najczęściej oglądane
+Show Report,Pokaż raport
+Interval,Interwał
+Total,Całkowity
+Price,Cena
+Views,Widoki
+Refresh Statistics,Odśwież statystyki
+Customers Reviews,Opinie klientów
+Reviews for %1,Recenzje dla %1
+Customer,Klient
+Title,Tytuł
+Detail,Szczegół
+Created,Stworzony
+Products Reviews,Recenzje produktów
+Products Bestsellers Report,Raport o produktach Bestseller
+Order Quantity,Ilość zamówienia
+Coupons Usage Report,Raport użycia kuponów
+Subtotal,Suma częściowa
+Coupon Code,Kod kuponu
+Price Rule,Zasada ceny
+Uses,Używa
+Sales Subtotal,Podsuma sprzedaży
+Sales Discount,Rabat na sprzedaż
+Sales Total,Sprzedaż ogółem
+Discount,Zniżka
+Total Invoiced vs. Paid Report,Całkowity fakturowany a płatny raport
+Orders,Święcenia
+Invoiced Orders,Zafakturowane zamówienia
+Total Invoiced,Razem zafakturowane
+Paid Invoices,Płatne faktury
+Unpaid Invoices,Niezapłacone faktury
+Total Refunded Report,Całkowity raport o zwrocie środków
+Refunded Orders,Zamówienia zwrotne
+Total Refunded,Łącznie zwrócone
+Online Refunds,Zwroty online
+Offline Refunds,Zwroty offline
+Total Ordered Report,Suma uporządkowanych raportów
+Sales Items,Przedmioty sprzedaży
+Items,Przedmiotów
+Revenue,Dochód
+Profit,Zysk
+Invoiced,Zafakturowane
+Paid,Płatny
+Refunded,Zwrócono środki
+Sales Tax,Podatek od sprzedaży
+Tax,Podatek
+Sales Shipping,Sprzedaż wysyłkowa
+Shipping,Wysyłka
+Canceled,Odwołany
+Total Shipped Report,Łączny wysłany raport
+Carrier/Method,Przewoźnik / metoda
+Total Sales Shipping,Całkowita sprzedaż wysyłkowa
+Total Shipping,Całość wysyłki
+Order Taxes Report Grouped by Tax Rate,Zamów raport podatkowy pogrupowany według stawki podatkowej
+Rate,Oceniać
+Tax Amount,Wysokość podatku
+Abandoned carts,Opuszczone wózki
+Email,E-mail
+Products,Produkty
+Quantity,Ilość
+Applied Coupon,Applied Coupon
+Updated,Zaktualizowano
+IP Address,Adres IP
+Customers,Klienci
+ID,ID
+First Name,Pierwsze imię
+Last Name,Nazwisko
+Items in Cart,Przedmioty w koszyku
+Products in carts,Produkty w wózkach
+Carts,Wózki
+Name,Nazwa
+Wish Lists,Lista życzeń
+Wish List Purchase,Zakup listy życzeń
+Wish List vs. Regular Order,Lista życzeń a regularne zamówienie
+Times Deleted,Usunięto czasy
+Index type is not valid,Typ indeksu jest nieprawidłowy
+Reports,Raporty
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Ostatnia aktualizacja: %1. Aby odświeżyć <a href=""%2""> statystyki z ubiegłego dnia </a>, kliknij <a href=""%3""> tutaj </a>."
+New Accounts Report,Nowy raport o rachunkach
+Customers by Number of Orders,Klienci według liczby zamówień
+Order Count Report,Raport liczby zamówień
+Order Total Report,Zamów cały raport
+Downloads Report,Raport do pobrania
+Low Stock,Niskie zasoby
+Low Stock Report,Niski raport zapasów
+Ordered Products Report,Zamówiony raport produktów
+Products Most Viewed Report,Produkty najczęściej oglądane Report
+Product Views Report,Raport Widoki produktów
+An error occurred while showing the product views report. Please review the log and try again.,Wystąpił błąd podczas wyświetlania raportu widoków produktów. Sprawdź dziennik i spróbuj ponownie.
+Review,Recenzja
+Reviews,Opinie
+Customers Report,Raport klientów
+Customer Reviews Report,Raport opinii klientów
+Product Reviews Report,Raport z przeglądu produktów
+Product Reviews,Recenzje produktu
+Details,Detale
+Sales,Obroty
+Bestsellers Report,Raport o bestsellerach
+Coupons,Kupony
+Coupons Report,Raport kuponów
+Invoice Report,Raport faktury
+Refunds Report,Raport o zwrocie kosztów
+Sales Report,Raport sprzedaży
+Orders Report,Raport zamówień
+Shipping Report,Raport o wysyłce
+Tax Report,Raport podatkowy
+Shopping Cart,Wózek sklepowy
+Abandoned Carts,Opuszczone wózki
+Customer Shopping Carts,Koszyk klienta
+Products in Carts,Produkty w wózkach
+Statistics,Statystyka
+No report code is specified.,Nie określono kodu raportu.
+You refreshed lifetime statistics.,Odświeżyłeś statystyki życia.
+We can't refresh lifetime statistics.,Nie możemy odświeżyć statystyk z całego życia.
+Recent statistics have been updated.,Ostatnie statystyki zostały zaktualizowane.
+We can't refresh recent statistics.,Nie możemy odświeżyć ostatnich statystyk.
+The product type filter specified is incorrect.,Określony filtr typu produktu jest niepoprawny.
+Order Taxes Report Grouped by Tax Rates,Zamów raport podatkowy pogrupowany według stawek podatkowych
+Total Invoiced VS Paid Report,Całkowity raport płatnych VS fakturowanych
+Promotion Coupons Usage Report,Raport użycia kuponów promocyjnych
+Bestsellers,Bestsellery
+Most Viewed Products Report,Najczęściej oglądane produkty Raport
+Error,Błąd
+Show By,Pokaż wg
+Select Date,Wybierz datę
+Customers that have Wish List: %1,"Klienci, którzy mają listę życzeń: %1"
+Number of Wish Lists: %1,Liczba list życzeń: %1
+Number of items bought from a Wish List: %1,Liczba przedmiotów kupionych z listy życzeń: %1
+Number of times Wish Lists have been shared (emailed): %1,Liczba udostępnień list życzeń (przesłanych pocztą e-mail): %1
+Number of Wish List referrals: %1,Liczba odsyłaczy list życzeń: %1
+Number of Wish List conversions: %1,Liczba konwersji listy życzeń: %1
+Show Report For:,Pokaż raport dla:
+All Websites,Wszystkie strony internetowe
+Recently Viewed,Ostatnio oglądane
+Add to Cart,Dodaj do koszyka
+In stock,Na stanie
+Out of stock,Obecnie brak na stanie
+Add to Wish List,Dodaj do listy życzeń
+Add to Compare,Dodaj do porównania
+Recently Compared,Ostatnio porównane
+Learn More,Ucz się więcej
+Marketing,Marketing
+Products in Cart,Produkty w koszyku
+Abandoned Cart,Opuszczony wózek
+Search Terms,Wyszukaj warunki
+By Customers,Przez klientów
+By Products,Według produktów
+Refunds,Zwroty
+Order Total,Suma zamówienia
+Order Count,Liczba zamówień
+New,Nowy
+Ordered,Zamówione
+Recently Viewed/Compared Products,Ostatnio oglądane / porównywane produkty
+Show for Current,Pokaż dla bieżącego
+Default Recently Viewed Products Count,Domyślnie Ostatnio oglądane produkty Count
+Default Recently Compared Products Count,Domyślnie Ostatnio porównywane produkty
+Dashboard,Deska rozdzielcza
+Year-To-Date Starts,Rozpoczyna się rok
+Current Month Starts,Bieżący miesiąc się rozpoczyna
+Select day of the month.,Wybierz dzień miesiąca.
+Recently Viewed Products,ostatnio oglądane produkty
+List of Products Recently Viewed by Visitor,Lista produktów Ostatnio oglądane przez użytkownika
+Number of Products to display,Liczba produktów do wyświetlenia
+Viewed Products Grid Template,Oglądane produkty Szablon siatki
+Viewed Products List Template,Oglądany szablon listy produktów
+Viewed Products Images and Names Template,Oglądane produkty Obrazy i szablon nazw
+Viewed Products Names Only Template,Przeglądano tylko szablony nazw produktów
+Viewed Products Images Only Template,Oglądane produkty Tylko szablony
+Recently Compared Products,Ostatnio porównywane produkty
+List of Products Recently Compared and Removed from the Compare List by Visitor,Lista produktów ostatnio porównywanych i usuwanych z listy porównawczej według użytkowników
+Compared Products Grid Template,Porównywane produkty Szablon siatki
+Compared Products List Template,Porównywany szablon listy produktów
+Compared Products Images and Names Template,Porównywane produkty Obrazy i szablon nazw
+Compared Product Names Only Template,Porównywany szablon tylko nazw produktów
+Compared Product Images Only Template,Porównywany szablon tylko do zdjęć produktów
+Average,Średni
+Stock Quantity,Ilość zapasów
+Ordered Quantity,Zamówiona ilość
+The report displays the top 5 most viewed products for each interval.,Raport wyświetla 5 najczęściej oglądanych produktów dla każdego interwału.
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","Aby zapewnić dokładne raportowanie, pamiętaj, aby odświeżyć statystyki dotyczące czasu życia za każdym razem, gdy zmienisz strefę czasową."
+Guest,Gość
+Action,Akcja
+Average (Approved),Średnia (zatwierdzona)
+Last Review,Ostatni przegląd
+Order Created,Zamówienie utworzone
+Order Updated,Zamówienie zaktualizowane
+The Order Updated report is created in real time and does not require a refresh.,Raport Aktualizacja zamówienia jest tworzony w czasie rzeczywistym i nie wymaga odświeżania.
+Last Invoice Created Date,Data utworzenia ostatniej faktury
+Last Credit Memo Created Date,Ostatnia data utworzenia noty kredytowej
+First Invoice Created Date,Data utworzenia pierwszej faktury
+Refresh Lifetime Statistics,Odśwież statystyki dotyczące czasu życia
+Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.,Czy na pewno chcesz teraz odświeżyć statystyki czasu życia? Ta operacja może spowolnić zakupy klientów.
+Refresh Statistics for the Last Day,Odśwież statystyki dla ostatniego dnia
+Are you sure you want to refresh statistics for the last day?,Czy na pewno chcesz odświeżyć statystyki na ostatni dzień?
+Report,Raport
+Description,Opis
+undefined,niezdefiniowany
