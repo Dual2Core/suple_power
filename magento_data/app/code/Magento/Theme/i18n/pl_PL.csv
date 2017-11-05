@@ -141,7 +141,7 @@ We don't recognize this file extension.,Nie rozpoznajemy tego rozszerzenia pliku
 Empty,Pusty
 1 column,1 kolumna
 Configuration,Konfiguracja
-Default welcome msg!,Domyślne mile widziane wiadomości!
+Default welcome msg!,Witaj w% store_name.
 "Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. Wszelkie prawa zastrzeżone."
 Design Config Grid,Zaprojektuj siatkę konfiguracji
 Rebuild design config grid index,Przebuduj indeks siatki konfiguracji projektu
