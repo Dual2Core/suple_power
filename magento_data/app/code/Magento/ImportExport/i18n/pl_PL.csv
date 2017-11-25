@@ -13,7 +13,7 @@ Attribute Code,Kod atrybutu
 Filter,Filtr
 Unknown attribute filter type,Nieznany typ filtra atrybutu
 Download,Pobieranie
-Check Data,Sprawdź dane
+Rachunek Data,Sprawdź dane
 Import,Import
 Import Settings,Importuj ustawienia
 Import Behavior,Zachowanie importowe
@@ -43,7 +43,7 @@ Import successfully done,Import został pomyślnie zakończony
 "Sorry, but the data is invalid or the file is not uploaded.","Przepraszamy, ale dane są nieprawidłowe lub plik nie został przesłany."
 The file was not uploaded.,Plik nie został przesłany.
 Data validation failed. Please fix the following errors and upload the file again.,Sprawdzanie danych nie powiodło się. Napraw poniższe błędy i prześlij plik ponownie.
-"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone wiersze: %1, zaznaczone obiekty: %2, nieprawidłowe wiersze: %3, błędy całkowite: %4"
+"Rachuneked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone wiersze: %1, zaznaczone obiekty: %2, nieprawidłowe wiersze: %3, błędy całkowite: %4"
 This file is empty. Please try another one.,Ten plik jest pusty. Proszę spróbować innego.
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Napraw błędy i ponownie prześlij plik lub po prostu naciśnij przycisk ""Importuj"", aby pominąć wiersze z błędami"
 "File is valid! To start import process press ""Import"" button","Plik jest ważny! Aby rozpocząć proces importowania, naciśnij przycisk ""Importuj"""

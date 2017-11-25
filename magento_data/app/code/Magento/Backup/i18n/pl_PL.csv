@@ -1,7 +1,7 @@
 System Backup,Kopia zapasowa systemu
 Database and Media Backup,Kopia zapasowa bazy danych i nośników
 Database Backup,Kopia zapasowa bazy danych
-"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum można skompresować za pomocą <a href=""%1"">% 2 </a> w systemach Windows."
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum można skompresować za pomocą <a href=""%1""> %2 </a> w systemach Windows."
 You need more permissions to activate maintenance mode right now.,"Potrzebujesz więcej uprawnień, aby włączyć teraz tryb konserwacji."
 "To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Aby utworzyć kopie zapasowe, usuń zaznaczenie opcji ""Umieść magazyn w tryb konserwacji"" lub zaktualizuj uprawnienia."
 Something went wrong while putting your store into maintenance mode.,Wystąpił błąd podczas wprowadzania sklepu do trybu konserwacji.

@@ -426,7 +426,7 @@ Secure Base URL for User Media Files,Bezpieczny adres bazowy dla plików nośnik
 Use Secure URLs on Storefront,Użyj bezpiecznych adresów URL na stronie sklepu,,
 Use Secure URLs in Admin,Użyj bezpiecznych adresów URL w usłudze Admin,,
 Enable HTTP Strict Transport Security (HSTS),Włącz zabezpieczenie HTTP Strict Transport Security (HSTS),,
-Upgrade Insecure Requests,Uaktualnij niepoprawne żądania,,
+Upgrade Insecure Requests,Uaktualni  niepoprawne żądania,,
 Offloader header,Głowica wyładowcza,,
 Default Pages,Domyślne strony,,
 Default Web URL,Domyślny adres internetowy,,

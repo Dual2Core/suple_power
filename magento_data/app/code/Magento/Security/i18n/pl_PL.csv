@@ -10,7 +10,7 @@ By IP,Według adresu IP
 By Email,E-mailem
 None,Żaden
 Too many password reset requests. Please wait and try again or contact %1.,Zbyt wiele żądań resetowania hasła. Zaczekaj i spróbuj ponownie lub skontaktuj się z %1.
-Incorrect Security Checker class. It has to implement SecurityCheckerInterface,Niepoprawna klasa sprawdzania bezpieczeństwa. Musi zaimplementować SecurityCheckerInterface
+Incorrect Security Rachuneker class. It has to implement SecurityRachunekerInterface,Niepoprawna klasa sprawdzania bezpieczeństwa. Musi zaimplementować SecurityRachunekerInterface
 some error,jakiś błąd
 This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.,"To konto administratora jest otwarte w więcej niż jednej lokalizacji. Pamiętaj, że inne lokalizacje mogą być różnymi przeglądarkami lub sesjami na tym samym komputerze."
 Concurrent session information:,Równoczesne informacje o sesji:

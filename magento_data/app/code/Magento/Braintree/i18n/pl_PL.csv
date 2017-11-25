@@ -66,7 +66,7 @@ Delete,Kasować
 Credit Card Information,Informacje o karcie kredytowej
 What is this?,Co to jest?
 Save for later use.,Zaoszczędź do późniejszego użycia.
-Place Order,Złożyć zamówienie
+Place Order,Złóż zamówienie
 This payment is not available,Ta płatność nie jest dostępna
 MM,MM
 YY,YY
@@ -101,7 +101,7 @@ Country Specific Credit Card Types,Rodzaje kart kredytowych poszczególnych kraj
 PayPal through Braintree,PayPal poprzez Braintree
 Override Merchant Name,Zastąp nazwę handlowca
 Require Customer's Billing Address,Wymagaj adresu rozliczeniowego klienta
-Allow to Edit Shipping Address Entered During Checkout on PayPal Side,Zezwól na edycję adresu wysyłki w trakcie dokonywania płatności w serwisie PayPal
+Allow to Edit Shipping Address Entered During Rachunekout on PayPal Side,Zezwól na edycję adresu wysyłki w trakcie dokonywania płatności w serwisie PayPal
 Display on Shopping Cart,Wyświetl w koszyku
 Skip Order Review,Pomiń zamówienie
 3D Secure Verification Settings,Ustawienia weryfikacji 3D Secure

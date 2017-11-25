@@ -115,7 +115,7 @@ Page,Strona
 Previous,Poprzedni
 You're currently reading page,Aktualnie czytasz stronę
 Next,Następny
-Show,Pokazać
+Show,Pokaż
 per page,na stronę
 About the calendar,O kalendarzu
 Close,Blisko
@@ -133,7 +133,7 @@ Password you set when creating account,Hasło ustawione podczas tworzenia konta
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapomniałeś hasła do konta? Kliknij <a href=""%reset_url""> tutaj </a>, aby je zresetować."
 "When you sign in to your account, you will be able to:",Po zalogowaniu się na konto możesz:
 Proceed through checkout faster,Przejdź szybciej do kasy
-Check the status of orders,Sprawdź status zamówień
+Rachunek the status of orders,Sprawdź status zamówień
 View past orders,Wyświetl wcześniejsze zamówienia
 Store alternative addresses (for shipping to multiple family members and friends),Przechowuj alternatywne adresy (w przypadku wysyłki do wielu członków rodziny i przyjaciół)
 We could not detect a size.,Nie mogliśmy wykryć rozmiaru.

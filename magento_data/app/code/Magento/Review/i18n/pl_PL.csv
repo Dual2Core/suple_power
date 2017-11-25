@@ -15,7 +15,7 @@ Next,Następny
 Delete Review,Usuń recenzję
 Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
 Edit Review '%1',"Edytuj recenzję "" %1"""
-"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'""> %2% ​​3 </a> <a href=""mailto:%4""> (% 4) </a>"
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'""> %2% ​​3 </a> <a href=""mailto:%4""> ( %4) </a>"
 Administrator,Administrator
 Guest,Gość
 Author,Autor

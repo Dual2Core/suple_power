@@ -14,15 +14,15 @@ Text,Tekst
 HTML,HTML
 Applied,Stosowany
 Store View,Widok sklepu
-Checkbox Text,Tekst pola wyboru
+Rachunekbox Text,Tekst pola wyboru
 Content,Zadowolony
 Content Height (css),Wysokość zawartości (css)
 Content Height,Wysokość zawartości
 ID,ID
 Condition,Stan
 Sales,Obroty
-Checkout Conditions,Warunki płatności
-Checkout Terms and Conditions,Warunki korzystania z usługi Checkout
+Rachunekout Conditions,Warunki płatności
+Rachunekout Terms and Conditions,Warunki korzystania z usługi Rachunekout
 This condition no longer exists.,Ten warunek już nie istnieje.
 You deleted the condition.,Usunięto warunek.
 Something went wrong  while deleting this condition.,Wystąpił błąd podczas usuwania tego warunku.
@@ -35,7 +35,7 @@ Manually,Ręcznie
 Please agree to all the terms and conditions before placing the order.,Prosimy o wyrażenie zgody na wszystkie warunki przed złożeniem zamówienia.
 Unable to save checkout agreement %1,Nie można zapisać umowy zlecenia %1
 Unable to remove checkout agreement %1,Nie można usunąć umowy z kasą %1
-"Checkout agreement with specified ID ""%1"" not found.","Nie znaleziono umowy z określonym identyfikatorem "" %1""."
+"Rachunekout agreement with specified ID ""%1"" not found.","Nie znaleziono umowy z określonym identyfikatorem "" %1""."
 Close,Blisko
 Terms & Conditions,Zasady i Warunki
 Enable Terms and Conditions,Włącz zasady i warunki

@@ -1,4 +1,4 @@
-New Shipment for Order #%1,Nowa przesyłka dla zamówienia nr% 1
+New Shipment for Order #%1,Nowa przesyłka dla zamówienia nr %1
 Submit Shipment,Prześlij przesyłkę
 You are trying to add a quantity for some products that doesn't match the quantity that was shipped.,"Próbujesz dodać ilość dla niektórych produktów, które nie odpowiadają ilości, która została wysłana."
 Products should be added to package(s),Produkty należy dodać do pakietu (ów)
@@ -11,12 +11,12 @@ Are you sure you want to send a Shipment email to customer?,Czy na pewno chcesz 
 Print,Wydrukować
 the shipment email was sent,wiadomość e-mail o wysyłce została wysłana
 the shipment email is not sent,e-mail wysyłkowy nie jest wysyłany
-Shipment #%1 | %3 (%2),Przesyłka #% 1 | % 3 (% 2)
+Shipment #%1 | %3 (%2),Przesyłka # %1 |  %3 ( %2)
 Create Shipping Label...,Utwórz etykietę wysyłkową ...
 Print Shipping Label,Wydrukuj etykietę wysyłkową
 Show Packages,Pokaż pakiety
 About Your Shipment,O Twojej przesyłce
-Order # %1,Zamówienie nr% 1
+Order # %1,Zamówienie nr %1
 Back to My Orders,Powrót do moich zamówień
 View Another Order,Wyświetl kolejne zamówienie
 Please enter a comment.,Wprowadź komentarz.
@@ -32,7 +32,7 @@ You sent the shipment.,Wysłałeś przesyłkę.
 Cannot send shipment information.,Nie można wysłać informacji o przesyłce.
 There are no shipping labels related to selected orders.,Brak etykiet wysyłkowych związanych z wybranymi zamówieniami.
 New Shipment,Nowa przesyłka
-We don't recognize or support the file extension in this shipment: %1.,Nie rozpoznajemy ani nie obsługujemy rozszerzenia pliku w tej przesyłce:% 1.
+We don't recognize or support the file extension in this shipment: %1.,Nie rozpoznajemy ani nie obsługujemy rozszerzenia pliku w tej przesyłce: %1.
 We can't initialize shipment for delete tracking number.,Nie możemy zainicjować wysyłki pod kątem usunięcia numeru śledzenia.
 We can't delete tracking number.,Nie możemy usunąć numeru śledzenia.
 We can't load track with retrieving identifier right now.,Nie możemy załadować śladu z pobieraniem identyfikatora już teraz.
@@ -74,10 +74,10 @@ Product,Produkt
 Weight,Waga
 Qty Ordered,Qty Zamówione
 Qty,Ilość
-"No detail for number ""%1""","Brak szczegółów dla numeru ""% 1"""
+"No detail for number ""%1""","Brak szczegółów dla numeru "" %1"""
 Shipping labels is not available.,Etykiety wysyłkowe nie są dostępne.
 Response info is not exist.,Informacje o odpowiedzi nie istnieją.
-Invalid carrier: %1,Nieprawidłowy operator:% 1
+Invalid carrier: %1,Nieprawidłowy operator: %1
 We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.,"Nie mamy wystarczających informacji, aby utworzyć etykiety wysyłki. Upewnij się, że informacje o sklepie i ustawienia są kompletne."
 Per Order,Na zamówienie
 Per Package,Na pakiet
@@ -88,7 +88,7 @@ message,wiadomość
 Email has not been sent,Email nie został wysłany
 Payment &amp; Shipping Method,Płatność i płatność Sposób wysyłki
 Payment Information,Informacje o płatności
-The order was placed using %1.,Zamówienie zostało złożone za pomocą% 1.
+The order was placed using %1.,Zamówienie zostało złożone za pomocą %1.
 Shipping Information,informacje wysyłkowe
 Total Shipping Charges,Całkowite koszty wysyłki
 Incl. Tax,Incl. Podatek

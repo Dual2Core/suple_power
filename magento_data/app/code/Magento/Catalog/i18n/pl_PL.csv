@@ -29,11 +29,11 @@ Save in New Attribute Set,Zapisz w nowym zestawie atrybutów
 Enter Name for New Attribute Set,Wpisz nazwę dla nowego zestawu atrybutów
 Save and Continue Edit,Zapisz i kontynuuj edycję
 Delete Attribute,Usuń atrybut
-"Edit Product Attribute ""%1""","Edytuj atrybut produktu ""% 1"""
+"Edit Product Attribute ""%1""","Edytuj atrybut produktu "" %1"""
 New Product Attribute,Nowy atrybut produktu
 Advanced Attribute Properties,Zaawansowane właściwości atrybutu
 Attribute Code,Kod atrybutu
-This is used internally. Make sure you don't use spaces or more than %1 symbols.,"To jest używane wewnętrznie. Upewnij się, że nie używasz spacji ani symboli% 1."
+This is used internally. Make sure you don't use spaces or more than %1 symbols.,"To jest używane wewnętrznie. Upewnij się, że nie używasz spacji ani symboli %1."
 Default Value,Domyślna wartość
 Unique Value,Unikalna wartość
 Unique Value (not shared with other products),Unikalna wartość (nie dzielona z innymi produktami)
@@ -85,7 +85,7 @@ Back,Plecy
 Reset,Nastawić
 You are about to delete all products in this attribute set. Are you sure you want to do that?,Zamierzasz usunąć wszystkie produkty w tym zestawie atrybutów. Czy na pewno chcesz to zrobić?
 New Set Name,Nowa nazwa zestawu
-Edit Attribute Set '%1',Edytuj zestaw atrybutów '% 1'
+Edit Attribute Set '%1',Edytuj zestaw atrybutów ' %1'
 Empty,Pusty
 Add Attribute,Dodaj atrybut
 Add New Group,Dodaj nową grupę
@@ -140,10 +140,10 @@ Default Values,Wartości domyślne
 Related Products,Produkty powiązane
 Up-sells,Up-sells
 Cross-sells,Cross-sells
-Size for %1,Rozmiar dla% 1
-Watermark File for %1,Plik znaku wodnego dla% 1
-Position of Watermark for %1,Pozycja znaku wodnego dla% 1
-Name in %1,Nazwa w% 1
+Size for %1,Rozmiar dla %1
+Watermark File for %1,Plik znaku wodnego dla %1
+Position of Watermark for %1,Pozycja znaku wodnego dla %1
+Name in %1,Nazwa w %1
 Quantity,Ilość
 Edit,Edytować
 Are you sure?,Jesteś pewny?
@@ -158,7 +158,7 @@ Does this have a weight?,Czy to ma wagę?
 Product,Produkt
 Notify Low Stock RSS,Powiadamiaj o Low Stock RSS
 Low Stock Products,Produkty o niskich zapasach
-%1 has reached a quantity of %2.,% 1 osiągnął ilość% 2.
+%1 has reached a quantity of %2., %1 osiągnął ilość %2.
 Home,Dom
 Go to Home Page,Wróć do strony głównej
 Subscribe to RSS Feed,Subskrybuj kanały RSS
@@ -168,13 +168,13 @@ AM,RANO
 PM,PO POŁUDNIU
 -- Please Select --,-- Proszę wybrać --
 None,Żaden
-New Products from %1,Nowe produkty z% 1
+New Products from %1,Nowe produkty z %1
 New Products,Nowe Produkty
-%1 - Special Products,% 1 - Produkty specjalne
+%1 - Special Products, %1 - Produkty specjalne
 Click for price,Kliknij na cenę
-Special Expires On: %1,Specjalne wygaśnie:% 1
-Price: %1,Cena:% 1
-Special Price: %1,Cena specjalna:% 1
+Special Expires On: %1,Specjalne wygaśnie: %1
+Price: %1,Cena: %1
+Special Price: %1,Cena specjalna: %1
 Special Products,Produkty specjalne
 Manage Catalog Categories,Zarządzaj katalogami kategorii
 Manage Categories,Zarządzaj Kategorie
@@ -182,15 +182,15 @@ You deleted the category.,Usunęła kategorię.
 Something went wrong while trying to delete the category.,Wystąpił błąd podczas próby usunięcia kategorii.
 Categories,Kategorie
 Category is not available for requested store.,Kategoria nie jest dostępna dla wybranego sklepu.
-There was a category move error. %1,Wystąpił błąd w kategorii. % 1
+There was a category move error. %1,Wystąpił błąd w kategorii.  %1
 There was a category move error.,Wystąpił błąd w kategorii.
 You moved the category.,Przeniesiono kategorię.
-"Attribute ""%1"" is required.","Wymagany jest atrybut ""% 1""."
+"Attribute ""%1"" is required.","Wymagany jest atrybut "" %1""."
 You saved the category.,Ty zapisałeś kategorię.
 Something went wrong while saving the category.,"Coś poszło nie tak, zachowując kategorię."
 Please select products for attributes update.,Proszę wybrać produkty do aktualizacji atrybutów.
 Please make sure to define SKU values for all processed products.,"Pamiętaj, aby zdefiniować wartości SKU dla wszystkich przetworzonych produktów."
-A total of %1 record(s) were updated.,Zaktualizowano łącznie% 1 rekordów.
+A total of %1 record(s) were updated.,Zaktualizowano łącznie %1 rekordów.
 Something went wrong while updating the product(s) attributes.,Podczas aktualizowania atrybutów produktu wystąpił błąd.
 Unable to add attribute,Nie można dodać atrybutu
 "Please, specify attributes",Proszę podać atrybuty
@@ -202,13 +202,13 @@ We can't find an attribute to delete.,Nie możemy znaleźć atrybutu do usunięc
 This attribute no longer exists.,Ten atrybut już nie istnieje.
 This attribute cannot be edited.,Nie można edytować tego atrybutu.
 Edit Product Attribute,Edytuj atrybut produktu
-An attribute set named '%1' already exists.,"Zestaw atrybutów o nazwie ""% 1"" już istnieje."
+An attribute set named '%1' already exists.,"Zestaw atrybutów o nazwie "" %1"" już istnieje."
 Something went wrong while saving the attribute.,"Coś poszło nie tak, zachowując atrybut."
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod atrybutu ""% 1"" jest nieprawidłowy. W tym polu należy używać tylko liter (a-z), liczb (0-9) lub podkreślenia (_), pierwszym znakiem powinno być litera."
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod atrybutu "" %1"" jest nieprawidłowy. W tym polu należy używać tylko liter (a-z), liczb (0-9) lub podkreślenia (_), pierwszym znakiem powinno być litera."
 We can't update the attribute.,Nie można zaktualizować atrybutu.
 You saved the product attribute.,Zapisałeś atrybut produktu.
 An attribute with this code already exists.,Atrybut z tym kodem już istnieje.
-An attribute with the same code (%1) already exists.,Atrybut z tym samym kodem (% 1) już istnieje.
+An attribute with the same code (%1) already exists.,Atrybut z tym samym kodem ( %1) już istnieje.
 The value of Admin must be unique.,Wartość Admin musi być unikalna.
 The value of Admin scope can't be empty.,Wartość zakresu Admin nie może być pusta.
 You duplicated the product.,Powielałeś produkt.
@@ -222,7 +222,7 @@ A total of %1 record(s) have been updated.,Zostało zaktualizowane łącznie 1 r
 Something went wrong while updating the product(s) status.,Podczas aktualizowania stanu produktu (s) wystąpił błąd.
 Unable to save product,Nie można zapisać produktu
 You saved the product.,Zapisałeś produkt.
-SKU for product %1 has been changed to %2.,SKU dla produktu% 1 został zmieniony na% 2.
+SKU for product %1 has been changed to %2.,SKU dla produktu %1 został zmieniony na %2.
 The image cannot be removed as it has been assigned to the other image role,"Obraz nie może zostać usunięty, ponieważ został przypisany do innej roli obrazu"
 New Attribute Set,Nowy zestaw atrybutów
 The attribute set has been removed.,Zestaw atrybutów został usunięty.
@@ -233,15 +233,15 @@ Manage Attribute Sets,Zarządzaj zestawami atrybutów
 This attribute set no longer exists.,Ten zestaw atrybutów już nie istnieje.
 You saved the attribute set.,Zapisałeś zestaw atrybutów.
 Something went wrong while saving the attribute set.,Coś poszło nie tak podczas zapisywania zestawu atrybutów.
-You added product %1 to the comparison list.,Dodałeś produkt% 1 do listy porównawczej.
+You added product %1 to the comparison list.,Dodałeś produkt %1 do listy porównawczej.
 You cleared the comparison list.,Wyczyszczono listę porównania.
 Something went wrong  clearing the comparison list.,"Coś poszło nie tak, czyszcząc listę porównawczą."
-You removed product %1 from the comparison list.,Usunął produkt% 1 z listy porównania.
+You removed product %1 from the comparison list.,Usunął produkt %1 z listy porównania.
 1 item,1 pozycja
-%1 items,% 1 elementów
+%1 items, %1 elementów
 Are you sure you want to remove this item from your Compare Products list?,Czy na pewno chcesz usunąć ten element z listy Porównaj produkty?
 Are you sure you want to remove all items from your Compare Products list?,Czy na pewno chcesz usunąć wszystkie elementy z listy Porównaj produkty?
-Invalid attribute %1,Nieprawidłowy atrybut% 1
+Invalid attribute %1,Nieprawidłowy atrybut %1
 Grid,Krata
 List,Lista
 All,Wszystko
@@ -253,7 +253,7 @@ Make sure the To Date is later than or the same as the From Date.,"Upewnij się,
 We can't move the category because the parent category name matches the child category name.,"Nie można przenieść tej kategorii, ponieważ nazwa kategorii nadrzędnej jest zgodna z nazwą kategorii podrzędnej."
 Something went wrong while getting the image url.,Coś poszło nie tak podczas pobierania adresu URL obrazu.
 Can't delete root category.,Nie można usunąć kategorii głównej.
-"The value of attribute ""%1"" must be unique.","Wartość atrybutu ""% 1"" musi być unikatowa."
+"The value of attribute ""%1"" must be unique.","Wartość atrybutu "" %1"" musi być unikatowa."
 Default Product Listing Sort by does not exist in Available Product Listing Sort By.,Domyślna lista produktów Sortuj według nie istnieje w dostępnym zestawieniu produktów Sortuj.
 No layout updates,Brak aktualizacji układu
 Products only,Tylko produkty
@@ -261,13 +261,13 @@ Static block only,Tylko blok statyczny
 Static block and products,Blok statyczny i produkty
 Please select a static block.,Wybierz blok statyczny.
 frontend_label,frontend_label
-"Could not save product ""%1"" with position %2 to category %3","Nie można zapisać produktu ""% 1"" z pozycją% 2 do kategorii% 3"
+"Could not save product ""%1"" with position %2 to category %3","Nie można zapisać produktu "" %1"" z pozycją %2 do kategorii %3"
 Category does not contain specified product,Kategoria nie zawiera określonego produktu
 "Could not save product ""%product"" with position %position to category %category","Nie udało się zapisać produktu ""% product"" z pozycją% position do kategorii% category"
 Operation do not allow to move a parent category to any of children category,Działanie nie zezwala na przenoszenie kategorii nadrzędnej do kategorii dzieci
 Could not move category,Nie można przenieść kategorii
-Could not save category: %1,Nie można zapisać kategorii:% 1
-Cannot delete category with id %1,Nie można usunąć kategorii z identyfikatorem% 1
+Could not save category: %1,Nie można zapisać kategorii: %1
+Cannot delete category with id %1,Nie można usunąć kategorii z identyfikatorem %1
 -- Please Select a Category --,- Proszę wybrać kategorię -
 Grid Only,Tylko siatka
 List Only,Tylko lista
@@ -291,25 +291,25 @@ Top/Right,W prawym górnym rogu
 Bottom/Left,Na dole po lewej
 Bottom/Right,Prawy dolny
 Center,Centrum
-%1 doesn't extends \Magento\Framework\Model\AbstractModel,% 1 nie rozciąga się \ Magento \ Framework \ Model \ AbstractModel
+%1 doesn't extends \Magento\Framework\Model\AbstractModel, %1 nie rozciąga się \ Magento \ Framework \ Model \ AbstractModel
 Something went wrong while saving the file(s).,Podczas zapisywania pliku (plików) wystąpił błąd.
 File can not be saved to the destination folder.,Plik nie może zostać zapisany w folderze docelowym.
-"Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""% 1""."
+"Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV "" %1""."
 We can't rebuild the index for an undefined product.,Nie można odbudować indeksu dla niezdefiniowanego produktu.
 Bad value was supplied.,Zła wartość została dostarczona.
-The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module,"Moduł Katalogu plazmowego ma ograniczony atrybut do filtrowania i / lub sortowania% 2 $ d. Aktualnie istnieje% 1 $ d z nich. Zwiększ liczbę atrybutów, które można filtrować / sortować, aby móc korzystać z tego modułu"
-"Unsupported product type ""%1"".","Nieobsługiwany typ produktu ""% 1""."
+The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module,"Moduł Katalogu plazmowego ma ograniczony atrybut do filtrowania i / lub sortowania %2 $ d. Aktualnie istnieje %1 $ d z nich. Zwiększ liczbę atrybutów, które można filtrować / sortować, aby móc korzystać z tego modułu"
+"Unsupported product type ""%1"".","Nieobsługiwany typ produktu "" %1""."
 Please correct the category.,Proszę poprawić kategorię.
 Must be category model instance or its id.,Musi być przykładem modelu kategorii lub jego identyfikatorem.
 The attribute model is not defined.,Model atrybutu nie jest zdefiniowany.
 Category,Kategoria
-%1 - %2,% 1 -% 2
-%1 was not found in algorithms,% 1 nie został znaleziony w algorytmach
-%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface,% 1 nie rozszerza \ Magento \ Catalog \ Model \ Layer \ Filter \ Dynamic \ AlgorithmInterface
-%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Layer \ Filter \ AbstractFilter
+%1 - %2, %1 - %2
+%1 was not found in algorithms, %1 nie został znaleziony w algorytmach
+%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface, %1 nie rozszerza \ Magento \ Catalog \ Model \ Layer \ Filter \ Dynamic \ AlgorithmInterface
+%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter, %1 nie rozciąga się \ Magento \ Catalog \ Model \ Layer \ Filter \ AbstractFilter
 The filter must be an object. Please set the correct filter.,Filtr musi być obiektem. Proszę ustawić prawidłowy filtr.
 Clear Price,Wyczyść cenę
-%1 and above,% 1 i powyżej
+%1 and above, %1 i powyżej
 The filters must be an array.,Filtry muszą być tablicą.
 Product was not registered,Produkt nie został zarejestrowany
 Store was not registered,Sklep nie został zarejestrowany
@@ -317,12 +317,12 @@ Group price must be a number greater than 0.,Cena grupy musi wynosić więcej ni
 Media Gallery converter should be an instance of EntryConverterInterface.,Konwerter Media Gallery powinien być przykładem InputConverterInterface.
 There is no MediaGalleryEntryConverter for given type,Dla danego typu nie ma MediaGalleryEntryConverter
 Please enter a number 0 or greater in this field.,W tym polu wprowadź liczbę 0 lub większą.
-"The value of attribute ""%1"" must be set","Wartość atrybutu ""% 1"" musi być ustawiona"
+"The value of attribute ""%1"" must be set","Wartość atrybutu "" %1"" musi być ustawiona"
 SKU length should be %1 characters maximum.,Długość SKU powinna wynosić maksymalnie 1%.
 Please enter a valid number in this field.,W tym polu wprowadź prawidłowy numer.
 "We found a duplicate website, tier price, customer group and quantity.","Znaleźliśmy duplikat strony internetowej, tier price, grupa klientów i ilość."
 Percentage value must be a number between 0 and 100.,Wartość procentowa musi wynosić od 0 do 100.
-Invalid option id %1,Nieprawidłowa identyfikator opcji% 1
+Invalid option id %1,Nieprawidłowa identyfikator opcji %1
 Can not create attribute set based on non product attribute set.,Nie można utworzyć zestawu atrybutów na podstawie zestawu atrybutów innych firm.
 Can not create attribute set based on not existing attribute set,Nie można utworzyć zestawu atrybutów na podstawie nieistniejącego zestawu atrybutów
 Provided Attribute set non product Attribute set.,Dostarczony zestaw atrybutów ustawia zestaw atrybutów innego produktu.
@@ -330,7 +330,7 @@ Use config,Użyj config
 Enabled,Włączone
 Disabled,Niepełnosprawny
 Attribute Set already exists.,Zestaw atrybutów już istnieje.
-We couldn't copy file %1. Please delete media with non-existing images and try again.,Nie można skopiować pliku% 1. Usuń nośniki z obrazami nie istniejącymi i spróbuj ponownie.
+We couldn't copy file %1. Please delete media with non-existing images and try again.,Nie można skopiować pliku %1. Usuń nośniki z obrazami nie istniejącymi i spróbuj ponownie.
 The image content is not valid.,Treść obrazu jest nieprawidłowa.
 Cannot save product.,Nie można zapisać produktu.
 Failed to save new media gallery entry.,Nie udało się zapisać nowej galerii multimediów.
@@ -339,7 +339,7 @@ Such product doesn't exist,Taki produkt nie istnieje
 Such image doesn't exist,Taki obraz nie istnieje
 The image does not exist.,Obraz nie istnieje.
 Please correct the image file type.,Proszę poprawić typ pliku obrazu.
-We couldn't move this file: %1.,Nie można przenieść tego pliku:% 1.
+We couldn't move this file: %1.,Nie można przenieść tego pliku: %1.
 The option type to get group instance is incorrect.,Typ opcji w celu uzyskania instancji grupy jest niepoprawny.
 Select type options required values rows.,Wybierz typ opcji wymagane wiersze wartości.
 ProductSku should be specified,Należy określić ProductSku
@@ -353,17 +353,17 @@ The configuration item option instance in options group is incorrect.,Opcja elem
 The configuration item instance in options group is incorrect.,Instancja elementu konfiguracji w grupie opcji jest nieprawidłowa.
 The BuyRequest instance in options group is incorrect.,Instancja BuyRequest w grupie opcji jest nieprawidłowa.
 We can't add the product to the cart because of an option validation issue.,Nie możemy dodać produktu do koszyka z powodu kwestii walidacji opcji.
-%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Option \ Type \ DefaultType
+%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType, %1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Option \ Type \ DefaultType
 The file options format is not valid.,Format opcji plików nie jest prawidłowy.
 px.,px.
-The file '%1' for '%2' has an invalid extension.,Plik '% 1' dla '% 2' ma nieprawidłowe rozszerzenie.
-The maximum allowed image size for '%1' is %2x%3 px.,Maksymalny dozwolony rozmiar obrazu dla '% 1' to% 2x% 3 px.
-The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.,"Plik ""% 1"" przesłany jest większy niż dozwolony przez nasz serwer% 2 megabajtów."
-The file '%1' is empty. Please choose another one,Plik '% 1' jest pusty. Proszę wybrać inny
-The file '%1' is invalid. Please choose another one,Plik '% 1' jest nieprawidłowy. Proszę wybrać inny
-File '%1' is not an image.,Plik '% 1' nie jest obrazem.
+The file '%1' for '%2' has an invalid extension.,Plik ' %1' dla ' %2' ma nieprawidłowe rozszerzenie.
+The maximum allowed image size for '%1' is %2x%3 px.,Maksymalny dozwolony rozmiar obrazu dla ' %1' to %2x %3 px.
+The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.,"Plik "" %1"" przesłany jest większy niż dozwolony przez nasz serwer %2 megabajtów."
+The file '%1' is empty. Please choose another one,Plik ' %1' jest pusty. Proszę wybrać inny
+The file '%1' is invalid. Please choose another one,Plik ' %1' jest nieprawidłowy. Proszę wybrać inny
+File '%1' is not an image.,Plik ' %1' nie jest obrazem.
 Validation failed. Required options were not filled or the file was not uploaded.,Nieudana walidacja. Wymagane opcje nie zostały wypełnione lub plik nie został przesłany.
-The file you uploaded is larger than %1 Megabytes allowed by server,Plik przesłany jest większy niż% 1 megabajty dozwolone przez serwer
+The file you uploaded is larger than %1 Megabytes allowed by server,Plik przesłany jest większy niż %1 megabajty dozwolone przez serwer
 Option required.,Wymagana opcja.
 The file is empty. Please choose another one,Plik jest pusty. Proszę wybrać inny
 Some of the selected item options are not currently available.,Niektóre z wybranych opcji nie są obecnie dostępne.
@@ -388,51 +388,51 @@ Could not delete Tier Prices,Nie można usunąć cen podstawowych
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Znaleźliśmy zduplikowaną stronę internetową, cenę detaliczną, grupę klientów i ilość: Grupa klientów =% customerGroup, identyfikator witryny =% websiteId, Quantity =% qty. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Brak takiego podmiotu z grupą klientów =% customerGroup. Identyfikator wiersza: SKU =% SKU, Identyfikator witryny:% websiteId, Grupa klientów:% customerGroup, Ilość:% qty."
 This product doesn't have tier price,Ten produkt nie ma ceny
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Produkt nie ma ceny grupowej z takimi danymi: customerGroupId = '% 1', strona =% 2, qty =% 3"
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Produkt nie ma ceny grupowej z takimi danymi: customerGroupId = ' %1', strona = %2, qty = %3"
 Invalid data provided for tier_price,Nieprawidłowe dane podano dla tier_price
 Could not save group price,Nie udało się zapisać ceny grupowej
 Please provide valid data,Podaj ważne dane
-Values of following attributes are invalid: %1,Wartości następujących atrybutów są nieważne:% 1
-"We can't create writeable directory ""%1"".","Nie można utworzyć katalogu do zapisu ""% 1""."
+Values of following attributes are invalid: %1,Wartości następujących atrybutów są nieważne: %1
+"We can't create writeable directory ""%1"".","Nie można utworzyć katalogu do zapisu "" %1""."
 The file upload failed.,Przesyłanie plików nie powiodło się.
 The product has required options.,Produkt wymaga opcji.
 Something went wrong while processing the request.,Podczas przetwarzania żądania wystąpił błąd.
-%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ AbstractType
-%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price,% 1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ Price
+%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType, %1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ AbstractType
+%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price, %1 nie rozciąga się \ Magento \ Catalog \ Model \ Product \ Type \ Price
 Not Visible Individually,Nie jest widoczny indywidualnie
 Search,Szukanie
 "Catalog, Search","Katalog, wyszukiwanie"
 Something went wrong while removing products from the websites.,Wystąpił błąd podczas usuwania produktów ze stron internetowych.
 Something went wrong while adding products to websites.,Coś poszło nie tak podczas dodawania produktów do witryn internetowych.
-"Group with id ""%1"" does not exist.","Grupa z id ""% 1"" nie istnieje."
+"Group with id ""%1"" does not exist.","Grupa z id "" %1"" nie istnieje."
 Attribute group that contains system attributes can not be deleted,"Nie można usunąć grupy atrybutów, która zawiera atrybuty systemu"
 Collection provider is not registered,Dostawca kolekcji nie jest zarejestrowany
-Unknown link type: %1,Nieznany typ łącza:% 1
-"Provided link type ""%1"" does not exist","Podany typ łącza ""% 1"" nie istnieje"
+Unknown link type: %1,Nieznany typ łącza: %1
+"Provided link type ""%1"" does not exist","Podany typ łącza "" %1"" nie istnieje"
 Invalid data provided for linked products,Nieprawidłowe dane dostarczone dla połączonych produktów
-Product with SKU '%1' is not linked to product with SKU '%2',Produkt z SKU '% 1' nie jest powiązany z produktem z SKU '% 2'
-Product %1 doesn't have linked %2 as %3,Produkt% 1 nie ma powiązanego% 2 jako% 3
+Product with SKU '%1' is not linked to product with SKU '%2',Produkt z SKU ' %1' nie jest powiązany z produktem z SKU ' %2'
+Product %1 doesn't have linked %2 as %3,Produkt %1 nie ma powiązanego %2 jako %3
 Requested product doesn't exist,Żądany produkt nie istnieje
 Requested product does not support images.,Żądany produkt nie obsługuje zdjęć.
-"Product with SKU ""%1"" does not exist","Produkt z SKU ""% 1"" nie istnieje"
-Invalid product data: %1,Nieprawidłowe dane produktu:% 1
+"Product with SKU ""%1"" does not exist","Produkt z SKU "" %1"" nie istnieje"
+Invalid product data: %1,Nieprawidłowe dane produktu: %1
 Database connection error,Błąd połączenia z bazą danych
 Database deadlock found when trying to get lock,Blokada bazy danych została znaleziona podczas próby zablokowania
 Database lock wait timeout exceeded,Przekroczono limit czasu oczekiwania na blokadę bazy danych
-Unable to remove product %1,Nie można usunąć produktu% 1
+Unable to remove product %1,Nie można usunąć produktu %1
 There are not websites for assign to product,Nie ma stron do przypisania produktu
-"Could not assign product ""%1"" to websites ""%2""","Nie można przypisać produktu ""% 1"" do witryn ""% 2"""
-"Could not save product ""%1"" with websites %2","Nie można zapisać produktu ""% 1"" ze stronami internetowymi% 2"
+"Could not assign product ""%1"" to websites ""%2""","Nie można przypisać produktu "" %1"" do witryn "" %2"""
+"Could not save product ""%1"" with websites %2","Nie można zapisać produktu "" %1"" ze stronami internetowymi %2"
 We cannot determine the field name.,Nie możemy ustalić nazwy pola.
-Attribute '%1' is locked. %2,Atrybut '% 1' jest zablokowany. % 2
-Do not change the scope. %1,Nie zmieniaj zakresu. % 1
-Processor %1 doesn't implement BaseSelectProcessorInterface,Procesor% 1 nie implementuje BaseSelectProcessorInterface
+Attribute '%1' is locked. %2,Atrybut ' %1' jest zablokowany.  %2
+Do not change the scope. %1,Nie zmieniaj zakresu.  %1
+Processor %1 doesn't implement BaseSelectProcessorInterface,Procesor %1 nie implementuje BaseSelectProcessorInterface
 A product type is not defined for the indexer.,Typ produktu nie jest zdefiniowany dla indeksera.
-%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice,% 1 nie rozszerza \ Magento \ Catalog \ Model \ ResourceModel \ Product \ Indexer \ Price \ DefaultPrice
-Product with SKU %1 is not linked to product with SKU %2,Produkt z SKU% 1 nie jest powiązany z produktem z SKU% 2
+%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice, %1 nie rozszerza \ Magento \ Catalog \ Model \ ResourceModel \ Product \ Indexer \ Price \ DefaultPrice
+Product with SKU %1 is not linked to product with SKU %2,Produkt z SKU %1 nie jest powiązany z produktem z SKU %2
 Multiple Select,Wybór wielokrotny
 Dropdown,Upuścić
-%1 doesn't extend \Magento\Framework\Filter\Template,% 1 nie rozszerza \ Magento \ Framework \ Filter \ Template
+%1 doesn't extend \Magento\Framework\Filter\Template, %1 nie rozszerza \ Magento \ Framework \ Filter \ Template
 As low as,Tak niski jak
 test,test
 Could not get extension attributes,Nie można uzyskać atrybutów rozszerzenia
@@ -467,7 +467,7 @@ Max Characters,Maksymalna liczba znaków
 Compatible File Extensions,Kompatybilne rozszerzenia plików
 Maximum Image Size,Maksymalny rozmiar obrazu
 Please leave blank if it is not an image.,"Opuść puste, jeśli nie jest to obraz."
-%1,% 1
+%1, %1
 This item has weight,Ten przedmiot ma wagę
 This item has no weight,Ten przedmiot nie ma wagi
 Set Product as New From,Ustaw produkt jako nowy
@@ -540,14 +540,14 @@ We can't save custom-defined options for bundles with dynamic pricing.,Nie może
 Delete Custom Option,Usuń opcję niestandardową
 Sort Custom Options,Sortuj opcje niestandardowe
 Input Type,Typ wejścia
-%1 <span>x</span> %2 <span>px.</span>,% 1 <span> x </ span>% 2 <span> px. </ Span>
+%1 <span>x</span> %2 <span>px.</span>, %1 <span> x </ span> %2 <span> px. </ Span>
 Sort Custom Option,Sortuj opcję niestandardową
 Item Price,Cena przedmiotu
 Action,Akcja
 and above,i powyżej
 Delete Tier,Usuń warstwę
 Product In Websites,Produkt w witrynach internetowych
-(Copy data from: %1),(Kopiuj dane z:% 1)
+(Copy data from: %1),(Kopiuj dane z: %1)
 Browse to find or drag image here,"Przeglądaj, aby znaleźć lub przeciągnąć obraz tutaj"
 Delete image,Usuń zdjęcie
 Hidden,Ukryty
@@ -572,9 +572,9 @@ Select Visible,Wybierz Widoczne
 Unselect Visible,Usuń zaznaczenie
 Special Price,Cena promocyjna
 Regular Price,Normalna cena
-Buy %1 for: ,Kup% 1 dla:
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup% 1 dla% 2 każdego i <strong class = ""benefit""> zapisz <span class = ""percent tier-% 3""> & nbsp;% 4 </ span>% </ strong>"
-Buy %1 for %2 each,Kup% 1 dla% 2 każdy
+Buy %1 for: ,Kup %1 dla:
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup %1 dla %2 każdego i <strong class = ""benefit""> zapisz <span class = ""percent tier- %3""> & nbsp; %4 </ span>% </ strong>"
+Buy %1 for %2 each,Kup %1 dla %2 każdy
 Shop By,Sklep przez
 Shopping Options,Opcje zakupów
 Compare Products,Porównaj produkty
@@ -595,12 +595,12 @@ Learn More,Ucz się więcej
 Add to Compare,Dodaj do porównania
 We found other products you might like!,"Znaleźliśmy inne produkty, które mogą Ci się spodobać!"
 More Choices:,Więcej opcji:
-Check items to add to the cart or,"Zaznacz elementy, które chcesz dodać do koszyka lub"
+Rachunek items to add to the cart or,"Zaznacz elementy, które chcesz dodać do koszyka lub"
 select all,Zaznacz wszystko
-Items %1-%2 of %3,Elementy% 1-% 2 z% 3
-%1 Item,% 1 Pozycja
-%1 Items,% 1 elementów
-Show,Pokazać
+Items %1-%2 of %3,Elementy %1- %2 z %3
+%1 Item, %1 Pozycja
+%1 Items, %1 elementów
+Show,Pokaż
 per page,na stronę
 Sort By,Sortuj według
 Set Ascending Direction,Ustaw kierunek rosnący
@@ -622,7 +622,7 @@ Please select items.,Proszę wybrać elementy.
 Choose existing category.,Wybierz istniejącą kategorię.
 Image Detail,Szczegóły obrazu
 Adding...,Dodawanie ...
-Added,W dodatku
+Added,Dodawanie
 does not implement Storage Interface,nie implementuje interfejsu pamięci masowej
 unselect all,odznacz wszystko
 Inventory,Inwentarz

@@ -41,8 +41,8 @@ Marketing,Marketing
 Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.,Szukanie synonimów nie jest wspierane przez %1 wyszukiwarkę
 This synonym group no longer exists.,Ta grupa synonimów już nie istnieje
 You saved the synonym group.,Zapisałeś grupę synonimów
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła (% 1) należą do 1 istniejącej grupy synonimów,% 2. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
-"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła (% 1) należą do% 2 istniejących grup synonimów,% 3 i% 4. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła ( %1) należą do 1 istniejącej grupy synonimów, %2. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Podane hasła ( %1) należą do %2 istniejących grup synonimów, %3 i %4. Zaznacz pole wyboru ""Połącz istniejące synonimy"", aby można je łączyć."
 You deleted the search.,Usunąłeś szukanie
 We can't find a search term to delete.,Nie możemy znaleźć warunków szukania do usunięcia
 This search no longer exists.,To szukanie nie istnieje
@@ -54,14 +54,14 @@ Search Terms Report,Zgłoszone warunki szukania
 You saved the search term.,Zapisałeś warunki szukania
 Something went wrong while saving the search query.,Coś poszło nie tak podczas zapisywania zapytania szukania
 You already have an identical search term query.,Masz już identyczne zapytanie o wyszukiwane hasło.
-"Your search query can't be longer than %1, so we shortened your query.","Twoje zapytanie nie może być dłuższe niż% 1, więc skróciliśmy zapytanie."
-Synonym group with id %1 cannot be deleted. %2,Nie można usunąć grupy synonimów %1 z identyfikatorem. % 2
-Merge conflict with existing synonym group(s): %1,Połącz konflikt z istniejącą grupą synonimów:% 1
+"Your search query can't be longer than %1, so we shortened your query.","Twoje zapytanie nie może być dłuższe niż %1, więc skróciliśmy zapytanie."
+Synonym group with id %1 cannot be deleted. %2,Nie można usunąć grupy synonimów %1 z identyfikatorem.  %2
+Merge conflict with existing synonym group(s): %1,Połącz konflikt z istniejącą grupą synonimów: %1
 All Websites,All Websites
     All Store Views,    All Store Views
 All Store Views,All Store Views
 Delete,Usuń
-Are you sure you want to delete synonym group with id: %1?,Czy na pewno chcesz usunąć grupę synonimów z identyfikatorem:% 1?
+Are you sure you want to delete synonym group with id: %1?,Czy na pewno chcesz usunąć grupę synonimów z identyfikatorem: %1?
 View/Edit,Podgląd/edycja
 Search entire store here...,Przeszukaj cały sklep tutaj.
 There are no search terms available.,Nie ma żadnych wyników wyszukiwania.

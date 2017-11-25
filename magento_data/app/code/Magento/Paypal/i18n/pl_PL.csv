@@ -27,7 +27,7 @@ Updated,Zaktualizowano
 Back,Plecy
 Are you sure you want to do this?,Czy na pewno chcesz to zrobić?
 Cancel,Anuluj
-Billing Agreement #%1,Umowa rozliczeniowa #% 1
+Billing Agreement #%1,Umowa rozliczeniowa # %1
 General Information,Informacje ogólne
 Related Orders,Powiązane zlecenia
 Order,Zamówienie
@@ -67,25 +67,25 @@ Reports,Raporty
 Sales,Obroty
 View Transaction,Wyświetl transakcję
 We found nothing to fetch because of an empty configuration.,Nie znaleźliśmy niczego do pobrania z powodu pustej konfiguracji.
-"We fetched %1 report rows from ""%2@%3.""","Pobrano% 1 raportu wierszy od ""% 2 @% 3""."
-"We can't fetch reports from ""%1@%2.""","Nie możemy pobrać raportów z ""% 1 @% 2""."
-"The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""% 1"" została anulowana."
-"The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""% 1"" została utworzona."
+"We fetched %1 report rows from ""%2@%3.""","Pobrano %1 raportu wierszy od "" %2 @ %3""."
+"We can't fetch reports from ""%1@%2.""","Nie możemy pobrać raportów z "" %1 @ %2""."
+"The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa "" %1"" została anulowana."
+"The billing agreement ""%1"" has been created.","Umowa rozliczeniowa "" %1"" została utworzona."
 We couldn't finish the billing agreement wizard.,Nie możemy ukończyć kreatora umów rozliczeniowych.
 We can't start the billing agreement wizard.,Nie możemy uruchomić kreatora umów rozliczeniowych.
-Billing Agreement # %1,Umowa rozliczeniowa #% 1
-We can't initialize Express Checkout.,Nie możemy zainicjować Express Checkout.
-PayPal Express Checkout Token does not exist.,Token realizacji transakcji PayPal Express nie istnieje.
-A wrong PayPal Express Checkout Token is specified.,Podano zły token ekspresowego do kasy PayPal Express.
-Express Checkout and Order have been canceled.,Ekspresowa realizacja transakcji i zamówienie zostały anulowane.
-Express Checkout has been canceled.,Ekspresowa realizacja transakcji została anulowana.
-Unable to cancel Express Checkout,Nie można anulować ekspresowej realizacji transakcji
+Billing Agreement # %1,Umowa rozliczeniowa # %1
+We can't initialize Express Rachunekout.,Nie możemy zainicjować Express Rachunekout.
+PayPal Express Rachunekout Token does not exist.,Token realizacji transakcji PayPal Express nie istnieje.
+A wrong PayPal Express Rachunekout Token is specified.,Podano zły token ekspresowego do kasy PayPal Express.
+Express Rachunekout and Order have been canceled.,Ekspresowa realizacja transakcji i zamówienie zostały anulowane.
+Express Rachunekout has been canceled.,Ekspresowa realizacja transakcji została anulowana.
+Unable to cancel Express Rachunekout,Nie można anulować ekspresowej realizacji transakcji
 Please agree to all the terms and conditions before placing the order.,Wyraź zgodę na wszystkie warunki przed złożeniem zamówienia.
 We can't place the order.,Nie możemy złożyć zamówienia.
-We can't process Express Checkout approval.,Nie możemy przetworzyć zgody na ekspresową realizację transakcji.
-We can't initialize Express Checkout review.,Nie możemy zainicjować recenzji Express Checkout.
+We can't process Express Rachunekout approval.,Nie możemy przetworzyć zgody na ekspresową realizację transakcji.
+We can't initialize Express Rachunekout review.,Nie możemy zainicjować recenzji Express Rachunekout.
 We can't update shipping method.,Nie możemy zaktualizować metody wysyłki.
-We can't start Express Checkout.,Nie możemy rozpocząć ekspresowej realizacji transakcji.
+We can't start Express Rachunekout.,Nie możemy rozpocząć ekspresowej realizacji transakcji.
 "To check out, please sign in with your email address.","Aby się wylogować, zaloguj się przy użyciu swojego adresu e-mail."
 "Sorry, but something went wrong","Przepraszamy, ale coś poszło nie tak"
 Your payment has been declined. Please try again.,Twoja płatność została odrzucona. Proszę spróbuj ponownie.
@@ -95,8 +95,8 @@ Would you like to sign a billing agreement to streamline further purchases with 
 Payment Gateway is unreachable at the moment. Please use another payment option.,Bramka płatności jest w tej chwili niedostępna. Użyj innej opcji płatności.
 PayPal response hasn't required fields.,Odpowiedź PayPal nie wymaga pól.
 Something went wrong while processing your order.,Coś poszło nie tak podczas przetwarzania Twojego zamówienia.
-PayPal gateway has rejected request. %1,Brama PayPal odrzuciła prośbę. % 1
-The PayPal gateway rejected the request. %1,Bramka PayPal odrzuciła żądanie. % 1
+PayPal gateway has rejected request. %1,Brama PayPal odrzuciła prośbę.  %1
+The PayPal gateway rejected the request. %1,Bramka PayPal odrzuciła żądanie.  %1
 I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.,"Przykro mi - ale nie mogliśmy przetworzyć Twojej płatności. Wypróbuj inną metodę płatności lub skontaktuj się z nami, abyśmy mogli Ci pomóc."
 I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.,"Przykro mi - ale nie jesteśmy w stanie ukończyć transakcji. Skontaktuj się z nami, abyśmy mogli Ci pomóc."
 "A match of the Shipping Address City, State, and Postal Code failed.","Nie udało się dopasować adresu dostawy Miasto, Państwo i Kod pocztowy."
@@ -131,10 +131,10 @@ Never,Nigdy
 IPN (Instant Payment Notification) Only,IPN (natychmiastowe powiadomienie o płatności)
 API Signature,Podpis API
 API Certificate,Certyfikat API
-The ordering amount of %1 is pending approval on the payment gateway.,Kwota zamówienia% 1 oczekuje na zatwierdzenie w bramce płatności.
-Ordered amount of %1,Zamówiona kwota% 1
-We'll authorize the amount of %1 as soon as the payment gateway approves it.,Autoryzujemy kwotę% 1 zaraz po zatwierdzeniu bramki płatności.
-The authorized amount is %1.,Autoryzowana kwota to% 1.
+The ordering amount of %1 is pending approval on the payment gateway.,Kwota zamówienia %1 oczekuje na zatwierdzenie w bramce płatności.
+Ordered amount of %1,Zamówiona kwota %1
+We'll authorize the amount of %1 as soon as the payment gateway approves it.,Autoryzujemy kwotę %1 zaraz po zatwierdzeniu bramki płatności.
+The authorized amount is %1.,Autoryzowana kwota to %1.
 The maximum number of child authorizations is reached.,Osiągnięto maksymalną liczbę autoryzacji podrzędnych.
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal nie może realizować zamówień z zerowym saldem należnym. Aby dokończyć zakup, przejdź przez standardowy proces realizacji transakcji."
 A payer is not identified.,Płatnik nie jest zidentyfikowany.
@@ -142,7 +142,7 @@ Cannot get secure form URL from PayPal,Nie można uzyskać bezpiecznego adresu U
 Last Transaction ID,Ostatni identyfikator transakcji
 This customer didn't include a confirmed address.,Ten klient nie podał potwierdzonego adresu.
 The payment is authorized but not settled.,"Płatność jest autoryzowana, ale nie rozliczana."
-The payment eCheck is not cleared.,Płatność eCheck nie została wyczyszczona.
+The payment eRachunek is not cleared.,Płatność eRachunek nie została wyczyszczona.
 The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.,Sprzedawca ma konto inne niż USA i nie ma mechanizmu wypłaty.
 The payment currency doesn't match any of the merchant's balances currency.,Waluta płatności nie pasuje do żadnej z walut salda kupca.
 The payment is pending while it is being reviewed by PayPal for risk.,"Płatność jest w toku, podczas gdy jest ona sprawdzana przez firmę PayPal pod kątem ryzyka."
@@ -176,7 +176,7 @@ Merchant Protection Eligibility,Kryteria ochrony sprzedawcy
 Triggered Fraud Filters,Wywoływane filtry oszustw
 Last Correlation ID,Ostatni identyfikator korelacji
 Address Verification System Response,Odpowiedź systemu weryfikacji
-CVV2 Check Result by PayPal,CVV2 Sprawdź wynik przez PayPal
+CVV2 Rachunek Result by PayPal,CVV2 Sprawdź wynik przez PayPal
 AVS Street Match,AVS Street Match
 AVS zip,Zip AVS
 International AVS response,Międzynarodowa odpowiedź AVS
@@ -219,16 +219,16 @@ N/A. Merchant has indicated that CVV2 is not present on card,"Nie dotyczy. Sprze
 CNPJ,CNPJ
 CPF,CPF
 Note: %1,Notatka 1
-"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""% 1"". Typ sprawy ""% 2"". Identyfikator sprawy ""% 3""% 4"
-"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""% 1"". Spór został rozwiązany i zamknięty. % 2 Kwota transakcji% 3."
-You notified customer about invoice #%1.,Powiadomiłeś klienta o fakturze nr% 1.
+"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN "" %1"". Typ sprawy "" %2"". Identyfikator sprawy "" %3"" %4"
+"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN "" %1"". Spór został rozwiązany i zamknięty.  %2 Kwota transakcji %3."
+You notified customer about invoice #%1.,Powiadomiłeś klienta o fakturze nr %1.
 We cannot cancel this order.,Nie możemy anulować tego zamówienia.
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""% 1"". % 2 Kwota transakcji% 3. Identyfikator transakcji: ""% 4"""
-You notified customer about creditmemo #%1.,Powiadomiłeś klienta o creditmemo #% 1.
-"IPN ""%1""","IPN ""% 1"""
-Payflow PNREF: #%1.,Payflow PNREF: #% 1.
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN "" %1"".  %2 Kwota transakcji %3. Identyfikator transakcji: "" %4"""
+You notified customer about creditmemo #%1.,Powiadomiłeś klienta o creditmemo # %1.
+"IPN ""%1""","IPN "" %1"""
+Payflow PNREF: #%1.,Payflow PNREF: # %1.
 Unable to fetch transaction details.,Nie można pobrać szczegółów transakcji.
-Invalid method %1::%2,Niepoprawna metoda% 1 ::% 2
+Invalid method %1::%2,Niepoprawna metoda %1 :: %2
 Transaction has been declined,transakcja została odrzucona
 Error processing payment. Please try again later.,Błąd podczas przetwarzania płatności. Spróbuj ponownie później.
 We cannot send the new order email.,Nie możemy wysłać nowego adresu e-mail dotyczącego zamówienia.
@@ -275,12 +275,12 @@ Debit Card Cash Back,Karta debetowa Cash Back
 Debit Card Transaction,Transakcja kartą debetową
 Direct Payment API,Direct Payment API
 EFT Funding (German banking),Finansowanie EFT (bankowość niemiecka)
-Express Checkout APIs,API Express Checkout
+Express Rachunekout APIs,API Express Rachunekout
 Fee Reversal,Odwrócenie opłaty
 Fee: Foreign ACH Withdrawal,Opłata: zagraniczne wypłaty ACH
 Fee: Mass Pay Request,Opłata: żądanie zapłaty za masę
 Fee: Web Site Payments Pro Account Monthly,Opłata: miesięczne konto usługi Web Site Payments Pro
-Fee: WorldLink Check Withdrawal,Opłata: czek zwrotny WorldLink
+Fee: WorldLink Rachunek Withdrawal,Opłata: czek zwrotny WorldLink
 Funding,Finansowanie
 General (Authorization),Ogólne (autoryzacja)
 General (Dividend),Ogólne (dywidenda)
@@ -339,7 +339,7 @@ eBay Auction Payment,Płatność aukcyjna w serwisie eBay
 The PayPal certificate file is empty.,Plik certyfikatu PayPal jest pusty.
 Header (center),Nagłówek (środek)
 Sidebar (right),Pasek boczny (po prawej)
-Near PayPal Credit checkout button,W pobliżu przycisku PayPal Credit Checkout
+Near PayPal Credit checkout button,W pobliżu przycisku PayPal Credit Rachunekout
 --Please Select--,--Proszę wybrać--
 Daily,Codziennie
 Every 3 days,Co 3 dni
@@ -350,7 +350,7 @@ Every 30 days,Co 30 dni
 Every 40 days,Co 40 dni
 No Logo,Brak logo
 Yes (PayPal recommends this option),Tak (PayPal zaleca tę opcję)
-Created billing agreement #%1.,Utworzono umowę rozliczeniową #% 1.
+Created billing agreement #%1.,Utworzono umowę rozliczeniową # %1.
 We can't create a billing agreement for this order.,Nie możemy utworzyć umowy rozliczeniowej dla tego zamówienia.
 Pending PayPal,Oczekuje na PayPal
 PayPal Reversed,PayPal odwrócił się
@@ -368,9 +368,9 @@ here,tutaj
  to learn more., uczyć się więcej.
 Important: ,Ważny:
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Aby korzystać z systemu PayPal Payments Advanced, należy skonfigurować konto PayPal Payments Advanced w serwisie PayPal."
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Po zalogowaniu się na swoje konto PayPal Zaawansowane, przejdź do Ustawień usługi - Hostowane strony transakcji - menu Ustawienia i ustaw opcje opisane poniżej"
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Rachunekout Pages - Set Up menu and set the options described below","Po zalogowaniu się na swoje konto PayPal Zaawansowane, przejdź do Ustawień usługi - Hostowane strony transakcji - menu Ustawienia i ustaw opcje opisane poniżej"
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Aby skorzystać z linku Pay Pay Pay, musisz skonfigurować konto PayP Pay w serwisie PayPal."
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",Po zalogowaniu się do konta PayPal Payflow Link przejdź do Ustawień usługi - Hosted Pages Pages - menu Ustawienia i ustaw opcje opisane poniżej
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Rachunekout Pages - Set Up menu and set the options described below",Po zalogowaniu się do konta PayPal Payflow Link przejdź do Ustawień usługi - Hosted Pages Pages - menu Ustawienia i ustaw opcje opisane poniżej
 Credit Card Type,Typ karty kredytowej
 Credit Card Number,numer karty kredytowej
 Expiration Date,Termin ważności
@@ -407,7 +407,7 @@ Buy now with PayPal,Kup teraz z PayPal
 Edit Payment Information,Edytuj informacje o płatności
 Items in Your Shopping Cart,Przedmioty w twoim koszyku
 Edit Shopping Cart,Edytuj koszyk
-Place Order,Złożyć zamówienie
+Place Order,Złóż zamówienie
 Submitting order information...,Przesyłam informacje o zamówieniu ...
 Item,Pozycja
 Price,Cena
@@ -415,7 +415,7 @@ Qty,Ilość
 Subtotal,Suma częściowa
 Please update order data to get shipping methods and rates,"Zaktualizuj dane zamówienia, aby uzyskać metody wysyłki i stawki"
 or,lub
-Checkout with PayPal,Zamówienie w systemie PayPal
+Rachunekout with PayPal,Zamówienie w systemie PayPal
 Please do not refresh the page until you complete payment.,"Nie odświeżaj strony, dopóki nie zakończysz płatności."
 You will be required to enter your payment details after you place an order.,Po złożeniu zamówienia konieczne będzie podanie szczegółów płatności.
 Continue,Kontyntynuj
@@ -441,19 +441,19 @@ Merchant Country,Kraj kupca
 Recommended Solutions:,Zalecane rozwiązania:
 Other PayPal Payment Solutions:,Inne rozwiązania w zakresie płatności PayPal:
 Other Payment Methods:,Inne metody płatności:
-PayPal Express Checkout,PayPal Express Checkout
+PayPal Express Rachunekout,PayPal Express Rachunekout
 Add another payment method to your existing solution or as a stand-alone option.,Dodaj kolejną metodę płatności do istniejącego rozwiązania lub jako samodzielną opcję.
 PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,Rozwiązania płatnicze typu all-in-one w systemie PayPal & nbsp; <i> Akceptuj i przetwarzaj karty kredytowe i płatności PayPal. </ I>
 Choose a secure bundled payment solution for your business.,Wybierz bezpieczne rozwiązanie do obsługi płatności pakietowych dla swojej firmy.
 Payments Pro,Płatności Pro
-Payments Pro and Express Checkout,Płatności Pro i ekspresowa realizacja transakcji
+Payments Pro and Express Rachunekout,Płatności Pro i ekspresowa realizacja transakcji
 Basic Settings - PayPal Payments Pro,Ustawienia podstawowe - PayPal Payments Pro
 PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>,Bramki płatności PayPal & nbsp; <i> Przetwarzaj płatności za pomocą własnego konta internetowego sprzedawcy. </ I>
 PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,Rozwiązania płatnicze typu all-in-one w systemie PayPal & nbsp; & nbsp; <i> Akceptuj i przetwarzaj karty kredytowe i płatności PayPal. </ I>
 Accept payments with a completely customizable checkout page.,Akceptuj płatności za pomocą strony zamówienia.
 Process payments using your own internet merchant account.,Przetwarzaj płatności za pomocą własnego konta internetowego sprzedawcy.
 Website Payments Pro,Płatności za pośrednictwem witryny Pro
-Express Checkout,Ekspresowa realizacja transakcji
+Express Rachunekout,Ekspresowa realizacja transakcji
 Add PayPal as an additional payment method to your checkout page.,Dodaj PayPal jako dodatkową metodę płatności na stronie kasy.
 Required PayPal Settings,Wymagane ustawienia PayPal
 Email Associated with PayPal Merchant Account (Optional),E-mail powiązany z kontem sprzedawcy PayPal (opcjonalnie)
@@ -472,7 +472,7 @@ API Uses Proxy,API wykorzystuje serwer proxy
 Proxy Host,Host proxy
 Proxy Port,Port proxy
 Enable this Solution,Włącz to rozwiązanie
-Enable In-Context Checkout Experience,Włącz doświadczenie w realizacji transakcji w kontekście
+Enable In-Context Rachunekout Experience,Włącz doświadczenie w realizacji transakcji w kontekście
 "
                     See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
@@ -482,10 +482,10 @@ Enable In-Context Checkout Experience,Włącz doświadczenie w realizacji transa
                 "
 Merchant Account ID,Identyfikator konta sprzedawcy
 Enable PayPal Credit,Włącz kredyt PayPal
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+"PayPal Express Rachunekout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
-                ","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                ","PayPal Express Rachunekout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
                 "
@@ -515,8 +515,8 @@ Position,Pozycja
 Size,Rozmiar
 Catalog Category Page,Strona kategorii katalogu
 Catalog Product Page,Strona katalogowa produktu
-Checkout Cart Page,Strona koszyka kasy
-Basic Settings - PayPal Express Checkout,Ustawienia podstawowe - PayPal Express Checkout
+Rachunekout Cart Page,Strona koszyka kasy
+Basic Settings - PayPal Express Rachunekout,Ustawienia podstawowe - PayPal Express Rachunekout
 Title,Tytuł
 "It is recommended to set this value to ""PayPal"" per store views.","Zaleca się ustawienie tej wartości na ""PayPal"" na wyświetlenia w sklepie."
 Sort Order,Porządek sortowania
@@ -540,7 +540,7 @@ Transfer Shipping Options,Przenieś opcje wysyłki
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Jeśli ta opcja jest włączona, klient może zmienić adres wysyłki i metodę wysyłki w witrynie PayPal. W trybie na żywo działa tylko za pośrednictwem protokołu HTTPS."
 Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.,"Zauważ, że PayPal może obsłużyć do 10 opcji wysyłki. Właśnie dlatego Magento przekaże tylko pierwsze 10 najtańszych opcji wysyłki, jeśli jest ich więcej niż 10."
 Shortcut Buttons Flavor,Przyciski skrótów
-Enable PayPal Guest Checkout,Włącz księgowanie Gość w systemie PayPal
+Enable PayPal Guest Rachunekout,Włącz księgowanie Gość w systemie PayPal
 Ability for buyer to purchase without PayPal account.,Możliwość kupowania bez konta PayPal.
 Require Customer's Billing Address,Wymagaj adresu rozliczeniowego klienta
 This feature needs be enabled first for the merchant account through PayPal technical support.,Ta funkcja musi być najpierw włączona dla konta sprzedawcy za pośrednictwem pomocy technicznej PayPal.
@@ -592,8 +592,8 @@ Page Background Color,Kolor tła strony
                             The background color for the checkout page around the header and payment form.
                         ",Kolor tła strony zamówienia w nagłówku i formularzu płatności.
 Payments Advanced,Płatności zaawansowane
-Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>),"Akceptuj płatności za pomocą transakcji zgodnej z PCI, która utrzymuje klientów w Twojej witrynie. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
-Payments Advanced and Express Checkout,Płatności zaawansowane i ekspresowa realizacja transakcji
+Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Rachunekout</u>),"Akceptuj płatności za pomocą transakcji zgodnej z PCI, która utrzymuje klientów w Twojej witrynie. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
+Payments Advanced and Express Rachunekout,Płatności zaawansowane i ekspresowa realizacja transakcji
 Partner,Partner
 Vendor,Sprzedawca
 User,Użytkownik
@@ -623,14 +623,14 @@ Require CVV Entry,Wymagaj wpisu CVV
 Send Email Confirmation,Wyślij potwierdzenie e-mailem
 URL method for Cancel URL and Return URL,Metoda URL dla Anuluj URL i Zwróć adres URL
 Payflow Link,Link do płatności
-Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>),"Połącz swoje konto sprzedawcy z bramą zgodną z PCI, która pozwala klientom płacić bez opuszczania Twojej witryny. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
-Payflow Link and Express Checkout,Link płatny i ekspresowa realizacja transakcji
+Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Rachunekout</u>),"Połącz swoje konto sprzedawcy z bramą zgodną z PCI, która pozwala klientom płacić bez opuszczania Twojej witryny. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
+Payflow Link and Express Rachunekout,Link płatny i ekspresowa realizacja transakcji
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Jeśli nie masz wielu użytkowników skonfigurowanych na swoim koncie, wprowadź ponownie tutaj swój Login sprzedawcy / sprzedawcy."
 Enable Payflow Link,Włącz łącze Payflow
-Enable Express Checkout,Włącz ekspresową realizację transakcji
+Enable Express Rachunekout,Włącz ekspresową realizację transakcji
 Basic Settings - PayPal Payflow Link,Ustawienia podstawowe - Paypal PayPala
 Website Payments Pro Hosted Solution,Rozwiązanie Hostowane za pośrednictwem witryny internetowej
-Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>),"Akceptuj płatności za pomocą transakcji zgodnej z PCI, która utrzymuje klientów w Twojej witrynie. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
+Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Rachunekout</u>),"Akceptuj płatności za pomocą transakcji zgodnej z PCI, która utrzymuje klientów w Twojej witrynie. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
 Payments Pro Hosted Solution,Rozwiązanie Pro Hosted Payments
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -648,11 +648,11 @@ Payments Pro Hosted Solution,Rozwiązanie Pro Hosted Payments
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 "
 Basic Settings - PayPal Payments Pro Hosted Solution,Ustawienia podstawowe - Rozwiązanie obsługiwane przez PayPal Payments Pro
-Display Express Checkout in the Payment Information step,Wyświetl ekspresową realizację transakcji na etapie informacji o płatności
-Website Payments Pro Hosted Solution and Express Checkout,Płatności za pośrednictwem witryny Pro Hosted Solution i Express Checkout
+Display Express Rachunekout in the Payment Information step,Wyświetl ekspresową realizację transakcji na etapie informacji o płatności
+Website Payments Pro Hosted Solution and Express Rachunekout,Płatności za pośrednictwem witryny Pro Hosted Solution i Express Rachunekout
 Basic Settings - PayPal Website Payments Pro Hosted Solution,Ustawienia podstawowe - rozwiązanie internetowe obsługiwane przez PayPal Payments Pro
 Payflow Pro,Payflow Pro
-Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>),"Połącz swoje konto sprzedawcy z w pełni konfigurowalną bramą, która pozwala klientom płacić bez opuszczania Twojej witryny. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
+Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Rachunekout</u>),"Połącz swoje konto sprzedawcy z w pełni konfigurowalną bramą, która pozwala klientom płacić bez opuszczania Twojej witryny. (<u> Obejmuje ekspresową realizację transakcji </ u>)"
 Vault Enabled,Vault jest włączony
 Basic Settings - PayPal Payflow Pro,Ustawienia podstawowe - PayPal Payflow Pro
 Vault Title,Tytuł Vault
@@ -667,7 +667,7 @@ AVS Street Does Not Match,Ulica AVS nie pasuje
 AVS Zip Does Not Match,Zip AVS nie pasuje
 Card Issuer Is Outside The United States,Wydawca karty jest poza Stanami Zjednoczonymi
 Card Security Code Does Not Match,Kod bezpieczeństwa karty nie pasuje
-Payflow Pro and Express Checkout,Payflow Pro i ekspresowa realizacja transakcji
+Payflow Pro and Express Rachunekout,Payflow Pro i ekspresowa realizacja transakcji
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing

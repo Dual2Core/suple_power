@@ -36,7 +36,7 @@ Rule,Reguła
 Start,Początek
 End,Koniec
 Status,Status
-%1 - Discounts and Coupons,% 1 - Rabaty i kupony
+%1 - Discounts and Coupons, %1 - Rabaty i kupony
 Coupons/Discounts,Kupony / rabaty
 Promotions,Promocje
 You deleted the rule.,Usunąłeś regułę.
@@ -47,7 +47,7 @@ Edit Rule,Edytuj regułę
 New Rule,Nowa zasada
 New Cart Price Rule,Nowa reguła ceny koszyka
 Rule is not defined,Reguła nie jest zdefiniowana
-%1 coupon(s) have been generated.,Wygenerowano% 1 kuponów.
+%1 coupon(s) have been generated.,Wygenerowano %1 kuponów.
 Invalid data provided,Podano nieprawidłowe dane
 Something went wrong while generating coupons. Please review the log and try again.,Coś poszło nie tak podczas generowania kuponów. Sprawdź dziennik i spróbuj ponownie.
 Catalog,Katalog
@@ -61,8 +61,8 @@ We cannot create the requested Coupon Qty. Please check your settings and try ag
 Specified rule does not allow coupons,Określona reguła nie zezwala na kupony
 Specified rule only allows auto generated coupons,Określona reguła zezwala tylko na kupony generowane automatycznie
 Specified rule does not allow auto generated coupons,Określona reguła nie zezwala na automatyczne generowanie kuponów
-Error occurred when saving coupon: %1,Wystąpił błąd podczas zapisywania kuponu:% 1
-Discount (%1),Rabat (% 1)
+Error occurred when saving coupon: %1,Wystąpił błąd podczas zapisywania kuponu: %1
+Discount (%1),Rabat ( %1)
 Discount,Zniżka
 Coupon with the same code,Kupon z tym samym kodem
 No Coupon,Bez kuponu
@@ -75,7 +75,7 @@ To Fixed Value,Do stałej wartości
 To Percentage,Do wartości procentowej
 By Fixed value,Według stałej wartości
 By Percentage,Według wartości procentowej
-Update product's %1 %2: %3,Zaktualizuj produkt% 1% 2:% 3
+Update product's %1 %2: %3,Zaktualizuj produkt %1 %2: %3
 Subtotal,Suma częściowa
 Total Items Quantity,Całkowita ilość produktów
 Total Weight,Waga całkowita
@@ -96,7 +96,7 @@ Cart Item Attribute,Atrybut pozycji koszyka
 Product Attribute,Atrybut produktu
 FOUND,UZNANY
 NOT FOUND,NIE ZNALEZIONO
-If an item is %1 in the cart with %2 of these conditions true:,Jeśli przedmiot jest% 1 w koszyku z% 2 z tych warunków jest prawdziwy:
+If an item is %1 in the cart with %2 of these conditions true:,Jeśli przedmiot jest %1 w koszyku z %2 z tych warunków jest prawdziwy:
 total quantity,całkowita ilość
 total amount,całkowita kwota
 is,jest
@@ -107,7 +107,7 @@ greater than,lepszy niż
 less than,mniej niż
 is one of,jest jednym z
 is not one of,nie jest jednym z nich
-If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,Jeśli% 1% 2% 3 dla podsekcji pozycji w koszyku odpowiadającym% 4 z tych warunków:
+If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,Jeśli %1 %2 %3 dla podsekcji pozycji w koszyku odpowiadającym %4 z tych warunków:
 Percent of product price discount,Procent obniżki ceny produktu
 Fixed amount discount,Stała zniżka ilościowa
 Fixed amount discount for whole cart,Stała zniżka dla całego koszyka
@@ -115,10 +115,10 @@ Buy X get Y free (discount amount is Y),Kup X get Y za darmo (kwota rabatu to Y)
 Active,Aktywny
 Inactive,Nieaktywny
 Specified rule does not allow automatic coupon generation,Określona reguła nie pozwala na automatyczne generowanie kuponów
-Error occurred when generating coupons: %1,Wystąpił błąd podczas generowania kuponów:% 1
+Error occurred when generating coupons: %1,Wystąpił błąd podczas generowania kuponów: %1
 Some coupons are invalid.,Niektóre kupony są nieprawidłowe.
 Item totals are not set for the rule.,Sumy elementów nie są ustawione dla reguły.
-"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","% 1 Reguły koszyka na zakupy oparte na atrybucie ""% 2"" zostały wyłączone."
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled."," %1 Reguły koszyka na zakupy oparte na atrybucie "" %2"" zostały wyłączone."
 Apply Discount Code,Zastosuj kod rabatowy
 Enter discount code,Wprowadź kod rabatowy
 Apply Discount,Zastosuj zniżkę

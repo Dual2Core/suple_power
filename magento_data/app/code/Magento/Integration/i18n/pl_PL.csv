@@ -33,7 +33,7 @@ Uninstall the extension to remove integration '%1'.,"Odinstaluj rozszerzenie, ab
 This integration no longer exists.,Ta integracja już nie istnieje.
 The integration '%1' has been deleted.,"Integracja "" %1"" została usunięta."
 Integration ID is not specified or is invalid.,Identyfikator integracji nie jest określony lub jest nieprawidłowy.
-Internal error. Check exception log for details.,"Błąd wewnętrzny. Sprawdź dziennik wyjątków, aby poznać szczegóły."
+Internal error. Rachunek exception log for details.,"Błąd wewnętrzny. Sprawdź dziennik wyjątków, aby poznać szczegóły."
 "View ""%1"" Integration","Zobacz integrację "" %1"""
 "Edit ""%1"" Integration","Edytuj integrację "" %1"""
 Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information,Ostrzeżenie! Integracje nie używające protokołu HTTPS są niepewne i potencjalnie mogą ujawnić prywatne lub osobiste informacje umożliwiające identyfikację
