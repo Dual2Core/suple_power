@@ -142,7 +142,7 @@ Cannot get secure form URL from PayPal,Nie można uzyskać bezpiecznego adresu U
 Last Transaction ID,Ostatni identyfikator transakcji
 This customer didn't include a confirmed address.,Ten klient nie podał potwierdzonego adresu.
 The payment is authorized but not settled.,"Płatność jest autoryzowana, ale nie rozliczana."
-The payment eRachunek is not cleared.,Płatność eRachunek nie została wyczyszczona.
+The payment eCheck is not cleared.,Płatność eCheck nie została wyczyszczona.
 The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.,Sprzedawca ma konto inne niż USA i nie ma mechanizmu wypłaty.
 The payment currency doesn't match any of the merchant's balances currency.,Waluta płatności nie pasuje do żadnej z walut salda kupca.
 The payment is pending while it is being reviewed by PayPal for risk.,"Płatność jest w toku, podczas gdy jest ona sprawdzana przez firmę PayPal pod kątem ryzyka."
