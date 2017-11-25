@@ -108,7 +108,7 @@ None,Żaden
 Field ,Pole
  is required., jest wymagane.
 USPS,USPS
-Enabled for Rachunekout,Włączono w celu realizacji transakcji
+Enabled for Checkout,Włączono w celu realizacji transakcji
 Gateway URL,Adres URL bramy
 Secure Gateway URL,Bezpieczny adres URL bramy
 Title,Tytuł

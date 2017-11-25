@@ -683,7 +683,7 @@ Sales Emails Section,Sekcja sprzedaży e-maili
 General,Generał
 Hide Customer IP,Ukryj adres IP klienta
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Wybierz, czy adres IP klienta jest wyświetlany w zamówieniach, fakturach, wysyłkach i notach kredytowych."
-Rachunekout Totals Sort Order,Zamówienie kolejności sortowania zamówienia
+Checkout Totals Sort Order,Zamówienie kolejności sortowania zamówienia
 Allow Reorder,Zezwalaj na zmianę kolejności
 Invoice and Packing Slip Design,Projekt faktur i opakowań spakowanych
 Logo for PDF Print-outs (200x50),Logo do wydruków PDF (200x50)
@@ -703,7 +703,7 @@ Include Tax to Amount,Uwzględnij podatek do kwoty
 Description Message,Opis Wiadomość
 This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.,"Ta wiadomość zostanie wyświetlona w koszyku, gdy suma częściowa (po obniżce) jest niższa niż minimalna dozwolona kwota."
 Error to Show in Shopping Cart,Błąd wyświetlania w koszyku
-Validate Each Address Separately in Multi-address Rachunekout,Potwierdź każdy adres oddzielnie w wielu adresach kasy
+Validate Each Address Separately in Multi-address Checkout,Potwierdź każdy adres oddzielnie w wielu adresach kasy
 Multi-address Description Message,Wiele adresów Opis Wiadomość
 We'll use the default description above if you leave this empty.,"Będziemy używać domyślnego opisu powyżej, jeśli pozostawisz to pole puste."
 Multi-address Error to Show in Shopping Cart,Błąd adresu wielokrotnego do wyświetlenia w koszyku
